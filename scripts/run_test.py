@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import tomllib
 import os
 import urllib.request
@@ -10,7 +11,7 @@ import common
 def main():
     repo_root = common.get_repo_root()
     java = common.check_java()
-    pack = repo_root / "pack_generated"
+    pack = common.get_generated_dir() / "pack"
     pack_toml_file = pack / "pack.toml"
     test_server_working = Path(common.env("WORK_DIR", default=(repo_root / "run")))
 
@@ -79,10 +80,13 @@ def main():
     
     # Accept eula
     if loader == "fabric":
-        with open(game_dir / "eula.txt", "w") as f:
-            f.write("eula=true")
+        eula = game_dir / "eula.txt"
     elif loader == "neoforge":
-        with open(minecraft_dir / "eula.txt", "w") as f:
+        eula = minecraft_dir / "eula.txt"
+    if not eula.exists():
+        eula.parent.mkdir(exist_ok=True, parents=True)
+        eula.touch()
+        with open(eula, "w") as f:
             f.write("eula=true")
 
     # Set up the packwiz and game dir

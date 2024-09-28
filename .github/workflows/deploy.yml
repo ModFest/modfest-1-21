@@ -86,5 +86,5 @@ jobs:
           url: https://theepicblock.nl/
           username: modfestghci
           password: ${{ secrets.TEB_WEBDAV_PASSWORD }}
-          local: "./pack_generated/"
+          local: "./generated/pack/"
           remote: "private/ModFest-1-21"
