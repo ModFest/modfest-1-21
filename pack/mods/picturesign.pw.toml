@@ -1,0 +1,13 @@
+name = "PictureSign"
+filename = "picturesign-neoforge-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9WP2dmkk/versions/A7AdttEg/picturesign-neoforge-2.0.1.jar"
+hash-format = "sha512"
+hash = "a836a6e05233037e975feddc15b7781462086bbea7e63ad621e2ac50bbcbe58ef76c6536b14f54b34c1494bbc28e5d18f1df14ad8a18f40cbd8bc12b19b45d92"
+
+[update]
+[update.modrinth]
+mod-id = "9WP2dmkk"
+version = "A7AdttEg"
