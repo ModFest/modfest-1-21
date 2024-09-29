@@ -80,11 +80,13 @@ jobs:
 
       # Deploy
 
-      - name: 🤳 Deploy website
-        uses: XPH0816/webdav-deploy-action@v0.3
+      - name: Configure pages
+        id: pages
+        uses: actions/configure-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
         with:
-          url: https://theepicblock.nl/
-          username: modfestghci
-          password: ${{ secrets.TEB_WEBDAV_PASSWORD }}
-          local: "./generated/pack/"
-          remote: "private/ModFest-1-21"
+          path: generated/pack/
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
