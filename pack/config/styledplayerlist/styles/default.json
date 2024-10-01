@@ -1,0 +1,20 @@
+{
+  "style_name": "Default",
+  "update_tick_time": 20,
+  "list_header": [
+    "",
+    "",
+    "<font:'modfest:icons'>-0</> <font:'unsanded:default'>ModFest",
+    "",
+    "<gr #3a4320 #1b402f><strikethrough>        </>[ </><#05e5c0>%server:online%<#284324>/</>%server:max_players%</><gr #1b402f #3a4320> ]<strikethrough>        </>",
+    ""
+  ],
+  "list_footer": [
+    "",
+    "<gr #3a4320 #1b402f #3a4320><strikethrough>                          </strikethrough></>",
+    "",
+    "<#cdff61>TPS: %server:tps_colored% <#1b402f>|</> <#cdff61>Ping: <#05e5c0>%player:ping%</>",
+    ""
+  ],
+  "hidden_in_commands": false
+}

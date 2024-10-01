@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "enableMultimediaSigns": true,
+  "audioDistanceMultiplier": 30,
+  "translucency": false,
+  "fullBrightPicture": false,
+  "helperUi": true,
+  "exceedVanillaLineLength": true,
+  "debug": false,
+  "maxThreads": 4,
+  "signRenderDistance": 64,
+  "safeMode": true,
+  "safeProviders": [
+	"https://modfest.b-cdn.net/"
+  ],
+  "safeGifProviders": [
+  ],
+  "safeMultimediaProviders": [
+  ],
+  "safeJsonProviders": [
+  ],
+  "missingImageMode": "BLACK",
+  "pictureShader": "PosColTexLight"
+}
