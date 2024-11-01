@@ -1,6 +1,6 @@
 {
     // The name used for pulling from ModFest's platform api
-    "event": null,
+    "event": "1.21",
     // The subdirectory in https://github.com/ModFest/art used for pulling the icon
     "art_id": "1.21",
 
