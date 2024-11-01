@@ -67,9 +67,9 @@ class JSONWithCommentsDecoder(json.JSONDecoder):
     def __init__(self, **kw):
         super().__init__(**kw)
 
-    def decode(self, s, _w):
+    def decode(self, s):
         s = '\n'.join(l if not l.lstrip().startswith('//') else '' for l in s.split('\n'))
-        return super().decode(s, _w)
+        return super().decode(s)
 
 def jsonc_at_home(input: str | bytes) -> Any:
     return json.loads(input, cls=JSONWithCommentsDecoder)
