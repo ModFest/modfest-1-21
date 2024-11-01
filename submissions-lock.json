@@ -54,6 +54,51 @@
     },
     "url": "https://cdn.modrinth.com/data/XYM4Qvhm/versions/w8it7Rjf/glowsheep-1.0.0%2Bneoforge_1.21.1.jar"
   },
+  "just_another_witchery_remake": {
+    "files": {
+      "architectury-api.pw.toml": {
+        "download": {
+          "hash": "65e3664953385d880320dd6bb818bcb96d361c07c53e2a7f65e64c6a47720ee26b233224ae9cad465ef0b2bbaefdaf30fb0175a983cecd91de058817d6fcf57e",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
+        },
+        "filename": "architectury-13.0.8-neoforge.jar",
+        "name": "Architectury API",
+        "side": "both"
+      },
+      "just-another-witchery-remake.pw.toml": {
+        "download": {
+          "hash": "fc3acfd4ca5defe4021c269a59df924e57d81f411397f84c8e53ec4e4d0b75d56ccf4cdecea0aafd50c61319d1a4dbf27973db5d931886988ea297936113b0f1",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/noScuzuz/witchery-neoforge-0.1.1b.jar"
+        },
+        "filename": "witchery-neoforge-0.1.1b.jar",
+        "name": "Just Another Witchery Remake",
+        "side": "both"
+      },
+      "kotlin-for-forge.pw.toml": {
+        "download": {
+          "hash": "daa6c6879d5c802dc70227293e15a8dad20b9557e9d2a160eabfc890ef1ed47d5dae9bad6a16be851a1ce50704caf20bb762f064cb315564ce5ad4909e8cb196",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/5Vlx7W4o/kotlinforforge-5.6.0-all.jar"
+        },
+        "filename": "kotlinforforge-5.6.0-all.jar",
+        "name": "Kotlin for Forge",
+        "side": "both"
+      },
+      "modonomicon.pw.toml": {
+        "download": {
+          "hash": "4c722f879e370960094b6df7b8c30a54ab971b582a109f316ce6dc2cb2b008ba4bcd271398865df8207f597fe019b11f443e7c4602fe48e83647aa6aca94e5c1",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/692GClaE/versions/ccdMqJpc/modonomicon-1.21.1-neoforge-1.108.2.jar"
+        },
+        "filename": "modonomicon-1.21.1-neoforge-1.108.2.jar",
+        "name": "Modonomicon",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/noScuzuz/witchery-neoforge-0.1.1b.jar"
+  },
   "legacy_buildcraft": {
     "files": {
       "legacy-buildcraft.pw.toml": {
