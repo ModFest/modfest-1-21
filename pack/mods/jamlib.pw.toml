@@ -1,13 +1,13 @@
 name = "JamLib"
-filename = "jamlib-neoforge-1.2.2+1.21.1.jar"
+filename = "jamlib-neoforge-1.0.11+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/phAG7F4U/jamlib-neoforge-1.2.2%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/ti4g9gmV/jamlib-neoforge-1.0.11%2B1.21.jar"
 hash-format = "sha512"
-hash = "24f8ae567ce56b247f3e7a4d7a677d85410228cc3d52ad1a5057081437c286a706023a3355ee36474c376fd41985159f0817cce01cca3e50a5a8a40afb587b20"
+hash = "3e7bbcc76a314a6224783f9705ebea67d90f3d0d6e1b79bcfeb07165f3fcf69daf1ab511757aae1b2a012e240f163db0bc76a57def19f3905f547cef32e50a04"
 
 [update]
 [update.modrinth]
 mod-id = "IYY9Siz8"
-version = "phAG7F4U"
+version = "ti4g9gmV"
