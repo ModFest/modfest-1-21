@@ -13,16 +13,16 @@
       },
       "chronoception.pw.toml": {
         "download": {
-          "hash": "9fbbb10462d6fccb9d4d471fdd56844c4cba48db3b337e7928b92d9920922a9327279bb57bd63d15d574e92099806a68bcc587fd95a517d5b8c03eff0b7b9329",
+          "hash": "7571b53c0a2356c13f2636edcdfd3a67a707a86e2e54be46631d8fc5af7c161d716ce16a2983873dae16edf86d929e5b5120a35fe54e55fccf4e989f832fa2ae",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/xlEusAGq/versions/XJBH1TJE/chronoception-fabric-1.1.0.jar"
+          "url": "https://cdn.modrinth.com/data/xlEusAGq/versions/URe4Yypw/chronoception-neoforge-1.1.0.jar"
         },
-        "filename": "chronoception-fabric-1.1.0.jar",
+        "filename": "chronoception-neoforge-1.1.0.jar",
         "name": "Chronoception",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/xlEusAGq/versions/XJBH1TJE/chronoception-fabric-1.1.0.jar"
+    "url": "https://cdn.modrinth.com/data/xlEusAGq/versions/URe4Yypw/chronoception-neoforge-1.1.0.jar"
   },
   "daysgoneby": {
     "files": {
@@ -98,6 +98,21 @@
       }
     },
     "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/noScuzuz/witchery-neoforge-0.1.1b.jar"
+  },
+  "kill_youkai_with_knives": {
+    "files": {
+      "kill-youkai-with-knives.pw.toml": {
+        "download": {
+          "hash": "620f5196b044515941f2800cda89c8fc3c1d553934146abf5c3fcdf0d24b9f1574fb5131514db8a387cc52bc5f7585be58e68382f32d35b32f08edd083a18720",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/ypJzvVd2/kill-youkai-with-knives-fabric-1.0.0%2B1.21.1.jar"
+        },
+        "filename": "kill-youkai-with-knives-fabric-1.0.0+1.21.1.jar",
+        "name": "Kill Youkai With Knives",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/ypJzvVd2/kill-youkai-with-knives-fabric-1.0.0%2B1.21.1.jar"
   },
   "legacy_buildcraft": {
     "files": {

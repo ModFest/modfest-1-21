@@ -3,8 +3,6 @@
 # if the id does not refer to a submission
 
 # References client class
-chronoception
-# References client class
 unstable_timepiece
 # Has a mixin which should be marked as client. But isn't
 moretraps
