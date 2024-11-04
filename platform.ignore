@@ -1,3 +1,23 @@
 # A list of submissions which should not be imported into the resulting pack
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
+
+# References client class
+unstable_timepiece
+# Has a mixin which should be marked as client. But isn't
+moretraps
+# Mixin failure?
+fbombs
+
+# References client class
+legacy_buildcraft
+minimal_exchange
+armistice
+craftsense
+# Depends on smth which references a client class (I think??)
+unearth
+
+# Some issue with the fragment shader
+sakuracake
+# Unknown freezing issue
+plastar
