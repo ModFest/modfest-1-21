@@ -39,6 +39,36 @@
     },
     "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/EE2NYftf/armistice-1.0.0-SNAPSHOT3.jar"
   },
+  "bubblelife": {
+    "files": {
+      "bubblelife.pw.toml": {
+        "download": {
+          "hash": "bb250bceef790e6e148f96ff8abf1340456d819cd9650dba43c067ebf14071b08f0a531fb31c7ce54c1b36fc6ad6efc43ccd13e5273e33510a06559bfe54d8b9",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/qADVwRLo/bubblelife-1.0.jar"
+        },
+        "filename": "bubblelife-1.0.jar",
+        "name": "Life in a Bubble",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/qADVwRLo/bubblelife-1.0.jar"
+  },
+  "charta": {
+    "files": {
+      "charta.pw.toml": {
+        "download": {
+          "hash": "7e88f6302b50ad6dab22fd290d75d7959cd15554790dfef1f9c57cf8fa27f59fa4e3021771a608dc28ca5eeecfae0d2337136eace8b3521abd1f6103496cd22b",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/vjDkoniZ/charta-0.1-ALPHA.jar"
+        },
+        "filename": "charta-0.1-ALPHA.jar",
+        "name": "Charta",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/vjDkoniZ/charta-0.1-ALPHA.jar"
+  },
   "chickensaurs": {
     "files": {
       "chickensaurs.pw.toml": {
@@ -198,6 +228,21 @@
       }
     },
     "url": "https://cdn.modrinth.com/data/A2S1kKiU/versions/tAMR2lVR/days-gone-by-1.0.0.jar"
+  },
+  "dissolution": {
+    "files": {
+      "dissolution.pw.toml": {
+        "download": {
+          "hash": "cdd72fcd622f948f99c834e21383b8ed04f798ff4bf29da105b946432630c570340ed80a724968722c5d405c71256bdbb7079fd3fe59013dc5f853786c820bd6",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/gVB8tSZY/versions/NBGZp7Ef/dissolution-1.0.0.jar"
+        },
+        "filename": "dissolution-1.0.0.jar",
+        "name": "Dissolution",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/gVB8tSZY/versions/NBGZp7Ef/dissolution-1.0.0.jar"
   },
   "familiar_magic": {
     "files": {
@@ -379,20 +424,35 @@
     },
     "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/aZnb1CS5/kill-youkai-with-knives-neoforge-1.0.0%2B1.21.1.jar"
   },
+  "kinetic_weaponry": {
+    "files": {
+      "kinetic-weaponry.pw.toml": {
+        "download": {
+          "hash": "232674b596ea9bee2e8b9ab1c9bc1a93f785d20ad147844cb4aa27a5b0ac249de7fec132cbb3510ddc98025f5ea234a39745c463327f02fe8ff92dea58dbddcc",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/RU6UrHbu/kinetic_weaponry-1.0.0-neoforge-1.21.1.jar"
+        },
+        "filename": "kinetic_weaponry-1.0.0-neoforge-1.21.1.jar",
+        "name": "Kinetic Weaponry",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/RU6UrHbu/kinetic_weaponry-1.0.0-neoforge-1.21.1.jar"
+  },
   "legacy_buildcraft": {
     "files": {
       "legacy-buildcraft.pw.toml": {
         "download": {
-          "hash": "d0666cd6eed228aa2dcbff5451709954c235c37eb2c5fa61c59f9314a81572ad37704e57cf6e06f173a05085253d75eb24b944b38185a73b1e41c766c97e0db0",
+          "hash": "96f9f8f21a6add12efe2806954a83c217de5b548f3d240ec956a6a8f7e966bd5989dfd045a11a560b288eb93e37574470d0f7be9d2020f9c9317977f94ec94bd",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/EpFiZsH9/buildcraft-1.0.2.jar"
+          "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/LFpkN4qo/buildcraft-1.0.3.jar"
         },
-        "filename": "buildcraft-1.0.2.jar",
+        "filename": "buildcraft-1.0.3.jar",
         "name": "Buildcraft-Legacy",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/EpFiZsH9/buildcraft-1.0.2.jar"
+    "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/LFpkN4qo/buildcraft-1.0.3.jar"
   },
   "legacy_landscape": {
     "files": {
@@ -668,16 +728,16 @@
     "files": {
       "rewindwatch.pw.toml": {
         "download": {
-          "hash": "fd1cfba4fe55c07c2530c40ab0f9d2e3f9caea55c1176f3615ae67cc0af127c0f576fd9aae4b292a18358b156da14021fa4dae5b1994e5dd1f5efc346940fa1f",
+          "hash": "89d2ed7639f0c53000d49f7a9694f7c11388c810b2e261eecb537440b9b95e0a037e3e1056b2bd91ebe31a14f6a3666017840de6c6ddbab6687ac2a9673a1d9b",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/9TIvoEkj/versions/4RTmu3n9/rewindwatch-1.0.0.jar"
+          "url": "https://cdn.modrinth.com/data/9TIvoEkj/versions/gM8kOMnB/rewindwatch-1.0.2.jar"
         },
-        "filename": "rewindwatch-1.0.0.jar",
+        "filename": "rewindwatch-1.0.2.jar",
         "name": "Rewind Watch",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/9TIvoEkj/versions/4RTmu3n9/rewindwatch-1.0.0.jar"
+    "url": "https://cdn.modrinth.com/data/9TIvoEkj/versions/gM8kOMnB/rewindwatch-1.0.2.jar"
   },
   "rods_from_god": {
     "files": {
@@ -808,16 +868,16 @@
     "files": {
       "super_mod.pw.toml": {
         "download": {
-          "hash": "0fe37307e4877708f3e811defd70eb0d71bdd9b0c683b8d25892bdf21ef54720414736a5d9a4b22711b63e4352eb462fc1a145449870fcdbb412e12176908694",
+          "hash": "c97d9b6d4f9b1ec2514afc91d104e2d58bce0b5a89698063348c7d69e00f9ee3d54c085717ea424c2eee364e918ed955b50f87df6464ad9952500fe049f2acba",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/ZrynUBHW/super_mod-1.1.0.jar"
+          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/kdW8E3uA/super_mod-1.1.1.jar"
         },
-        "filename": "super_mod-1.1.0.jar",
+        "filename": "super_mod-1.1.1.jar",
         "name": "SuperMod",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/ZrynUBHW/super_mod-1.1.0.jar"
+    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/kdW8E3uA/super_mod-1.1.1.jar"
   },
   "tanglr": {
     "files": {
@@ -848,6 +908,21 @@
       }
     },
     "url": "https://cdn.modrinth.com/data/5babTvQV/versions/wuRuVP4S/temporang-1.0.2.jar"
+  },
+  "the_arcane_path_of_chemistry": {
+    "files": {
+      "the-arcane-path-of-chemistry.pw.toml": {
+        "download": {
+          "hash": "74fdeb38ffacae4ec872b6be01e5359f2bf9cc24057bb197a2276c31597b96533db8c0ab884d9d327fcd995c92719f26bb07f7906c5244c699201f6fe8ee4e1d",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/hoF3KiNM/arcane_chemistry-1.0.0-Neoforge-1.21.2-1.21.1.jar"
+        },
+        "filename": "arcane_chemistry-1.0.0-Neoforge-1.21.2-1.21.1.jar",
+        "name": "The Arcane path of Chemistry",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/hoF3KiNM/arcane_chemistry-1.0.0-Neoforge-1.21.2-1.21.1.jar"
   },
   "timewarp": {
     "files": {
@@ -903,5 +978,20 @@
       }
     },
     "url": "https://cdn.modrinth.com/data/Xt9hp0ch/versions/lJ4dddL9/unstable_timepiece-1.0.1%2B1.21.jar"
+  },
+  "wandering_rana": {
+    "files": {
+      "wandering-rana.pw.toml": {
+        "download": {
+          "hash": "478da738a0dfd109a01b042b141d5654be6b5ba5de7cdc98a5444bd0ae582bed85685703cdd935fe42a7feef03aa4a401eb87d4672bd14a4b925acdef1f22876",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/5R8Qlz9L/versions/XL1iumuJ/WanderingRana-fabric-0.1.0%2B1.21.1.jar"
+        },
+        "filename": "WanderingRana-fabric-0.1.0+1.21.1.jar",
+        "name": "Wandering Rana",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/5R8Qlz9L/versions/XL1iumuJ/WanderingRana-fabric-0.1.0%2B1.21.1.jar"
   }
 }
