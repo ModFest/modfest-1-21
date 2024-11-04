@@ -6,3 +6,13 @@
 unstable_timepiece
 # Has a mixin which should be marked as client. But isn't
 moretraps
+# Mixin failure?
+fbombs
+
+# References client class
+legacy_buildcraft
+minimal_exchange
+armistice
+craftsense
+# Depends on smth which references a client class (I think??)
+unearth
