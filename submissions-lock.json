@@ -203,16 +203,16 @@
       },
       "dated-draughts.pw.toml": {
         "download": {
-          "hash": "1bf802e71b5c7d3c0359c8a2190570391b699f23e30345b448e9cadfcdd48aec0c945f9171cc4c17c9e273265a72f3f4ad825d14a9f00dabe65cd0a80a0e1e21",
+          "hash": "d54ae46560372ef01862144f4c86e7440cbdec6a0ef3df5ba66a44db16ff621e0c17534a1a6164808669e89cb914c1b68e835fe8ca752ab261ce0af8f9a152e3",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/VLrtW1GN/versions/U9Xt8Fbo/dated_draughts-neoforge-0.2.1.jar"
+          "url": "https://cdn.modrinth.com/data/VLrtW1GN/versions/L7q2sOXT/dated_draughts-neoforge-0.2.2-sgd.jar"
         },
-        "filename": "dated_draughts-neoforge-0.2.1.jar",
+        "filename": "dated_draughts-neoforge-0.2.2-sgd.jar",
         "name": "Dated Draughts",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/VLrtW1GN/versions/U9Xt8Fbo/dated_draughts-neoforge-0.2.1.jar"
+    "url": "https://cdn.modrinth.com/data/VLrtW1GN/versions/L7q2sOXT/dated_draughts-neoforge-0.2.2-sgd.jar"
   },
   "daysgoneby": {
     "files": {
@@ -378,11 +378,11 @@
       },
       "just-another-witchery-remake.pw.toml": {
         "download": {
-          "hash": "ba8afe7d7d8d2ec23b2daf6ddef7c4072afa3fa3b7935b3e79f355129baf15eeeb600753b1a76a18b036f4c446203e25078b8448ef7ed7e0188234f38e1db650",
+          "hash": "5296dee7caaa745b703980631768fda849e653638bf4de71f4c7babb17bc0be0bd3d2db016fe94467b6a1b8d4ca07e5e3a3433642ddddfdd3aef9a2ccf022157",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/dyhBQfRW/witchery-neoforge-0.1.2.jar"
+          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/k7VATqNo/witchery-neoforge-0.1.2b.jar"
         },
-        "filename": "witchery-neoforge-0.1.2.jar",
+        "filename": "witchery-neoforge-0.1.2b.jar",
         "name": "Just Another Witchery Remake",
         "side": "both"
       },
@@ -407,7 +407,7 @@
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/dyhBQfRW/witchery-neoforge-0.1.2.jar"
+    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/k7VATqNo/witchery-neoforge-0.1.2b.jar"
   },
   "kill_youkai_with_knives": {
     "files": {
@@ -458,16 +458,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "6e05a612ea03244bc122c2a1051d9d47ebe2a8a2b5670df1f0dcb289162a2aa01f82a9b9c59ad4070a8ac457028a07971bebff4597c53df0742f378173c59668",
+          "hash": "e597ee3f039061fcda6bfbf77f7e4e0ffcbf239d1ec90c74607bceb0b2fb49822d66e96c0c28b5afcbdf07af78f5deba461c8ca2da7c1d3e857b7cfe97fc266d",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/wNLjOjuJ/legacy_landscape-0.4.1%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/NQ4QuvZn/legacy_landscape-0.5.1%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.4.1+1.21.1.jar",
+        "filename": "legacy_landscape-0.5.1+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/wNLjOjuJ/legacy_landscape-0.4.1%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/NQ4QuvZn/legacy_landscape-0.5.1%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
