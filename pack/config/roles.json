@@ -30,7 +30,7 @@
             }
         }
     },
-    "fixer": {
+    "builder": {
         "level": 10,
         "overrides": {
             "permission_level": 2,
@@ -53,18 +53,6 @@
                 "summon.*": "allow",
                 "rregion.*": "allow",
                 "kill.*": "deny"
-            }
-        }
-    },
-    "builder": {
-        "level": 5,
-        "overrides": {
-            "permission_keys": {
-                "modfest.builder": "allow",
-                "scattered_shards.command.uncollect.*": "allow"
-            },
-            "commands": {
-                "gamemode adventure": "allow"
             }
         }
     },
