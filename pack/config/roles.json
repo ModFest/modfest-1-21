@@ -41,7 +41,8 @@
                 "scattered_shards.command.uncollect.*": "allow",
                 "scattered_shards.command.block": "allow",
                 "scattered_shards.modify_shard": "allow",
-                "armor_stand_editor.*": "allow"
+                "armor_stand_editor.*": "allow",
+                "legacy_landscape.vanish": "allow"
             },
             "command_feedback": true,
             "entity_selectors": false,
