@@ -52,8 +52,7 @@
                 "fill.*": "allow",
                 "setblock.*": "allow",
                 "summon.*": "allow",
-                "rregion.*": "allow",
-                "kill.*": "deny"
+                "rregion.*": "allow"
             }
         }
     },
