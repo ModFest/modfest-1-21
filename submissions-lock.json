@@ -1,4 +1,19 @@
 {
+  "5_hour_energy": {
+    "files": {
+      "5-hour-energy.pw.toml": {
+        "download": {
+          "hash": "53ec97e814d54c7e1b6f55ba0ffd3d7c6b2db8e32c2044adc2fd8d921fb22fc8079289d07424df6f7f18e398c3cbed5da1a25677ffa94171e656dbc1ceaf82f5",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/UTw9dIz3/versions/25bOXe6H/five-hour-energy-1.0.1.jar"
+        },
+        "filename": "five-hour-energy-1.0.1.jar",
+        "name": "5 Hour Energy",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/UTw9dIz3/versions/25bOXe6H/five-hour-energy-1.0.1.jar"
+  },
   "amys_industrious_mod": {
     "files": {
       "amys-industrious-mod.pw.toml": {
@@ -18,16 +33,26 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "cc339fb54c3e988d3838354d8f3b3cfe7025256dae8ab2cb4d8b6f0c12b55b3cd003910a1c73174a4efde83a7d67826aa56a61400cc7c620a81a2b1d1974f640",
+          "hash": "493104dd8f5234d79a896f1760e366cd3b366628efc5d379743ecfdd3764e1694cd13e5dd3b49140247be8b4e2a533d03ae51e0d10eb3c5808dc1851095579f8",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/p9eYk2HB/armistice-1.0.0-SNAPSHOT4.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/BJTVxBX7/armistice-1.0.0-SNAPSHOT7.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT4.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT7.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
+      },
+      "fusion-connected-textures.pw.toml": {
+        "download": {
+          "hash": "d81d0f2cf8582a72148d8b768d3542df7e821a6c6e1af693886efa0a8acee9d1f2e8b5a10891be82b406e579c05fa5a893838d131f2305db78da503c00149b51",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Z8Hlv22C/fusion-1.1.1a-neoforge-mc1.21.jar"
+        },
+        "filename": "fusion-1.1.1a-neoforge-mc1.21.jar",
+        "name": "Fusion (Connected Textures)",
+        "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/p9eYk2HB/armistice-1.0.0-SNAPSHOT4.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/BJTVxBX7/armistice-1.0.0-SNAPSHOT7.jar"
   },
   "bubblelife": {
     "files": {
@@ -48,16 +73,16 @@
     "files": {
       "charta.pw.toml": {
         "download": {
-          "hash": "7e88f6302b50ad6dab22fd290d75d7959cd15554790dfef1f9c57cf8fa27f59fa4e3021771a608dc28ca5eeecfae0d2337136eace8b3521abd1f6103496cd22b",
+          "hash": "65b7d0e47f082304ed25980409b36e4de59df11660fbf9e5be5e157c7358d4e3fea7234ae79a144b9fdcbfb3f1139ec2d9846c50fd37945e14e2d61f2c78b2ba",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/vjDkoniZ/charta-0.1-ALPHA.jar"
+          "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/dAQxzMEN/charta-0.2-ALPHA.jar"
         },
-        "filename": "charta-0.1-ALPHA.jar",
+        "filename": "charta-0.2-ALPHA.jar",
         "name": "Charta",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/vjDkoniZ/charta-0.1-ALPHA.jar"
+    "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/dAQxzMEN/charta-0.2-ALPHA.jar"
   },
   "chickensaurs": {
     "files": {
@@ -98,16 +123,16 @@
       },
       "chronoception.pw.toml": {
         "download": {
-          "hash": "3b1cfc26d46196d6cc82759babe339bcc7bf5216c8025c93983772920293a8e8788f7cc657e1b27dc4c2f491d59deebc87f722bbb390ae0fa2a6d158d448c94b",
+          "hash": "c580dbcd541c600f274061bbb29b840ba0edfe44269f11af030a27c2884c15cb041bcd4f19827fced8836c45bca816390c6ee550692512565ef54f5106c4ceb6",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/xlEusAGq/versions/9iPH1JnX/chronoception-neoforge-1.2.0.jar"
+          "url": "https://cdn.modrinth.com/data/xlEusAGq/versions/ZoFSm0aN/chronoception-neoforge-1.2.2.jar"
         },
-        "filename": "chronoception-neoforge-1.2.0.jar",
+        "filename": "chronoception-neoforge-1.2.2.jar",
         "name": "Chronoception",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/xlEusAGq/versions/9iPH1JnX/chronoception-neoforge-1.2.0.jar"
+    "url": "https://cdn.modrinth.com/data/xlEusAGq/versions/ZoFSm0aN/chronoception-neoforge-1.2.2.jar"
   },
   "colourful_clocks": {
     "files": {
@@ -368,11 +393,11 @@
       },
       "just-another-witchery-remake.pw.toml": {
         "download": {
-          "hash": "5296dee7caaa745b703980631768fda849e653638bf4de71f4c7babb17bc0be0bd3d2db016fe94467b6a1b8d4ca07e5e3a3433642ddddfdd3aef9a2ccf022157",
+          "hash": "07a62065c7da2e20bb03e303333888af6fc06892c654b18b7d366467dd3ed5ca4905297cb5301b7564f8b4bcb2beb032214ab074f412cd64427aae4b1387a9ac",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/k7VATqNo/witchery-neoforge-0.1.2b.jar"
+          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/qetydqQH/witchery-neoforge-0.1.2c.jar"
         },
-        "filename": "witchery-neoforge-0.1.2b.jar",
+        "filename": "witchery-neoforge-0.1.2c.jar",
         "name": "Just Another Witchery Remake",
         "side": "both"
       },
@@ -397,7 +422,7 @@
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/k7VATqNo/witchery-neoforge-0.1.2b.jar"
+    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/qetydqQH/witchery-neoforge-0.1.2c.jar"
   },
   "kill_youkai_with_knives": {
     "files": {
@@ -543,6 +568,21 @@
       }
     },
     "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/SJ8o8OCQ/minimal_exchange-1.0.1.jar"
+  },
+  "modernutils": {
+    "files": {
+      "modernutils.pw.toml": {
+        "download": {
+          "hash": "a36f3f9f11ff5686149a06e8164056fe38f6345511f9c748002ea5c5428aa122ab75986f9db6b17fc9c2819f123db0938ad416846bb513b8bca4ce6712c4f5d0",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/vMT3XqvJ/modernutils-0.0.1.jar"
+        },
+        "filename": "modernutils-0.0.1.jar",
+        "name": "ModernUtils",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/vMT3XqvJ/modernutils-0.0.1.jar"
   },
   "moretraps": {
     "files": {
@@ -718,31 +758,31 @@
     "files": {
       "rewindwatch.pw.toml": {
         "download": {
-          "hash": "89d2ed7639f0c53000d49f7a9694f7c11388c810b2e261eecb537440b9b95e0a037e3e1056b2bd91ebe31a14f6a3666017840de6c6ddbab6687ac2a9673a1d9b",
+          "hash": "59432186388fcb886fdd3e37e3ff993ae8f5973da7e51684493ee54681ec030cf12c76e596bd49535de86acae5806625b0a5e580049e25bcff1e7def20858996",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/9TIvoEkj/versions/gM8kOMnB/rewindwatch-1.0.2.jar"
+          "url": "https://cdn.modrinth.com/data/9TIvoEkj/versions/krUZWn8Z/rewindwatch-1.0.3.jar"
         },
-        "filename": "rewindwatch-1.0.2.jar",
+        "filename": "rewindwatch-1.0.3.jar",
         "name": "Rewind Watch",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/9TIvoEkj/versions/gM8kOMnB/rewindwatch-1.0.2.jar"
+    "url": "https://cdn.modrinth.com/data/9TIvoEkj/versions/krUZWn8Z/rewindwatch-1.0.3.jar"
   },
   "rods_from_god": {
     "files": {
       "rods-from-god.pw.toml": {
         "download": {
-          "hash": "89fc675d17b7735d7c18031a7c7fb26b7cf71f431b951d403e97006e341182504dbdb03f7cd5282bd8d209733b0e116856ef6850932c517a5ddecac9d2732de3",
+          "hash": "d667640f79a4316c9bef895b11f9c46fbfc34b59ca6046e86a9cf811085c0f1ac33d1f52b6ea2b07041e9040141f93db0e1dc0d25d295ef5c4f5c7be9fe84e1b",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/ICV1smMQ/rods_from_god-1.0.5.jar"
+          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/XS4pBv1M/rods_from_god-1.0.6.jar"
         },
-        "filename": "rods_from_god-1.0.5.jar",
+        "filename": "rods_from_god-1.0.6.jar",
         "name": "Rods from God",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/ICV1smMQ/rods_from_god-1.0.5.jar"
+    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/XS4pBv1M/rods_from_god-1.0.6.jar"
   },
   "roehrchen": {
     "files": {
@@ -763,16 +803,16 @@
     "files": {
       "sakuracake.pw.toml": {
         "download": {
-          "hash": "b926b3266824739af340503fe99976d6e75a1f1c7e57a8475924104f64f276b436137cee4a302a2596a78a8c5fac7cb7862d40e6f313458809f20f92de013784",
+          "hash": "fa94e4d715da43d9c8c3b78388793059a955fa6c4640a19561aac5d89a45d33d42a0532eb24d90311934ff9566a3c1f9260ba3ffb3cd4211c82bb69f5d7855e9",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/sD0o2a5A/sakuracake-1.0.0-alpha.1%2Bpatch.2-neoforge%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/gZgDwtj7/sakuracake-1.0.0-alpha.1%2Bpatch.4-neoforge%2B1.21.1.jar"
         },
-        "filename": "sakuracake-1.0.0-alpha.1+patch.2-neoforge+1.21.1.jar",
+        "filename": "sakuracake-1.0.0-alpha.1+patch.4-neoforge+1.21.1.jar",
         "name": "SakuraCake",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/sD0o2a5A/sakuracake-1.0.0-alpha.1%2Bpatch.2-neoforge%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/gZgDwtj7/sakuracake-1.0.0-alpha.1%2Bpatch.4-neoforge%2B1.21.1.jar"
   },
   "shattered_stopwatch": {
     "files": {
@@ -921,28 +961,18 @@
   },
   "unearth": {
     "files": {
-      "lodestonelib.pw.toml": {
-        "download": {
-          "hash": "8a6ce30300e04d4047ac6a9dacde769e5dc1471c93604d7468742cfab1bb13a383b7cf11ccbe003e7ea4561a466afb5ef46e20890ac6dd891aa695bad556221a",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/RUgF5U4F/lodestone-1.21.1-1.7.0.jar"
-        },
-        "filename": "lodestone-1.21.1-1.7.0.jar",
-        "name": "Lodestone",
-        "side": "both"
-      },
       "unearth.pw.toml": {
         "download": {
-          "hash": "12f9592313354b43a3a6eda8b5f3de735b9d7daa3808a00e7f86dd0d74e7ce147dd95ad915aa9a83ca0cd9fd412a0d2616dc3fdb3bd2bc4481ad53cb126c7c10",
+          "hash": "8389804eca69b7f902cd2c71ae3e1b58efbf36e13d7b363e6ea62402ac4306db240cd1017ca130f4ce1795def9371eed462be7e97c2cf5fa147459550f8bc444",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/aK10HizP/versions/398bJJqD/unearth-1.0.2.jar"
+          "url": "https://cdn.modrinth.com/data/aK10HizP/versions/zPkxWF8q/unearth-1.0.4.jar"
         },
-        "filename": "unearth-1.0.2.jar",
+        "filename": "unearth-1.0.4.jar",
         "name": "Unearth",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/aK10HizP/versions/398bJJqD/unearth-1.0.2.jar"
+    "url": "https://cdn.modrinth.com/data/aK10HizP/versions/zPkxWF8q/unearth-1.0.4.jar"
   },
   "unstable_timepiece": {
     "files": {
@@ -963,15 +993,15 @@
     "files": {
       "wandering-rana.pw.toml": {
         "download": {
-          "hash": "478da738a0dfd109a01b042b141d5654be6b5ba5de7cdc98a5444bd0ae582bed85685703cdd935fe42a7feef03aa4a401eb87d4672bd14a4b925acdef1f22876",
+          "hash": "fe01c416e4a989c1b9f880a35d69b867588eed412149325c619febdc76df79c0dee1d86bf900df44e4f8fcc58af934eebf942b1fa0c1f31fb6b2e1b1ec2f610d",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/5R8Qlz9L/versions/XL1iumuJ/WanderingRana-fabric-0.1.0%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/5R8Qlz9L/versions/8pmYYO6a/WanderingRana-neoforge-0.1.0%2B1.21.1.jar"
         },
-        "filename": "WanderingRana-fabric-0.1.0+1.21.1.jar",
+        "filename": "WanderingRana-neoforge-0.1.0+1.21.1.jar",
         "name": "Wandering Rana",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/5R8Qlz9L/versions/XL1iumuJ/WanderingRana-fabric-0.1.0%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/5R8Qlz9L/versions/8pmYYO6a/WanderingRana-neoforge-0.1.0%2B1.21.1.jar"
   }
 }
