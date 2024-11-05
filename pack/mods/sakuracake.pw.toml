@@ -1,0 +1,13 @@
+name = "SakuraCake"
+filename = "sakuracake-1.0.0-alpha.1+patch.4-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6gkyPuKT/versions/gZgDwtj7/sakuracake-1.0.0-alpha.1%2Bpatch.4-neoforge%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "4687b5e2cda6888d5af31bb202b01394ef03c254"
+
+[update]
+[update.modrinth]
+mod-id = "6gkyPuKT"
+version = "gZgDwtj7"

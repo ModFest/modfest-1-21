@@ -1,0 +1,13 @@
+name = "Armistice: the Peace Engines"
+filename = "armistice-1.0.0-SNAPSHOT5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J85FGh0c/versions/ka3fGPui/armistice-1.0.0-SNAPSHOT5.jar"
+hash-format = "sha1"
+hash = "946d6fdf1277f4505b579fe3a6343d2124b94421"
+
+[update]
+[update.modrinth]
+mod-id = "J85FGh0c"
+version = "ka3fGPui"
