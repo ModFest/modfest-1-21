@@ -518,16 +518,16 @@
     "files": {
       "minefactorial.pw.toml": {
         "download": {
-          "hash": "7e0ad4a17a8d04a599c8cca82cad320fdc351d24663862df07ac45b76ea3bbe9da3f1538ad36ffb39fba41b452214ca03a1308d04731ae81459dcee567088d82",
+          "hash": "f76edc9897e21ee0cda9152112f4971729d9fbd4f657dc222ec68d441f521787e8420c86d9212db3366ed8fce67c43b02d9959f78c471741607e9ec0b66af3fb",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/4sjHMjq5/versions/DKVehv3M/minefactorial-0.1-modfest.jar"
+          "url": "https://cdn.modrinth.com/data/4sjHMjq5/versions/yOb70ayL/minefactorial-0.1.1-modfest.jar"
         },
-        "filename": "minefactorial-0.1-modfest.jar",
+        "filename": "minefactorial-0.1.1-modfest.jar",
         "name": "MineFactorial",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/4sjHMjq5/versions/DKVehv3M/minefactorial-0.1-modfest.jar"
+    "url": "https://cdn.modrinth.com/data/4sjHMjq5/versions/yOb70ayL/minefactorial-0.1.1-modfest.jar"
   },
   "minimal_exchange": {
     "files": {
@@ -761,28 +761,18 @@
   },
   "sakuracake": {
     "files": {
-      "forgified-fabric-api.pw.toml": {
-        "download": {
-          "hash": "7046fc4701a678d4e3bd4561dc632289a3ddd35637cb34a48acbb03f7b563f54e4843c37842d02f65341a1db512cd665372988473313f16db8a9d71a1ada63dd",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/2bxEYAKi/forgified-fabric-api-0.104.0%2B2.0.15%2B1.21.1.jar"
-        },
-        "filename": "forgified-fabric-api-0.104.0+2.0.15+1.21.1.jar",
-        "name": "Forgified Fabric API",
-        "side": "both"
-      },
       "sakuracake.pw.toml": {
         "download": {
-          "hash": "06aeb9ac6262ffd41b67eb71e516f3e8f646b2cb79514966a34776021c089e344f4d66efc344528620a7e7fdb7dfc4a63916e2c3117422cb37f08d0d291c9d19",
+          "hash": "b926b3266824739af340503fe99976d6e75a1f1c7e57a8475924104f64f276b436137cee4a302a2596a78a8c5fac7cb7862d40e6f313458809f20f92de013784",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/djkROhm6/sakuracake-1.0.0-alpha.1%2Bpatch.1-neoforge%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/sD0o2a5A/sakuracake-1.0.0-alpha.1%2Bpatch.2-neoforge%2B1.21.1.jar"
         },
-        "filename": "sakuracake-1.0.0-alpha.1+patch.1-neoforge+1.21.1.jar",
+        "filename": "sakuracake-1.0.0-alpha.1+patch.2-neoforge+1.21.1.jar",
         "name": "SakuraCake",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/djkROhm6/sakuracake-1.0.0-alpha.1%2Bpatch.1-neoforge%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/sD0o2a5A/sakuracake-1.0.0-alpha.1%2Bpatch.2-neoforge%2B1.21.1.jar"
   },
   "shattered_stopwatch": {
     "files": {
