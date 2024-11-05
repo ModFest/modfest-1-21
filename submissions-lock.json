@@ -253,16 +253,16 @@
     "files": {
       "fbombs.pw.toml": {
         "download": {
-          "hash": "1059c3623da4be882724ba278cb22eaab53658b16c4c9ee70128282d5d8a112e57f8459134474d6b53c6d4cf842fc2e011fb49d4c9e8729b1692bc71a8d77ff3",
+          "hash": "a07f5d9b00f3003ec5c0942e5a58a7f6c524bfbae7c12fb3fd342fbce3151d4093262368679cf2c3b7fed0d3292c05128fde410a42bce0cbcb86189af4dedbc6",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/JCPNf2Zx/fbombs-1.0.0%2B1.21.jar"
+          "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/GMVLWsql/fbombs-1.0.1%2B1.21.jar"
         },
-        "filename": "fbombs-1.0.0+1.21.jar",
+        "filename": "fbombs-1.0.1+1.21.jar",
         "name": "FBombs",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/JCPNf2Zx/fbombs-1.0.0%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/GMVLWsql/fbombs-1.0.1%2B1.21.jar"
   },
   "foup": {
     "files": {

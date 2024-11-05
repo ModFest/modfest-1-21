@@ -4,8 +4,6 @@
 
 # Has a mixin which should be marked as client. But isn't
 moretraps
-# Mixin failure?
-fbombs
 
 # References client class
 legacy_buildcraft
