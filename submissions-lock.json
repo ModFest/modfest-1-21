@@ -18,26 +18,16 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "9a39f42394961fa29b90a303a36b2a4c1996b62ca402f395dd28ad763371c0638b58a49a5b4a188898c8da5e0284ba8f8ac27038d2998d5c5c60f3aae987770c",
+          "hash": "cc339fb54c3e988d3838354d8f3b3cfe7025256dae8ab2cb4d8b6f0c12b55b3cd003910a1c73174a4efde83a7d67826aa56a61400cc7c620a81a2b1d1974f640",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/EE2NYftf/armistice-1.0.0-SNAPSHOT3.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/p9eYk2HB/armistice-1.0.0-SNAPSHOT4.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT3.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT4.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
-      },
-      "fusion-connected-textures.pw.toml": {
-        "download": {
-          "hash": "d81d0f2cf8582a72148d8b768d3542df7e821a6c6e1af693886efa0a8acee9d1f2e8b5a10891be82b406e579c05fa5a893838d131f2305db78da503c00149b51",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Z8Hlv22C/fusion-1.1.1a-neoforge-mc1.21.jar"
-        },
-        "filename": "fusion-1.1.1a-neoforge-mc1.21.jar",
-        "name": "Fusion (Connected Textures)",
-        "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/EE2NYftf/armistice-1.0.0-SNAPSHOT3.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/p9eYk2HB/armistice-1.0.0-SNAPSHOT4.jar"
   },
   "bubblelife": {
     "files": {
