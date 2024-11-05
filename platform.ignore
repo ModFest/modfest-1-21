@@ -8,8 +8,6 @@ moretraps
 # References client class
 legacy_buildcraft
 minimal_exchange
-# Depends on smth which references a client class (I think??)
-unearth
 
 # Unknown freezing issue
 plastar
