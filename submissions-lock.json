@@ -803,16 +803,16 @@
     "files": {
       "sakuracake.pw.toml": {
         "download": {
-          "hash": "fa94e4d715da43d9c8c3b78388793059a955fa6c4640a19561aac5d89a45d33d42a0532eb24d90311934ff9566a3c1f9260ba3ffb3cd4211c82bb69f5d7855e9",
+          "hash": "ab46ade9c4f8064ed5c7717d4b3fb4b69361f1ac480e3192e88d24e3bc4d19dda850f46403dcf0d4f54793489a2b3dadd833c1c31960f313d426f74422f70fe6",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/gZgDwtj7/sakuracake-1.0.0-alpha.1%2Bpatch.4-neoforge%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/SWAdZnSr/sakuracake-1.0.0-alpha.1%2Bpatch.7-neoforge%2B1.21.1.jar"
         },
-        "filename": "sakuracake-1.0.0-alpha.1+patch.4-neoforge+1.21.1.jar",
+        "filename": "sakuracake-1.0.0-alpha.1+patch.7-neoforge+1.21.1.jar",
         "name": "SakuraCake",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/gZgDwtj7/sakuracake-1.0.0-alpha.1%2Bpatch.4-neoforge%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/SWAdZnSr/sakuracake-1.0.0-alpha.1%2Bpatch.7-neoforge%2B1.21.1.jar"
   },
   "shattered_stopwatch": {
     "files": {
