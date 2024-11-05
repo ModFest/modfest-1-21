@@ -1,0 +1,7 @@
+name = "ModernUtils"
+filename = "modernutils-0.0.1.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/6h1fK7Va/versions/vMT3XqvJ/modernutils-0.0.1.jar"
+hash-format = "sha256"
+hash = "9c0b2fec46c47604431039cdb7c3c5a6d728db41e4839193c74ea88be9746439"
