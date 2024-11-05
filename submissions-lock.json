@@ -588,11 +588,11 @@
     "files": {
       "moretraps.pw.toml": {
         "download": {
-          "hash": "82635369b37da5111e8ace6f3c78925508813e323f4bc3688bbc0a62d64ca57da5465dcbcc97c1563a7d6d2415e128642e12878fe7fbdbc94bb9b0588cc261e0",
+          "hash": "084b3b39651d022415970aa53f1f5cc0f97f0877010df748403e9c037602d4f4a04d64eb1a72ac7aa3ca3cfd2e86f5148964ba913836b9b7bae9f68a70b433c7",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/JaeCrIFa/versions/MiHkeM3N/moretraps-fabric-1.21-0.1.0.jar"
+          "url": "https://cdn.modrinth.com/data/JaeCrIFa/versions/FdI3UYXw/moretraps-neoforge-1.21-0.1.2.jar"
         },
-        "filename": "moretraps-fabric-1.21-0.1.0.jar",
+        "filename": "moretraps-neoforge-1.21-0.1.2.jar",
         "name": "MoreTraps",
         "side": "server"
       },
@@ -607,7 +607,7 @@
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/JaeCrIFa/versions/MiHkeM3N/moretraps-fabric-1.21-0.1.0.jar"
+    "url": "https://cdn.modrinth.com/data/JaeCrIFa/versions/FdI3UYXw/moretraps-neoforge-1.21-0.1.2.jar"
   },
   "mystcraft_ageless": {
     "files": {
