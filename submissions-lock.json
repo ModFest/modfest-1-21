@@ -323,16 +323,16 @@
     "files": {
       "gastroarchaeology.pw.toml": {
         "download": {
-          "hash": "d3cd1307df1326187a63299a2055518cbc036f28e8836af1c387c3972349eee8d45032af4a5a763434ab6cd40f91b3ef46431dc4cd90a19b1f3df91847d6c93a",
+          "hash": "c215200c44e8263a8ca418a0b85bef9c483086972df4ea0d2b051a13d3f78fb0bcd80b9e28d64a70b1b21e3154bb8e180095053b00b89133edd9c4461beee475",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/wi0aCfgi/gastroarchaeology-0.0.1.jar"
+          "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/Qx2DZz2S/gastroarchaeology-0.1.0.jar"
         },
-        "filename": "gastroarchaeology-0.0.1.jar",
+        "filename": "gastroarchaeology-0.1.0.jar",
         "name": "Gastroarchaeology",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/wi0aCfgi/gastroarchaeology-0.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/Qx2DZz2S/gastroarchaeology-0.1.0.jar"
   },
   "glowbricks_printing_press_mod": {
     "files": {
@@ -458,16 +458,16 @@
     "files": {
       "legacy-buildcraft.pw.toml": {
         "download": {
-          "hash": "96f9f8f21a6add12efe2806954a83c217de5b548f3d240ec956a6a8f7e966bd5989dfd045a11a560b288eb93e37574470d0f7be9d2020f9c9317977f94ec94bd",
+          "hash": "755907c5bc6c3ac4ce822b21aebe8e515847f8b6e19283857816efdb70e9d208842859c9bb60735a469678752ed2347414e96959a814dc1f38772d07c110dbb5",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/LFpkN4qo/buildcraft-1.0.3.jar"
+          "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/OfBvaqlI/buildcraft-1.0.4.jar"
         },
-        "filename": "buildcraft-1.0.3.jar",
+        "filename": "buildcraft-1.0.4.jar",
         "name": "Buildcraft-Legacy",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/LFpkN4qo/buildcraft-1.0.3.jar"
+    "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/OfBvaqlI/buildcraft-1.0.4.jar"
   },
   "legacy_landscape": {
     "files": {
@@ -558,16 +558,16 @@
     "files": {
       "minimal-exchange.pw.toml": {
         "download": {
-          "hash": "c74afcea26d728317fd64a64cf7e554c980018ff077fbde069c132388592e991d1de1b0712db999b12eeae071ff11af2a14fb73d8ec818a302337183a0b5b278",
+          "hash": "1ce1791a4511dfc15335d3387da0ac3934f61333316ff7f0c1400ccc084be80c126117ca6979054d08244d0282730fa05c53db454b61b4f0a9a3d1ccde3d164f",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/SJ8o8OCQ/minimal_exchange-1.0.1.jar"
+          "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/zlYAv14M/minimal_exchange-1.0.2.jar"
         },
-        "filename": "minimal_exchange-1.0.1.jar",
+        "filename": "minimal_exchange-1.0.2.jar",
         "name": "Minimal-Exchange",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/SJ8o8OCQ/minimal_exchange-1.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/zlYAv14M/minimal_exchange-1.0.2.jar"
   },
   "modernutils": {
     "files": {
