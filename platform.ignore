@@ -8,7 +8,6 @@ moretraps
 # References client class
 legacy_buildcraft
 minimal_exchange
-craftsense
 # Depends on smth which references a client class (I think??)
 unearth
 
@@ -24,3 +23,6 @@ tanglr
 
 # Wacky channel issue
 modernutils
+
+# This mod has been added manually, see its .pw.toml
+craftsense

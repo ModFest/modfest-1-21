@@ -1,0 +1,15 @@
+# This mod is manually added because it should *not* be loaded on the dedicated server
+
+name = "CraftSense"
+filename = "craftsense-1.21-v1.0.3.jar"
+side = "client" # Important!
+
+[download]
+url = "https://cdn.modrinth.com/data/btPzz1Xc/versions/HgA9bXPU/craftsense-1.21-v1.0.3.jar"
+hash-format = "sha512"
+hash = "4e6c55b52383fd2280a51c4be2e8c8f87c797d30da8b810675f5e77329a5aa72b5825c35672ca0e1678ac4919630a17148383415d1b2502be83ea87562188dee"
+
+[update]
+[update.modrinth]
+mod-id = "btPzz1Xc"
+version = "HgA9bXPU"
