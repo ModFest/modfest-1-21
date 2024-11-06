@@ -1,15 +1,13 @@
-# This mod is required for super_mod, but packwiz can't automatically find it
-
 name = "Area Lib"
-filename = "area_lib-0.0.1.jar"
+filename = "area_lib-0.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IBuXDbma/versions/kPEy5M3b/area_lib-0.0.1.jar"
-hash-format = "sha512"
-hash = "5a499fb8762bd840f50b2243d13047a24b9f9043644f93b7c1c32aedae61e53a3d34ea2e5366732706d929c4e3f983fc9588aa2284039e42a9cda92fea7b3a1c"
+url = "https://cdn.modrinth.com/data/IBuXDbma/versions/4eQnU7A7/area_lib-0.0.2.jar"
+hash-format = "sha1"
+hash = "5af1afab08e52f3d3d990a8c5d4669d60ec5ca3b"
 
 [update]
 [update.modrinth]
 mod-id = "IBuXDbma"
-version = "kPEy5M3b"
+version = "4eQnU7A7"

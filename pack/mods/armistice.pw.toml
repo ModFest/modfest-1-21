@@ -1,13 +1,13 @@
 name = "Armistice: the Peace Engines"
-filename = "armistice-1.0.0-SNAPSHOT9.jar"
+filename = "armistice-1.0.0-SNAPSHOT10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/J85FGh0c/versions/TDl3t5P6/armistice-1.0.0-SNAPSHOT9.jar"
+url = "https://cdn.modrinth.com/data/J85FGh0c/versions/Kg4dsAGE/armistice-1.0.0-SNAPSHOT10.jar"
 hash-format = "sha1"
-hash = "a178e0e716e6b143e0f6b1a18531446bea3be22f"
+hash = "2426db93f1ff62eb0ff4478dc0939954796182ca"
 
 [update]
 [update.modrinth]
 mod-id = "J85FGh0c"
-version = "TDl3t5P6"
+version = "Kg4dsAGE"

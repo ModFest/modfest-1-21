@@ -3,7 +3,7 @@
 # if the id does not refer to a submission
 
 # IO Exception
-super_mod
+#super_mod
 
 # References client class
 legacy_buildcraft
@@ -13,7 +13,7 @@ minimal_exchange
 plastar
 
 # Issue with CCA
-rods_from_god
+#rods_from_god
 
 # I skill issued the performance so bad I need to temporarily remove my own mod,
 # does that give me an advancement?
