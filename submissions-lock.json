@@ -168,16 +168,16 @@
     "files": {
       "crimes-against-the-jvm.pw.toml": {
         "download": {
-          "hash": "815dd4446c7daa5f3a1717ff780713e53af65a3d5a883e237c91be1ae2991371269f983287492779c1921117722042a071c57fbbb9bacfbbe6c3fce3c7dd54c5",
+          "hash": "0edbe034fb15070d575636aebd1815fe4b2e691752a4aaf4fc334212bf08fe754c8f55a261ba84faf9c584d10e76dfc92e436ab2bc49c206c32209984028f2ec",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qn08mIXQ/versions/PYcBYfXO/catj-1.0.0.jar"
+          "url": "https://cdn.modrinth.com/data/qn08mIXQ/versions/ASfYBSF3/catj-1.0.0.jar"
         },
         "filename": "catj-1.0.0.jar",
         "name": "Crimes Against the JVM",
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qn08mIXQ/versions/PYcBYfXO/catj-1.0.0.jar"
+    "url": "https://cdn.modrinth.com/data/qn08mIXQ/versions/ASfYBSF3/catj-1.0.0.jar"
   },
   "cyberninja": {
     "files": {
@@ -573,16 +573,16 @@
     "files": {
       "modernutils.pw.toml": {
         "download": {
-          "hash": "a36f3f9f11ff5686149a06e8164056fe38f6345511f9c748002ea5c5428aa122ab75986f9db6b17fc9c2819f123db0938ad416846bb513b8bca4ce6712c4f5d0",
+          "hash": "345c2d8f9aff7d15385551385e92d0a1eb0a9dbeb85337bd5d6b4fec4423ab05542f1e8599a5262f08515bd3be5d73125d960d04707ece207d89d2a8c0416aea",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/vMT3XqvJ/modernutils-0.0.1.jar"
+          "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/WxxNO9yA/modernutils-0.0.2.jar"
         },
-        "filename": "modernutils-0.0.1.jar",
+        "filename": "modernutils-0.0.2.jar",
         "name": "ModernUtils",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/vMT3XqvJ/modernutils-0.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/WxxNO9yA/modernutils-0.0.2.jar"
   },
   "moretraps": {
     "files": {
@@ -623,16 +623,16 @@
       },
       "mystcraft-ageless.pw.toml": {
         "download": {
-          "hash": "ee87a076bbf6c97a9fa902d824a23d6eed1e3430406c3b1356a04322318411796499b33648dede27f69ebd8c229f09a24e629f1eb4338cd9355aaa2e937460ac",
+          "hash": "e7f3b9032386b9eab0f90b3ba3c4a787f20debc78865999c3ca840881567ac88d1fd791a88dc8d13137cc9b3812046b9ee236a4da5cc362a8db77e299332c859",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/NmzrTHXN/mystcraft_ageless-0.2.2-alpha.jar"
+          "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/ks5ueunB/mystcraft_ageless-0.2.3-alpha.jar"
         },
-        "filename": "mystcraft_ageless-0.2.2-alpha.jar",
+        "filename": "mystcraft_ageless-0.2.3-alpha.jar",
         "name": "Mystcraft: Ageless",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/NmzrTHXN/mystcraft_ageless-0.2.2-alpha.jar"
+    "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/ks5ueunB/mystcraft_ageless-0.2.3-alpha.jar"
   },
   "nyctography": {
     "files": {
@@ -713,16 +713,16 @@
       },
       "past-el-palettes.pw.toml": {
         "download": {
-          "hash": "c1dea09aa158a4c1f9ecedcee8a0a19d0114007dcbf36894623976c1914b3f1289d316ea291247716028e12857722bd54e97efa0112f27e6e2cb32cee4bedd72",
+          "hash": "04fff9810da6ec40cef78606a1163b8ba2ee5cbe4163d4bf3967662401b362a678041e19af1f601d0d73493275f9ab0a8c8151133dc291f6efb9fef9c1a3ddc4",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/3AvyzCh4/versions/w1W5hYFJ/past_el_palettes-1.0.1.jar"
+          "url": "https://cdn.modrinth.com/data/3AvyzCh4/versions/gsiYEI5b/past_el_palettes-1.0.2.jar"
         },
-        "filename": "past_el_palettes-1.0.1.jar",
+        "filename": "past_el_palettes-1.0.2.jar",
         "name": "Past-el Palettes",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/3AvyzCh4/versions/w1W5hYFJ/past_el_palettes-1.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/3AvyzCh4/versions/gsiYEI5b/past_el_palettes-1.0.2.jar"
   },
   "plastar": {
     "files": {
@@ -918,16 +918,16 @@
     "files": {
       "temporang.pw.toml": {
         "download": {
-          "hash": "03ffa10bcd8f7a858a0cc55a53045ef3d50fb2002c147bb5927d24a37392a174a8ec18250638bbd6c6ef2279321d3558da9defac7f291736e1c0609672bd055d",
+          "hash": "4416fda7c5f657931654085bd6a18e6a175696ae287526eb59d34c208d483749f250fa1ad49ef2023977f93c15c2960d5298fff27068f24c48855bfcdaf35433",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/5babTvQV/versions/wuRuVP4S/temporang-1.0.2.jar"
+          "url": "https://cdn.modrinth.com/data/5babTvQV/versions/iATWEIoA/temporang-1.0.4.jar"
         },
-        "filename": "temporang-1.0.2.jar",
+        "filename": "temporang-1.0.4.jar",
         "name": "Temporang",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/5babTvQV/versions/wuRuVP4S/temporang-1.0.2.jar"
+    "url": "https://cdn.modrinth.com/data/5babTvQV/versions/iATWEIoA/temporang-1.0.4.jar"
   },
   "the_arcane_path_of_chemistry": {
     "files": {
