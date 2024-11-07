@@ -1,0 +1,13 @@
+name = "Just Another Witchery Remake"
+filename = "witchery-neoforge-0.1.2e.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LCO8KZvC/versions/4IZ5PnFz/witchery-neoforge-0.1.2e.jar"
+hash-format = "sha1"
+hash = "631b9b10b9de9e95c70508a296cc0a9d98a57ab8"
+
+[update]
+[update.modrinth]
+mod-id = "LCO8KZvC"
+version = "4IZ5PnFz"
