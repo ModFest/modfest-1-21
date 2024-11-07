@@ -983,16 +983,16 @@
     "files": {
       "unearth.pw.toml": {
         "download": {
-          "hash": "756a7df75ec509eaa506a54c048db016e266836afbeb6e237335cf3eebf753a56361059ac78ee75bf2ab48cc14ee97b703c1a2c613d660a86a7268829ef821c7",
+          "hash": "e8b4b34a4c1dd637d2beac711ea714297bbc1017bb78f280dd87f4ddcc741618319b837ae73797c48ce6624a8949b22cee99ba9f09c27021508aac3b190d9a9b",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/aK10HizP/versions/OAudMgvj/unearth-1.0.5.jar"
+          "url": "https://cdn.modrinth.com/data/aK10HizP/versions/diunSaUI/unearth-1.21.1-1.0.8.jar"
         },
-        "filename": "unearth-1.0.5.jar",
+        "filename": "unearth-1.21.1-1.0.8.jar",
         "name": "Unearth",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/aK10HizP/versions/OAudMgvj/unearth-1.0.5.jar"
+    "url": "https://cdn.modrinth.com/data/aK10HizP/versions/diunSaUI/unearth-1.21.1-1.0.8.jar"
   },
   "unstable_timepiece": {
     "files": {
