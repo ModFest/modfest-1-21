@@ -47,7 +47,7 @@ def main():
     lock_data = {k:v for k,v in lock_data.items() if (k in submissions_by_id)}
     
     # Loop through all submissions
-    rate_limit = common.Ratelimiter(5)
+    rate_limit = common.Ratelimiter(1)
     for mod_id in submissions_by_id:
         platform_info = submissions_by_id[mod_id]
         lock_info = lock_data.get(mod_id) # Might be None
