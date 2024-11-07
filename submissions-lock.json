@@ -73,16 +73,16 @@
     "files": {
       "charta.pw.toml": {
         "download": {
-          "hash": "65b7d0e47f082304ed25980409b36e4de59df11660fbf9e5be5e157c7358d4e3fea7234ae79a144b9fdcbfb3f1139ec2d9846c50fd37945e14e2d61f2c78b2ba",
+          "hash": "bd1f8ed0cd2ef063b078ac537a43f5f7970db9a7a093b7dc7a0e40d21d135abb0ebfe2d4e1c4ac68d65bfa33d30c23a54e6174f98863b4d128f80edb3f970b8f",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/dAQxzMEN/charta-0.2-ALPHA.jar"
+          "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/FiVIMpQX/charta-0.3-ALPHA.jar"
         },
-        "filename": "charta-0.2-ALPHA.jar",
+        "filename": "charta-0.3-ALPHA.jar",
         "name": "Charta",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/dAQxzMEN/charta-0.2-ALPHA.jar"
+    "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/FiVIMpQX/charta-0.3-ALPHA.jar"
   },
   "chickensaurs": {
     "files": {
@@ -293,16 +293,16 @@
     "files": {
       "foup.pw.toml": {
         "download": {
-          "hash": "19b7ea25b71c8a5d69762e403bf5951250355b8824f631987943b1ce2cec009c5b84e4fa842b53304c85280a06b789de4d3a4284b7a833d62fb884e6b7dc09ae",
+          "hash": "8a8c749817a7db6c3d1c29ab6e364bf2e10902e2373a5303d3703fcf12907b7091afbd206d5c0c4eb10af7cac42a3a963e993bee85ea60188c84e1aeb7b4343b",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/7cOHPDDo/foup-0.2.2.jar"
+          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/ih3NrZ1p/foup-0.2.3.jar"
         },
-        "filename": "foup-0.2.2.jar",
+        "filename": "foup-0.2.3.jar",
         "name": "FOUP",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/7cOHPDDo/foup-0.2.2.jar"
+    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/ih3NrZ1p/foup-0.2.3.jar"
   },
   "future_things": {
     "files": {
@@ -473,16 +473,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "e597ee3f039061fcda6bfbf77f7e4e0ffcbf239d1ec90c74607bceb0b2fb49822d66e96c0c28b5afcbdf07af78f5deba461c8ca2da7c1d3e857b7cfe97fc266d",
+          "hash": "18b33249a1a3fca3d80d998b53954ffcd36d3f6ccadbfae33f6ee687dc6643fb3d7738c8cf902d3da9fd874bceba7053381008035b5bcdcc6c1c92be769f5ea5",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/NQ4QuvZn/legacy_landscape-0.5.1%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/PFZS8ckr/legacy_landscape-0.5.3%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.5.1+1.21.1.jar",
+        "filename": "legacy_landscape-0.5.3+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/NQ4QuvZn/legacy_landscape-0.5.1%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/PFZS8ckr/legacy_landscape-0.5.3%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
