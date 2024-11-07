@@ -513,16 +513,16 @@
     "files": {
       "magisterium.pw.toml": {
         "download": {
-          "hash": "787f4671847557d8533d32fdfd915f49018f3c3caf7cb329550e2d36da59747f2d0f23dcd89474ac4cf678fcde0de417af339c619b549a0a8159dd887f51a2df",
+          "hash": "e7890ec5549c1f375daf6bf54ae0ff91601e3b903e60d15bb70f406d1f0aa1721fee425608de64c867d367b217f2d138dcf8f0fff13a82164bd51450b5885928",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/Gi97fZyd/versions/m1OdJjid/magisterium-0.0.4.jar"
+          "url": "https://cdn.modrinth.com/data/Gi97fZyd/versions/aRjUz6cQ/magisterium-0.0.5.jar"
         },
-        "filename": "magisterium-0.0.4.jar",
+        "filename": "magisterium-0.0.5.jar",
         "name": "Magisterium",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/Gi97fZyd/versions/m1OdJjid/magisterium-0.0.4.jar"
+    "url": "https://cdn.modrinth.com/data/Gi97fZyd/versions/aRjUz6cQ/magisterium-0.0.5.jar"
   },
   "minecon_ruins": {
     "files": {
@@ -838,16 +838,16 @@
     "files": {
       "shattered-stopwatch.pw.toml": {
         "download": {
-          "hash": "c9565dca23003d63ae66baef3fe57a9b595a5c13c929992fba44f301ab4286b9f55ec641f2e8a9ed2a03fa25d207c458596d05f813176678ab1a1117210e300c",
+          "hash": "687191cd0b3a5d7fb00ae69898541a42f6f55c31aad91027dde90e534b4c2bdde46272cd6d3dab78a3d4855424fb28906013b86ef5d0e6e094d6f89b00a88a90",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/vfsphA7d/shattered-stopwatch-0.1.0%2B1.21.jar"
+          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/w7IBQxPk/shattered-stopwatch-0.1.0%2B1.21.jar"
         },
         "filename": "shattered-stopwatch-0.1.0+1.21.jar",
         "name": "Shattered Stopwatch",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/vfsphA7d/shattered-stopwatch-0.1.0%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/w7IBQxPk/shattered-stopwatch-0.1.0%2B1.21.jar"
   },
   "shrink_ray": {
     "files": {
