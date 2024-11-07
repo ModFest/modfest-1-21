@@ -33,8 +33,8 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "35675130ce698bb3962e7543fadbcca6940788c4",
-          "hash-format": "sha1",
+          "hash": "d6335c756d113fd8cba3fdc114061e7b2087ffc4576542fe7ce63fa4c3ed88934ef54591d0cf58fa73157577d029a03eb8119ef5e2905574581511c2c5aa932c",
+          "hash-format": "sha512",
           "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/cXrJCl3d/armistice-1.0.0-SNAPSHOT11.jar"
         },
         "filename": "armistice-1.0.0-SNAPSHOT11.jar",
@@ -218,8 +218,8 @@
       },
       "dated-draughts.pw.toml": {
         "download": {
-          "hash": "c084375cb71092ff186563e8d416af39079a47f7",
-          "hash-format": "sha1",
+          "hash": "f18a19f6e0ded4372bfe43bee1f62bd16e7caec51e87850061640b24bc451ce0b5832e8f53e6ba5c37ef71e2114d672e4ba629848f2845d89dcb659640a2cdad",
+          "hash-format": "sha512",
           "url": "https://cdn.modrinth.com/data/VLrtW1GN/versions/aPFvm2yY/dated_draughts-neoforge-0.2.3-sgd.jar"
         },
         "filename": "dated_draughts-neoforge-0.2.3-sgd.jar",
@@ -233,16 +233,16 @@
     "files": {
       "daysgoneby.pw.toml": {
         "download": {
-          "hash": "6f129c3723c00f2f1d8b867195a616755b1b276e59e642b54785564fc474822a72a261f5789314271c5585900ca0e2938eff1dbfa212a2d5fdf33d9d0df38947",
+          "hash": "3626e75efc8aaacd2413180899b800c2981ef155228ae87f57c60f9b40264c00baf895ce522a4c7ca7a6583d597e1e48e7b0478b7957eee90768ece3038b0f29",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/A2S1kKiU/versions/tAMR2lVR/days-gone-by-1.0.0.jar"
+          "url": "https://cdn.modrinth.com/data/A2S1kKiU/versions/tw6sCMnw/days-gone-by-1.0.0.jar"
         },
         "filename": "days-gone-by-1.0.0.jar",
         "name": "Days Gone By",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/A2S1kKiU/versions/tAMR2lVR/days-gone-by-1.0.0.jar"
+    "url": "https://cdn.modrinth.com/data/A2S1kKiU/versions/tw6sCMnw/days-gone-by-1.0.0.jar"
   },
   "dissolution": {
     "files": {
@@ -278,8 +278,8 @@
     "files": {
       "fbombs.pw.toml": {
         "download": {
-          "hash": "5d8642ab933822a79e335d03417c568f742e79f6",
-          "hash-format": "sha1",
+          "hash": "5e17e479379d479a493f329c1aebb01dd9c89ca38251b12980cf84b38dfadc7f6e5dc32b7a1e939f548a07fb42db97e3478b63577a1bf2bade2286dcf4f08055",
+          "hash-format": "sha512",
           "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/yhO9IQai/fbombs-1.0.2%2B1.21.jar"
         },
         "filename": "fbombs-1.0.2+1.21.jar",
@@ -293,8 +293,8 @@
     "files": {
       "foup.pw.toml": {
         "download": {
-          "hash": "6f8699270383c17f2ffb6b86d57caf6c5bd2c1c0",
-          "hash-format": "sha1",
+          "hash": "19b7ea25b71c8a5d69762e403bf5951250355b8824f631987943b1ce2cec009c5b84e4fa842b53304c85280a06b789de4d3a4284b7a833d62fb884e6b7dc09ae",
+          "hash-format": "sha512",
           "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/7cOHPDDo/foup-0.2.2.jar"
         },
         "filename": "foup-0.2.2.jar",
@@ -393,11 +393,11 @@
       },
       "just-another-witchery-remake.pw.toml": {
         "download": {
-          "hash": "07a62065c7da2e20bb03e303333888af6fc06892c654b18b7d366467dd3ed5ca4905297cb5301b7564f8b4bcb2beb032214ab074f412cd64427aae4b1387a9ac",
+          "hash": "07343385330a76a4afe3c6b980c9eb382b5368d063cc39273c3eab1b77c4a2ab26ff84bf4aca8ad177f80c51b49ac1b74a9ba6ff45787c8f27a47cb55cad9c1d",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/qetydqQH/witchery-neoforge-0.1.2c.jar"
+          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/4IZ5PnFz/witchery-neoforge-0.1.2e.jar"
         },
-        "filename": "witchery-neoforge-0.1.2c.jar",
+        "filename": "witchery-neoforge-0.1.2e.jar",
         "name": "Just Another Witchery Remake",
         "side": "both"
       },
@@ -422,7 +422,7 @@
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/qetydqQH/witchery-neoforge-0.1.2c.jar"
+    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/4IZ5PnFz/witchery-neoforge-0.1.2e.jar"
   },
   "kill_youkai_with_knives": {
     "files": {
@@ -443,8 +443,8 @@
     "files": {
       "kinetic-weaponry.pw.toml": {
         "download": {
-          "hash": "3691ddf43bf9935062848e92f51f790014b7fe26",
-          "hash-format": "sha1",
+          "hash": "1a26023ae05c0ebbacb746a7e4204ac3a430c43307463038462a7891fb51e490b41650ba42a48d701c25f3626fa4b0b52de874b978f094ac938d8544237c907f",
+          "hash-format": "sha512",
           "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/i7qNmvzI/kinetic_weaponry-1.0.2-neoforge-1.21.1.jar"
         },
         "filename": "kinetic_weaponry-1.0.2-neoforge-1.21.1.jar",
@@ -623,16 +623,16 @@
       },
       "mystcraft-ageless.pw.toml": {
         "download": {
-          "hash": "7a8df733948a3b846472f18bd076faf8a80dd761",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/sMm3p7ap/mystcraft_ageless-0.2.1-alpha.jar"
+          "hash": "ee87a076bbf6c97a9fa902d824a23d6eed1e3430406c3b1356a04322318411796499b33648dede27f69ebd8c229f09a24e629f1eb4338cd9355aaa2e937460ac",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/NmzrTHXN/mystcraft_ageless-0.2.2-alpha.jar"
         },
-        "filename": "mystcraft_ageless-0.2.1-alpha.jar",
+        "filename": "mystcraft_ageless-0.2.2-alpha.jar",
         "name": "Mystcraft: Ageless",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/sMm3p7ap/mystcraft_ageless-0.2.1-alpha.jar"
+    "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/NmzrTHXN/mystcraft_ageless-0.2.2-alpha.jar"
   },
   "nyctography": {
     "files": {
@@ -843,23 +843,23 @@
       },
       "shrink-ray.pw.toml": {
         "download": {
-          "hash": "2324214aeefa1eaeadb5eccab0b25ec41bc2e6931d200f7053afbdc857a1bfdaaba2ab5719a338e30dd1152cde539d6a484b945fb0ac869f996978373aecea39",
+          "hash": "94ab153b9cb21180841b32c5d0b8e5b3ef5175fa983512f9b80bd5fe73768c0e8bc9624a616a175ae70beece63bfe16dc3fad3296333f4735135bb80a0e844f4",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/fCyv61ss/shrinkray-1.0.0.jar"
+          "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/KdORDrGu/shrinkray-1.0.1.jar"
         },
-        "filename": "shrinkray-1.0.0.jar",
+        "filename": "shrinkray-1.0.1.jar",
         "name": "Shrink Ray",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/fCyv61ss/shrinkray-1.0.0.jar"
+    "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/KdORDrGu/shrinkray-1.0.1.jar"
   },
   "skycats_lucky_blocks": {
     "files": {
       "skycats-lucky-blocks.pw.toml": {
         "download": {
-          "hash": "0567f6c139eb61e010bdf4f55f8b6d21d35f0a84",
-          "hash-format": "sha1",
+          "hash": "87c1cb653c8bb0b9f34da9fd929e5215797bded6760f16af2015fc0066f7d3073bb241e29bb887aaea208c360a7e038f2f1743c0a766ae56933098cbe75547ef",
+          "hash-format": "sha512",
           "url": "https://cdn.modrinth.com/data/hDMovHxj/versions/pxRY2QnF/skycats-lucky-blocks-0.0.2%2B1.21.1.jar"
         },
         "filename": "skycats-lucky-blocks-0.0.2+1.21.1.jar",
@@ -933,16 +933,16 @@
     "files": {
       "the-arcane-path-of-chemistry.pw.toml": {
         "download": {
-          "hash": "74fdeb38ffacae4ec872b6be01e5359f2bf9cc24057bb197a2276c31597b96533db8c0ab884d9d327fcd995c92719f26bb07f7906c5244c699201f6fe8ee4e1d",
+          "hash": "9a71fceb8dff4b66729d693fa3136885301a3df3974e9d88aa5ed394228280b7efceb0f335cbafb9f6b79076dfe13b191da26dc2de4d890db2639ddf42c5f9e3",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/hoF3KiNM/arcane_chemistry-1.0.0-Neoforge-1.21.2-1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/jYc3v9qa/The%20Arcane%20path%20of%20Chemistry%201.0.2%201.21.1%20%201.21.2.jar"
         },
-        "filename": "arcane_chemistry-1.0.0-Neoforge-1.21.2-1.21.1.jar",
+        "filename": "The Arcane path of Chemistry 1.0.2 1.21.1  1.21.2.jar",
         "name": "The Arcane path of Chemistry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/hoF3KiNM/arcane_chemistry-1.0.0-Neoforge-1.21.2-1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/jYc3v9qa/The%20Arcane%20path%20of%20Chemistry%201.0.2%201.21.1%20%201.21.2.jar"
   },
   "timewarp": {
     "files": {
@@ -963,10 +963,9 @@
     "files": {
       "unearth.pw.toml": {
         "download": {
-          "hash": "8a3439e7fb217b571b7b8f558058807856006743",
-          "hash-format": "sha1",
+          "hash": "756a7df75ec509eaa506a54c048db016e266836afbeb6e237335cf3eebf753a56361059ac78ee75bf2ab48cc14ee97b703c1a2c613d660a86a7268829ef821c7",
+          "hash-format": "sha512",
           "url": "https://cdn.modrinth.com/data/aK10HizP/versions/OAudMgvj/unearth-1.0.5.jar"
-
         },
         "filename": "unearth-1.0.5.jar",
         "name": "Unearth",
