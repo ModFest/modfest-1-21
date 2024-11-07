@@ -393,12 +393,22 @@
       },
       "just-another-witchery-remake.pw.toml": {
         "download": {
-          "hash": "63c7533a779e221643d7903845f992f48f69c92ffaa672337111cc61c57585b846729b106c95a70ced069735eb086f518ec830ee743b62ff13cb589938065345",
+          "hash": "07343385330a76a4afe3c6b980c9eb382b5368d063cc39273c3eab1b77c4a2ab26ff84bf4aca8ad177f80c51b49ac1b74a9ba6ff45787c8f27a47cb55cad9c1d",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/AQjtKIls/witchery-fabric-0.1.2e.jar"
+          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/4IZ5PnFz/witchery-neoforge-0.1.2e.jar"
         },
-        "filename": "witchery-fabric-0.1.2e.jar",
+        "filename": "witchery-neoforge-0.1.2e.jar",
         "name": "Just Another Witchery Remake",
+        "side": "both"
+      },
+      "kotlin-for-forge.pw.toml": {
+        "download": {
+          "hash": "daa6c6879d5c802dc70227293e15a8dad20b9557e9d2a160eabfc890ef1ed47d5dae9bad6a16be851a1ce50704caf20bb762f064cb315564ce5ad4909e8cb196",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/5Vlx7W4o/kotlinforforge-5.6.0-all.jar"
+        },
+        "filename": "kotlinforforge-5.6.0-all.jar",
+        "name": "Kotlin for Forge",
         "side": "both"
       },
       "modonomicon.pw.toml": {
@@ -412,7 +422,7 @@
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/AQjtKIls/witchery-fabric-0.1.2e.jar"
+    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/4IZ5PnFz/witchery-neoforge-0.1.2e.jar"
   },
   "kill_youkai_with_knives": {
     "files": {

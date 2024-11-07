@@ -2,9 +2,6 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
-# packwiz grabs fabric
-just_another_witchery_remake
-
 # References client class
 legacy_buildcraft
 minimal_exchange
