@@ -1,13 +1,13 @@
 name = "Parachymistry"
-filename = "parachymistry-1.0.2.jar"
+filename = "parachymistry-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HO4X0h3C/versions/eqrfGVIF/parachymistry-1.0.2.jar"
-hash-format = "sha1"
-hash = "b79a9b93ec952dfa1f30048b5251f5b661ee3246"
+url = "https://cdn.modrinth.com/data/HO4X0h3C/versions/lNDazxTh/parachymistry-1.0.1.jar"
+hash-format = "sha512"
+hash = "1b0a31289b4c09c1fe9fd752b429ad15f90ab6afb3b222681806d34217e0ed9c025ede275002f8e99e26cd0ce3aa36fc5e7d96a8de126bece432440edbca55bd"
 
 [update]
 [update.modrinth]
 mod-id = "HO4X0h3C"
-version = "eqrfGVIF"
+version = "lNDazxTh"
