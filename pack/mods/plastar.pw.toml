@@ -1,0 +1,13 @@
+name = "Mecha Soldier PLASTAR"
+filename = "plastar-neoforge-0.2.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wyMBaCLa/versions/GkszWH1B/plastar-neoforge-0.2.1%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "d1df15e8a211a2ee0bad3db11c3f62e295576268"
+
+[update]
+[update.modrinth]
+mod-id = "wyMBaCLa"
+version = "GkszWH1B"
