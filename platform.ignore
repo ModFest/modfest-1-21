@@ -2,10 +2,6 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
-# References client class
-legacy_buildcraft
-minimal_exchange
-
 # I skill issued the performance so bad I need to temporarily remove my own mod,
 # does that give me an advancement?
 tanglr
