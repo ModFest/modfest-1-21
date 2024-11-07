@@ -3,16 +3,16 @@
     "files": {
       "5-hour-energy.pw.toml": {
         "download": {
-          "hash": "53ec97e814d54c7e1b6f55ba0ffd3d7c6b2db8e32c2044adc2fd8d921fb22fc8079289d07424df6f7f18e398c3cbed5da1a25677ffa94171e656dbc1ceaf82f5",
+          "hash": "fcc095f570a33a6dde241177460e9708d72993bb8ea03efbab3f3d2e475fcc26ad7493716a97dc3a0709d906924ecc0b7a3909d0bd4c47246f58976ccee18bea",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/UTw9dIz3/versions/25bOXe6H/five-hour-energy-1.0.1.jar"
+          "url": "https://cdn.modrinth.com/data/UTw9dIz3/versions/mlE6Dv3d/five-hour-energy-1.0.2.jar"
         },
-        "filename": "five-hour-energy-1.0.1.jar",
+        "filename": "five-hour-energy-1.0.2.jar",
         "name": "5 Hour Energy",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/UTw9dIz3/versions/25bOXe6H/five-hour-energy-1.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/UTw9dIz3/versions/mlE6Dv3d/five-hour-energy-1.0.2.jar"
   },
   "amys_industrious_mod": {
     "files": {
@@ -58,16 +58,16 @@
     "files": {
       "bubblelife.pw.toml": {
         "download": {
-          "hash": "bb250bceef790e6e148f96ff8abf1340456d819cd9650dba43c067ebf14071b08f0a531fb31c7ce54c1b36fc6ad6efc43ccd13e5273e33510a06559bfe54d8b9",
+          "hash": "ae8e6121dbff9523bc28b6fc377c8d51d30408eea11486d9e3b98180a4486fb88102d18e9cffa1b2650117b609b7f81e8c8b77f8cbcee215ec4370b60ffecfbd",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/qADVwRLo/bubblelife-1.0.jar"
+          "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/PLEfipD5/bubblelife-0.2.jar"
         },
-        "filename": "bubblelife-1.0.jar",
+        "filename": "bubblelife-0.2.jar",
         "name": "Life in a Bubble",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/qADVwRLo/bubblelife-1.0.jar"
+    "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/PLEfipD5/bubblelife-0.2.jar"
   },
   "charta": {
     "files": {
@@ -138,16 +138,16 @@
     "files": {
       "colourful-clocks.pw.toml": {
         "download": {
-          "hash": "f3ce5a756a01cb96b0d36dc4994fbc798d0f72520a1c660db408a21e01e3c688c8f3f08cba12a175f0b458338df1d0a078b2f3809b210ef6fb999cb7ddf531dc",
+          "hash": "c393e83bda73a1e1cacfa96622cba9021b4a74bfada99f0e65c199d46bba5f71069a8d2a1ab22ba5cf8ef255d2e4cc0801d4b3f184ceef3c342c8597ef1f10ad",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/h8cGboOg/versions/x3FA9UST/colourfulclocks-neoforge-1.21.1-0.1.1.jar"
+          "url": "https://cdn.modrinth.com/data/h8cGboOg/versions/wWA2M5tY/colourfulclocks-neoforge-1.21.1-0.1.2.jar"
         },
-        "filename": "colourfulclocks-neoforge-1.21.1-0.1.1.jar",
+        "filename": "colourfulclocks-neoforge-1.21.1-0.1.2.jar",
         "name": "Colourful Clocks",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/h8cGboOg/versions/x3FA9UST/colourfulclocks-neoforge-1.21.1-0.1.1.jar"
+    "url": "https://cdn.modrinth.com/data/h8cGboOg/versions/wWA2M5tY/colourfulclocks-neoforge-1.21.1-0.1.2.jar"
   },
   "craftsense": {
     "files": {
@@ -393,22 +393,12 @@
       },
       "just-another-witchery-remake.pw.toml": {
         "download": {
-          "hash": "07343385330a76a4afe3c6b980c9eb382b5368d063cc39273c3eab1b77c4a2ab26ff84bf4aca8ad177f80c51b49ac1b74a9ba6ff45787c8f27a47cb55cad9c1d",
+          "hash": "63c7533a779e221643d7903845f992f48f69c92ffaa672337111cc61c57585b846729b106c95a70ced069735eb086f518ec830ee743b62ff13cb589938065345",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/4IZ5PnFz/witchery-neoforge-0.1.2e.jar"
+          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/AQjtKIls/witchery-fabric-0.1.2e.jar"
         },
-        "filename": "witchery-neoforge-0.1.2e.jar",
+        "filename": "witchery-fabric-0.1.2e.jar",
         "name": "Just Another Witchery Remake",
-        "side": "both"
-      },
-      "kotlin-for-forge.pw.toml": {
-        "download": {
-          "hash": "daa6c6879d5c802dc70227293e15a8dad20b9557e9d2a160eabfc890ef1ed47d5dae9bad6a16be851a1ce50704caf20bb762f064cb315564ce5ad4909e8cb196",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/5Vlx7W4o/kotlinforforge-5.6.0-all.jar"
-        },
-        "filename": "kotlinforforge-5.6.0-all.jar",
-        "name": "Kotlin for Forge",
         "side": "both"
       },
       "modonomicon.pw.toml": {
@@ -422,7 +412,7 @@
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/4IZ5PnFz/witchery-neoforge-0.1.2e.jar"
+    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/AQjtKIls/witchery-fabric-0.1.2e.jar"
   },
   "kill_youkai_with_knives": {
     "files": {
@@ -686,18 +676,38 @@
   },
   "parachymistry": {
     "files": {
+      "connector.pw.toml": {
+        "download": {
+          "hash": "cee80abb22f558c0cf900dde663850fa2a213581cc32a9132dd5aca02469a6d24806937059455a9d7ec0b37066e14c22002393bd2582dd0bc07803147dc7b8f0",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/x3AHjKpg/connector-2.0.0-beta.3%2B1.21.1-full.jar"
+        },
+        "filename": "connector-2.0.0-beta.3+1.21.1-full.jar",
+        "name": "Sinytra Connector",
+        "side": "both"
+      },
+      "forgified-fabric-api.pw.toml": {
+        "download": {
+          "hash": "370e6eb94af3ff6404502a77b22e922eb0b2f199435c85f620e5aaef026b67e0feab24c3cf5a8be9fc7026ddeb2d24d30e58d4746b213fabbacb146e5fb982a9",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/L7Mufn4x/forgified-fabric-api-0.104.0%2B2.0.18%2B1.21.1.jar"
+        },
+        "filename": "forgified-fabric-api-0.104.0+2.0.18+1.21.1.jar",
+        "name": "Forgified Fabric API",
+        "side": "both"
+      },
       "parachymistry.pw.toml": {
         "download": {
-          "hash": "1b0a31289b4c09c1fe9fd752b429ad15f90ab6afb3b222681806d34217e0ed9c025ede275002f8e99e26cd0ce3aa36fc5e7d96a8de126bece432440edbca55bd",
+          "hash": "b296d1fe2a524f93e9ea3459e79679dacd4641d2d7d7d6a86f8df4384eb173aca9d3b32b89a9013e1e654d97b4c700b7119b78bb46d242df939d88fda3d6d2e7",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/hN3FCdCW/parachymistry-1.0.1.jar"
+          "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/eqrfGVIF/parachymistry-1.0.2.jar"
         },
-        "filename": "parachymistry-1.0.1.jar",
+        "filename": "parachymistry-1.0.2.jar",
         "name": "Parachymistry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/hN3FCdCW/parachymistry-1.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/eqrfGVIF/parachymistry-1.0.2.jar"
   },
   "past_el_palettes": {
     "files": {
@@ -728,16 +738,16 @@
     "files": {
       "plastar.pw.toml": {
         "download": {
-          "hash": "3e3446b50915474a027d5d1ce19fc27371aa1e08367c59eee2554a85d91787d63ff41f3cdcaa363f6973365732b41c74dd0decf463fa0412ed2144aad0549aa0",
+          "hash": "87dff6e60c611e841b3cf4ca48d8323a863e841bb9d5114a0a864582aa81daff1b2eb06f27eaae5c1fd397e23492420444b77a3b9f710325803c9bdee02adb59",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/JERLeVxx/plastar-neoforge-0.2.0%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/GkszWH1B/plastar-neoforge-0.2.1%2B1.21.1.jar"
         },
-        "filename": "plastar-neoforge-0.2.0+1.21.1.jar",
+        "filename": "plastar-neoforge-0.2.1+1.21.1.jar",
         "name": "Mecha Soldier PLASTAR",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/JERLeVxx/plastar-neoforge-0.2.0%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/GkszWH1B/plastar-neoforge-0.2.1%2B1.21.1.jar"
   },
   "pocketwatchery": {
     "files": {
@@ -948,16 +958,16 @@
     "files": {
       "timewarp.pw.toml": {
         "download": {
-          "hash": "edae71ceb631f37e7b6c7c7b29fea6185fdd610a6094f7b0bcfe679f31dd779892238d7a241fa2cee06979155b517e7513c95f4fe6040b5a3386e9ac2c99fd3e",
+          "hash": "d384c2d1266f679720169b40b2997bda9b81b7db1b941bb44f6b858b11fb728d3c17522bde0874a43b2d80f1a6f65ce58e3da5129b1ef015a63ad7564592d6b5",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/KTgsTcRQ/timewarp-1.21-1.1.1.jar"
+          "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/77p13nMv/timewarp-1.21-1.1.3.jar"
         },
-        "filename": "timewarp-1.21-1.1.1.jar",
+        "filename": "timewarp-1.21-1.1.3.jar",
         "name": "Timewarp",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/KTgsTcRQ/timewarp-1.21-1.1.1.jar"
+    "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/77p13nMv/timewarp-1.21-1.1.3.jar"
   },
   "unearth": {
     "files": {
