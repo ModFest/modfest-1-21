@@ -26,6 +26,7 @@ def main():
     common.fix_packwiz_pack(dest_pack / "pack.toml")
 
     exclusions = list(filter(lambda l : len(l) > 0, [re.sub("#.*", "", l.strip()) for l in common.read_file(exclude_file).split("\n")]))
+    used_exclusions = []
 
     locked_data: SubmissionLockfileFormat = json.loads(common.read_file(submission_lock_file))
     for platformid, moddata in locked_data.items():
@@ -33,10 +34,16 @@ def main():
             raise RuntimeError(f"lock data for {platformid} is invalid. Does not contain file key")
         
         if platformid in exclusions:
-            print(f"skipping {platformid}")
+            used_exclusions.append(platformid)
+            print(f"skipping submission {platformid}")
             continue
 
         for filename, filedata in moddata["files"].items():
+            if filename in exclusions:
+                used_exclusions.append(filename)
+                print(f"skipping file {filename}")
+                continue
+
             dst_file = dest_pack / "mods" / filename
             if not dst_file.exists():
                 # We want all mods to be on both sides for singleplayer compat
@@ -45,8 +52,8 @@ def main():
                     f.write(tomli_w.dumps(filedata))
 
     for e in exclusions:
-        if not e in locked_data:
-            raise Exception(f"{e} was given as an exclusion, but does not actually appear in the submission data. Was it a typo?")
+        if not e in used_exclusions:
+            raise Exception(f"{e} was given as an exclusion, but is not a submission id. It's also not a file name of a `.pw.toml` included in any submission. Was it a typo?")
 
     os.chdir(dest_pack)
     subprocess.run([packwiz, "refresh"])
