@@ -1,0 +1,13 @@
+name = "Röhrchen"
+filename = "roehrchen-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1xmduSG/versions/JkVbe9i0/roehrchen-0.1.0.jar"
+hash-format = "sha512"
+hash = "36d3e597ddcb1aa106752d3688ac266eec6d138c1f8ad831c52d302e32b8b8508cb8d24d7c219d03a3f63eb19ccef09c0774ea0fbb15adf7d9ff54d46db0fe26"
+
+[update]
+[update.modrinth]
+mod-id = "B1xmduSG"
+version = "JkVbe9i0"
