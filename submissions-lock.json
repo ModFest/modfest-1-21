@@ -58,16 +58,16 @@
     "files": {
       "bubblelife.pw.toml": {
         "download": {
-          "hash": "ae8e6121dbff9523bc28b6fc377c8d51d30408eea11486d9e3b98180a4486fb88102d18e9cffa1b2650117b609b7f81e8c8b77f8cbcee215ec4370b60ffecfbd",
+          "hash": "8556c036151dafb055e32c6995d2ed8f4433476471bf2e92ad692d6b9895b7bd693398fad690d23ff6d22857199df3aecc22e9dac99282645e583bfbe19c5ef7",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/PLEfipD5/bubblelife-0.2.jar"
+          "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/vRqrlkdj/bubblelife-0.2.1.jar"
         },
-        "filename": "bubblelife-0.2.jar",
+        "filename": "bubblelife-0.2.1.jar",
         "name": "Life in a Bubble",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/PLEfipD5/bubblelife-0.2.jar"
+    "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/vRqrlkdj/bubblelife-0.2.1.jar"
   },
   "charta": {
     "files": {
@@ -323,16 +323,16 @@
     "files": {
       "gastroarchaeology.pw.toml": {
         "download": {
-          "hash": "c215200c44e8263a8ca418a0b85bef9c483086972df4ea0d2b051a13d3f78fb0bcd80b9e28d64a70b1b21e3154bb8e180095053b00b89133edd9c4461beee475",
+          "hash": "6f96bd2907eb5a12b09ea9af7702b01483252ede123849ef710d679e41690387e5b1fbbb7566809add8aed0fbae02426b3c306adde13375d7415492ee258d02f",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/Qx2DZz2S/gastroarchaeology-0.1.0.jar"
+          "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/GK1yHwVF/gastroarchaeology-0.1.1.jar"
         },
-        "filename": "gastroarchaeology-0.1.0.jar",
+        "filename": "gastroarchaeology-0.1.1.jar",
         "name": "Gastroarchaeology",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/Qx2DZz2S/gastroarchaeology-0.1.0.jar"
+    "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/GK1yHwVF/gastroarchaeology-0.1.1.jar"
   },
   "glowbricks_printing_press_mod": {
     "files": {
@@ -353,16 +353,16 @@
     "files": {
       "glowsheep.pw.toml": {
         "download": {
-          "hash": "3dab5deb5399f311fc5a133ef9bc2626d855122646aa9c373e0738495eb8b9541ca3f9095e4ab2581efa486a79c38cf1011a015ccda41fc36e7a297bd8d9b67c",
+          "hash": "b61a455573ec413fe54e5fb7e8d144cb3fcbdc0ea3d861be20ad0cb760cc31481dbb3467e76cafbbdcd727c086af335dd765ebc41bbff739fa5da93714e15d64",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/XYM4Qvhm/versions/w8it7Rjf/glowsheep-1.0.0%2Bneoforge_1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/XYM4Qvhm/versions/HFNGORRN/glowsheep-1.0.1.jar"
         },
-        "filename": "glowsheep-1.0.0+neoforge_1.21.1.jar",
+        "filename": "glowsheep-1.0.1.jar",
         "name": "Glow Sheep",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/XYM4Qvhm/versions/w8it7Rjf/glowsheep-1.0.0%2Bneoforge_1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/XYM4Qvhm/versions/HFNGORRN/glowsheep-1.0.1.jar"
   },
   "hyphapiracea": {
     "files": {
@@ -443,31 +443,31 @@
     "files": {
       "kinetic-weaponry.pw.toml": {
         "download": {
-          "hash": "1a26023ae05c0ebbacb746a7e4204ac3a430c43307463038462a7891fb51e490b41650ba42a48d701c25f3626fa4b0b52de874b978f094ac938d8544237c907f",
+          "hash": "c48d56e4751d0abf0153926f8ce36d6738d8e39d17ab2531144c1124920af9920b70c337e1e0ebc9ffe211049b0a7992a6dbed96c57f349d96aa421b1cda37aa",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/i7qNmvzI/kinetic_weaponry-1.0.2-neoforge-1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/RlU9Jvbp/kinetic_weaponry-1.0.3-neoforge-1.21.1.jar"
         },
-        "filename": "kinetic_weaponry-1.0.2-neoforge-1.21.1.jar",
+        "filename": "kinetic_weaponry-1.0.3-neoforge-1.21.1.jar",
         "name": "Kinetic Weaponry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/i7qNmvzI/kinetic_weaponry-1.0.2-neoforge-1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/RlU9Jvbp/kinetic_weaponry-1.0.3-neoforge-1.21.1.jar"
   },
   "legacy_buildcraft": {
     "files": {
       "legacy-buildcraft.pw.toml": {
         "download": {
-          "hash": "755907c5bc6c3ac4ce822b21aebe8e515847f8b6e19283857816efdb70e9d208842859c9bb60735a469678752ed2347414e96959a814dc1f38772d07c110dbb5",
+          "hash": "50074c74fbdaaf702779e0e0df46d8245fef9336cbede7bfe0085e8d16da23e4eba341cef4e16bd5a8057b10f27321f3b43c951573d3f1270844ce5439a09b82",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/OfBvaqlI/buildcraft-1.0.4.jar"
+          "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/PoK2hYLT/buildcraft-1.0.5.jar"
         },
-        "filename": "buildcraft-1.0.4.jar",
+        "filename": "buildcraft-1.0.5.jar",
         "name": "Buildcraft-Legacy",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/OfBvaqlI/buildcraft-1.0.4.jar"
+    "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/PoK2hYLT/buildcraft-1.0.5.jar"
   },
   "legacy_landscape": {
     "files": {
@@ -558,16 +558,16 @@
     "files": {
       "minimal-exchange.pw.toml": {
         "download": {
-          "hash": "1ce1791a4511dfc15335d3387da0ac3934f61333316ff7f0c1400ccc084be80c126117ca6979054d08244d0282730fa05c53db454b61b4f0a9a3d1ccde3d164f",
+          "hash": "7540c058f4aa9d4e02a1c3af4d066613817a0e5de7bdde234c61a301388c031233bd5be22ae6defabff431e8ac1e3776ce11ca48ab22a8814057bb8e70d15234",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/zlYAv14M/minimal_exchange-1.0.2.jar"
+          "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/yjN6hW1f/minimal_exchange-1.0.3.jar"
         },
-        "filename": "minimal_exchange-1.0.2.jar",
+        "filename": "minimal_exchange-1.0.3.jar",
         "name": "Minimal-Exchange",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/zlYAv14M/minimal_exchange-1.0.2.jar"
+    "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/yjN6hW1f/minimal_exchange-1.0.3.jar"
   },
   "modernutils": {
     "files": {
@@ -808,16 +808,16 @@
     "files": {
       "roehrchen.pw.toml": {
         "download": {
-          "hash": "36d3e597ddcb1aa106752d3688ac266eec6d138c1f8ad831c52d302e32b8b8508cb8d24d7c219d03a3f63eb19ccef09c0774ea0fbb15adf7d9ff54d46db0fe26",
+          "hash": "f844aba83a56a6a1fd9e0adf1f474eeaa1a27e691a5c3794fa13c02009579ddf202f8b4e616db891cdd0d0f4542f3c7f2865ca23c6d2153a7398beb2cde03b68",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/JkVbe9i0/roehrchen-0.1.0.jar"
+          "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/MLEJTs6l/roehrchen-0.5.0a.jar"
         },
-        "filename": "roehrchen-0.1.0.jar",
+        "filename": "roehrchen-0.5.0a.jar",
         "name": "R\u00f6hrchen",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/JkVbe9i0/roehrchen-0.1.0.jar"
+    "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/MLEJTs6l/roehrchen-0.5.0a.jar"
   },
   "sakuracake": {
     "files": {
@@ -923,16 +923,16 @@
     "files": {
       "tanglr.pw.toml": {
         "download": {
-          "hash": "8829c93f789f58226010972eb92e49b8db283318d0e59d197bb7b1495925f5c9bd99b521b27b776b933f2992e53b014f8c58408071ad5ee2a440572c1ededb61",
+          "hash": "3c98cd569924f568c1751463cf605f0b88ba9cae552687baaaa6e19dc68066ae6be9c06f67eac762cef4e5844672d4e0e38205544777e60406ca1aada1f5d07e",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/mmGfdCAj/tanglr-1.1.0.jar"
+          "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/YJgdQmuE/tanglr-1.2.0.jar"
         },
-        "filename": "tanglr-1.1.0.jar",
+        "filename": "tanglr-1.2.0.jar",
         "name": "Tanglr",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/mmGfdCAj/tanglr-1.1.0.jar"
+    "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/YJgdQmuE/tanglr-1.2.0.jar"
   },
   "temporang": {
     "files": {
@@ -1013,15 +1013,15 @@
     "files": {
       "wandering-rana.pw.toml": {
         "download": {
-          "hash": "fe01c416e4a989c1b9f880a35d69b867588eed412149325c619febdc76df79c0dee1d86bf900df44e4f8fcc58af934eebf942b1fa0c1f31fb6b2e1b1ec2f610d",
+          "hash": "8349cd717e3a41467d95f1be0ffc4673cf6837901c68aed31027ea31828fa6d3ad532e6ef99761ca868f8ea39a169a8428be0cef1836ced6d6bf9b578be7ddae",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/5R8Qlz9L/versions/8pmYYO6a/WanderingRana-neoforge-0.1.0%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/5R8Qlz9L/versions/EL4qAdjS/WanderingRana-neoforge-0.2.0%2B1.21.1.jar"
         },
-        "filename": "WanderingRana-neoforge-0.1.0+1.21.1.jar",
+        "filename": "WanderingRana-neoforge-0.2.0+1.21.1.jar",
         "name": "Wandering Rana",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/5R8Qlz9L/versions/8pmYYO6a/WanderingRana-neoforge-0.1.0%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/5R8Qlz9L/versions/EL4qAdjS/WanderingRana-neoforge-0.2.0%2B1.21.1.jar"
   }
 }
