@@ -18,16 +18,16 @@
     "files": {
       "amys-industrious-mod.pw.toml": {
         "download": {
-          "hash": "359ebc638320ab09fca4d6483aa65ac53cd1e278c17d2eb26c4a4e34baabedf20efdd8676bef1550622dcd0f3aa31cffe5a25761e4c3a65cc8aaaa65e8938eee",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/DsgJ57um/industrious-1.0.0%2B1.21.jar"
+          "hash": "a883bfb421f8422074ad827bf817e26cb7f6c7c3",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/eAUKHCke/industrious-1.0.1%2B1.21.jar"
         },
-        "filename": "industrious-1.0.0+1.21.jar",
+        "filename": "industrious-1.0.1+1.21.jar",
         "name": "Amy's Industrious Mod",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/DsgJ57um/industrious-1.0.0%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/eAUKHCke/industrious-1.0.1%2B1.21.jar"
   },
   "armistice": {
     "files": {
@@ -88,26 +88,16 @@
     "files": {
       "chickensaurs.pw.toml": {
         "download": {
-          "hash": "a127079befcbeab30767a894f01e8cf188fa1e3f0e3deba453a85ad2b903657d8ff8d309b102109081fe701f50cf897c8ccfe9921c86d12131d1c52b0e94f86d",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/K09FRhh4/chickensaurs-neoforge-1.21.1-1.0.1.jar"
+          "hash": "5cebfcf6015e16662ea7540161162717680bba45",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/LTlDTnm9/chickensaurs-neoforge-1.21.1-1.0.2.jar"
         },
-        "filename": "chickensaurs-neoforge-1.21.1-1.0.1.jar",
+        "filename": "chickensaurs-neoforge-1.21.1-1.0.2.jar",
         "name": "Chickensaurs",
         "side": "both"
-      },
-      "smartbrainlib.pw.toml": {
-        "download": {
-          "hash": "51a4a3f5c3c0ebb35cc48bcf5b22d418af2aa79251590871ae46436c70e1c2c9097a64dc7fb90d55680a55f6f8478edbdca960bd293e8319bf037014f1f271fb",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/PuyPazRT/versions/sjFmt7zo/SmartBrainLib-neoforge-1.21.1-1.16.1.jar"
-        },
-        "filename": "SmartBrainLib-neoforge-1.21.1-1.16.1.jar",
-        "name": "SmartBrainLib",
-        "side": "server"
       }
     },
-    "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/K09FRhh4/chickensaurs-neoforge-1.21.1-1.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/LTlDTnm9/chickensaurs-neoforge-1.21.1-1.0.2.jar"
   },
   "chronoception": {
     "files": {
@@ -138,16 +128,16 @@
     "files": {
       "colourful-clocks.pw.toml": {
         "download": {
-          "hash": "c393e83bda73a1e1cacfa96622cba9021b4a74bfada99f0e65c199d46bba5f71069a8d2a1ab22ba5cf8ef255d2e4cc0801d4b3f184ceef3c342c8597ef1f10ad",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/h8cGboOg/versions/wWA2M5tY/colourfulclocks-neoforge-1.21.1-0.1.2.jar"
+          "hash": "2acfc53501ab9a8e052f4a1b142545c20167ff6d",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/h8cGboOg/versions/4Tn26yiB/colourfulclocks-neoforge-1.21.1-0.1.3.jar"
         },
-        "filename": "colourfulclocks-neoforge-1.21.1-0.1.2.jar",
+        "filename": "colourfulclocks-neoforge-1.21.1-0.1.3.jar",
         "name": "Colourful Clocks",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/h8cGboOg/versions/wWA2M5tY/colourfulclocks-neoforge-1.21.1-0.1.2.jar"
+    "url": "https://cdn.modrinth.com/data/h8cGboOg/versions/4Tn26yiB/colourfulclocks-neoforge-1.21.1-0.1.3.jar"
   },
   "craftsense": {
     "files": {
@@ -263,31 +253,31 @@
     "files": {
       "familiar-magic.pw.toml": {
         "download": {
-          "hash": "8ef4a8b605c4b65b6cdf86759c18da99c76c06a97ea4f13aec7f6819c9a65ce9712927939fcfa6edb772af07301a0d9fbcca07774fbe02e7324e217fa060a0e9",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/DUDk2pXy/familiar_magic-1.0.2.jar"
+          "hash": "9a621b89ab26593c12cdf52f8d8b78494c6d4120",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/coCEcaQg/familiar_magic-1.0.3.jar"
         },
-        "filename": "familiar_magic-1.0.2.jar",
+        "filename": "familiar_magic-1.0.3.jar",
         "name": "familiar magic",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/DUDk2pXy/familiar_magic-1.0.2.jar"
+    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/coCEcaQg/familiar_magic-1.0.3.jar"
   },
   "fbombs": {
     "files": {
       "fbombs.pw.toml": {
         "download": {
-          "hash": "5e17e479379d479a493f329c1aebb01dd9c89ca38251b12980cf84b38dfadc7f6e5dc32b7a1e939f548a07fb42db97e3478b63577a1bf2bade2286dcf4f08055",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/yhO9IQai/fbombs-1.0.2%2B1.21.jar"
+          "hash": "b70a667031260f9d7f6ba6d72d1ffbe68d186534",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/LFmDaxta/fbombs-1.0.3%2B1.21.jar"
         },
-        "filename": "fbombs-1.0.2+1.21.jar",
+        "filename": "fbombs-1.0.3+1.21.jar",
         "name": "FBombs",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/yhO9IQai/fbombs-1.0.2%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/LFmDaxta/fbombs-1.0.3%2B1.21.jar"
   },
   "foup": {
     "files": {
@@ -368,16 +358,16 @@
     "files": {
       "hyphapiracea.pw.toml": {
         "download": {
-          "hash": "8ba9d9cf5917bfef15a29e21bbd22c383d6ad7b22bb64296161673fc7d931e2ff5b57b78f53715cf5c0cf5cf4dfc6391743ae8ba973a8adeb015749e230f6075",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/atKLbnXB/hyphapiracea-neoforge-mc1.21.1-0.1.1.1.jar"
+          "hash": "dd0e0348c9be175c39485334ea8a3c5b290f1005",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/EY9MaYNo/hyphapiracea-neoforge-mc1.21.1-0.1.2.jar"
         },
-        "filename": "hyphapiracea-neoforge-mc1.21.1-0.1.1.1.jar",
+        "filename": "hyphapiracea-neoforge-mc1.21.1-0.1.2.jar",
         "name": "HyphaPiracea",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/atKLbnXB/hyphapiracea-neoforge-mc1.21.1-0.1.1.1.jar"
+    "url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/EY9MaYNo/hyphapiracea-neoforge-mc1.21.1-0.1.2.jar"
   },
   "just_another_witchery_remake": {
     "files": {
@@ -458,31 +448,31 @@
     "files": {
       "legacy-buildcraft.pw.toml": {
         "download": {
-          "hash": "50074c74fbdaaf702779e0e0df46d8245fef9336cbede7bfe0085e8d16da23e4eba341cef4e16bd5a8057b10f27321f3b43c951573d3f1270844ce5439a09b82",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/PoK2hYLT/buildcraft-1.0.5.jar"
+          "hash": "f820c05454754f639d7b3687b913866a2d333032",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/BPOlUFkd/buildcraft-1.0.6.jar"
         },
-        "filename": "buildcraft-1.0.5.jar",
+        "filename": "buildcraft-1.0.6.jar",
         "name": "Buildcraft-Legacy",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/PoK2hYLT/buildcraft-1.0.5.jar"
+    "url": "https://cdn.modrinth.com/data/LTaa2o7Y/versions/BPOlUFkd/buildcraft-1.0.6.jar"
   },
   "legacy_landscape": {
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "18b33249a1a3fca3d80d998b53954ffcd36d3f6ccadbfae33f6ee687dc6643fb3d7738c8cf902d3da9fd874bceba7053381008035b5bcdcc6c1c92be769f5ea5",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/PFZS8ckr/legacy_landscape-0.5.3%2B1.21.1.jar"
+          "hash": "520ac1956b7c8803cf5f100f0873944e4aa5b713",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/NfeWmrSP/legacy_landscape-0.6.0%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.5.3+1.21.1.jar",
+        "filename": "legacy_landscape-0.6.0+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/PFZS8ckr/legacy_landscape-0.5.3%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/NfeWmrSP/legacy_landscape-0.6.0%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
@@ -558,16 +548,16 @@
     "files": {
       "minimal-exchange.pw.toml": {
         "download": {
-          "hash": "7540c058f4aa9d4e02a1c3af4d066613817a0e5de7bdde234c61a301388c031233bd5be22ae6defabff431e8ac1e3776ce11ca48ab22a8814057bb8e70d15234",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/yjN6hW1f/minimal_exchange-1.0.3.jar"
+          "hash": "cdc05d609abc3b9198715cb6c2762dbb0aa9009d",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/csTJzAtj/minimal_exchange-1.0.4.jar"
         },
-        "filename": "minimal_exchange-1.0.3.jar",
+        "filename": "minimal_exchange-1.0.4.jar",
         "name": "Minimal-Exchange",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/yjN6hW1f/minimal_exchange-1.0.3.jar"
+    "url": "https://cdn.modrinth.com/data/xYVtPMaB/versions/csTJzAtj/minimal_exchange-1.0.4.jar"
   },
   "modernutils": {
     "files": {
@@ -808,31 +798,31 @@
     "files": {
       "roehrchen.pw.toml": {
         "download": {
-          "hash": "f844aba83a56a6a1fd9e0adf1f474eeaa1a27e691a5c3794fa13c02009579ddf202f8b4e616db891cdd0d0f4542f3c7f2865ca23c6d2153a7398beb2cde03b68",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/MLEJTs6l/roehrchen-0.5.0a.jar"
+          "hash": "ee89f516f0f1451f0e49849ee6f5d1e8a6842e55",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/sWoW1EeP/roehrchen-0.5.1.jar"
         },
-        "filename": "roehrchen-0.5.0a.jar",
+        "filename": "roehrchen-0.5.1.jar",
         "name": "R\u00f6hrchen",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/MLEJTs6l/roehrchen-0.5.0a.jar"
+    "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/sWoW1EeP/roehrchen-0.5.1.jar"
   },
   "sakuracake": {
     "files": {
       "sakuracake.pw.toml": {
         "download": {
-          "hash": "ab46ade9c4f8064ed5c7717d4b3fb4b69361f1ac480e3192e88d24e3bc4d19dda850f46403dcf0d4f54793489a2b3dadd833c1c31960f313d426f74422f70fe6",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/SWAdZnSr/sakuracake-1.0.0-alpha.1%2Bpatch.7-neoforge%2B1.21.1.jar"
+          "hash": "f864a4d2de6fb106f2d700e07f7ebcfb440152d4",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/OyBkyWNw/sakuracake-1.0.0-alpha.1%2Bpatch.8-neoforge%2B1.21.1.jar"
         },
-        "filename": "sakuracake-1.0.0-alpha.1+patch.7-neoforge+1.21.1.jar",
+        "filename": "sakuracake-1.0.0-alpha.1+patch.8-neoforge+1.21.1.jar",
         "name": "SakuraCake",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/SWAdZnSr/sakuracake-1.0.0-alpha.1%2Bpatch.7-neoforge%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/OyBkyWNw/sakuracake-1.0.0-alpha.1%2Bpatch.8-neoforge%2B1.21.1.jar"
   },
   "shattered_stopwatch": {
     "files": {
@@ -953,16 +943,16 @@
     "files": {
       "the-arcane-path-of-chemistry.pw.toml": {
         "download": {
-          "hash": "9a71fceb8dff4b66729d693fa3136885301a3df3974e9d88aa5ed394228280b7efceb0f335cbafb9f6b79076dfe13b191da26dc2de4d890db2639ddf42c5f9e3",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/jYc3v9qa/The%20Arcane%20path%20of%20Chemistry%201.0.2%201.21.1%20%201.21.2.jar"
+          "hash": "055680839f22a6a76a9e0129b0cee3175bb16861",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/TYiiVLZZ/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
         },
-        "filename": "The Arcane path of Chemistry 1.0.2 1.21.1  1.21.2.jar",
+        "filename": "The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar",
         "name": "The Arcane path of Chemistry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/jYc3v9qa/The%20Arcane%20path%20of%20Chemistry%201.0.2%201.21.1%20%201.21.2.jar"
+    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/TYiiVLZZ/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
   },
   "timewarp": {
     "files": {
