@@ -8,8 +8,5 @@ modernutils
 # This mod has been added manually, see its .pw.toml
 craftsense
 
-# Startup crash, manually overriden to be a downgraded version
-roehrchen
-
 # Prevent submissions from accidentally adding this (parachymistry)
 connector.pw.toml
