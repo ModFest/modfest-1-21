@@ -1,0 +1,65 @@
+{
+	"mf_121:locomotion": {
+		"text_color": "#43f099",
+		"glow_color": "#00ff48",
+		"collect_particle": "minecraft:glow",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_visitor"
+		},
+		"list_order": 1
+	},
+	"mf_121:fire": {
+		"text_color": "#48dbd1",
+		"glow_color": "#fff596",
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 2
+	},
+	"mf_121:writing": {
+		"text_color": "#48dbd1",
+		"glow_color": "#fff596",
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 3
+	},
+	"mf_121:printing_press": {
+		"text_color": "#48dbd1",
+		"glow_color": "#fff596",
+		"collect_particle": "minecraft:enchanted_hit",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 4
+	},
+	"mf_121:radio": {
+		"text_color": "#5f57ff",
+		"glow_color": "#bafffa",
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 5
+	},
+	"mf_121:television": {
+		"text_color": "#5f57ff",
+		"glow_color": "#bafffa",
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 6
+	},
+	"mf_121:internet": {
+		"text_color": "#5f57ff",
+		"glow_color": "#bafffa",
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 7
+	}
+}

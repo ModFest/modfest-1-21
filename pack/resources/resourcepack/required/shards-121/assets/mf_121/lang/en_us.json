@@ -1,0 +1,9 @@
+{
+  "shard_type.mf_121.locomotion.description": "Locomotion Shard",
+  "shard_type.mf_121.fire.description": "Fire Shard",
+  "shard_type.mf_121.writing.description": "Writing Shard",
+  "shard_type.mf_121.printing_press.description": "Printing Press Shard",
+  "shard_type.mf_121.radio.description": "Radio Shard",
+  "shard_type.mf_121.television.description": "Television Shard",
+  "shard_type.mf_121.internet.description": "Internet Shard"
+}
