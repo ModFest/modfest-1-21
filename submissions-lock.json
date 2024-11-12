@@ -253,31 +253,31 @@
     "files": {
       "familiar-magic.pw.toml": {
         "download": {
-          "hash": "9a621b89ab26593c12cdf52f8d8b78494c6d4120",
+          "hash": "4e36b4fc14188c45da207804cf80233722ec42cc",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/coCEcaQg/familiar_magic-1.0.3.jar"
+          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/DIXXRWjt/familiar_magic-1.0.4.jar"
         },
-        "filename": "familiar_magic-1.0.3.jar",
+        "filename": "familiar_magic-1.0.4.jar",
         "name": "familiar magic",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/coCEcaQg/familiar_magic-1.0.3.jar"
+    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/DIXXRWjt/familiar_magic-1.0.4.jar"
   },
   "fbombs": {
     "files": {
       "fbombs.pw.toml": {
         "download": {
-          "hash": "b70a667031260f9d7f6ba6d72d1ffbe68d186534",
+          "hash": "f5083ee4d3fffdac603e3d2b3359ddc354060d45",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/LFmDaxta/fbombs-1.0.3%2B1.21.jar"
+          "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/rDLkXy0u/fbombs-1.2.0%2B1.21.jar"
         },
-        "filename": "fbombs-1.0.3+1.21.jar",
+        "filename": "fbombs-1.2.0+1.21.jar",
         "name": "FBombs",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/LFmDaxta/fbombs-1.0.3%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/rDLkXy0u/fbombs-1.2.0%2B1.21.jar"
   },
   "foup": {
     "files": {
@@ -463,16 +463,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "520ac1956b7c8803cf5f100f0873944e4aa5b713",
+          "hash": "c259eb1c8ecdb7f007a1301ec6a6b14a177676eb",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/NfeWmrSP/legacy_landscape-0.6.0%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/1ySVcFBG/legacy_landscape-0.7.0%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.6.0+1.21.1.jar",
+        "filename": "legacy_landscape-0.7.0+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/NfeWmrSP/legacy_landscape-0.6.0%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/1ySVcFBG/legacy_landscape-0.7.0%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
@@ -783,16 +783,16 @@
     "files": {
       "rods-from-god.pw.toml": {
         "download": {
-          "hash": "4db274a1e1d2f3556b9c4b680583f1576d832286",
+          "hash": "14c5c357b4dcc02972305b2960d07400a63867eb",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/zoz2WuvU/rods_from_god-1.0.9.jar"
+          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/FgeNGUIt/rods_from_god-1.1.0%2B1.21.1.jar"
         },
-        "filename": "rods_from_god-1.0.9.jar",
+        "filename": "rods_from_god-1.1.0+1.21.1.jar",
         "name": "Rods from God",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/zoz2WuvU/rods_from_god-1.0.9.jar"
+    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/FgeNGUIt/rods_from_god-1.1.0%2B1.21.1.jar"
   },
   "roehrchen": {
     "files": {
