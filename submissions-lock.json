@@ -313,16 +313,16 @@
     "files": {
       "gastroarchaeology.pw.toml": {
         "download": {
-          "hash": "6f96bd2907eb5a12b09ea9af7702b01483252ede123849ef710d679e41690387e5b1fbbb7566809add8aed0fbae02426b3c306adde13375d7415492ee258d02f",
+          "hash": "e903ef930fe87cd6cc62d0b49f7e7ec255de5e247029d12d893659e11ced1634eef2db8273999dbad507999b89cc46d5c12aec0f4ff4be5ee440f0f89dba97cd",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/GK1yHwVF/gastroarchaeology-0.1.1.jar"
+          "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/HQL23Ieh/gastroarchaeology-1.0.0.jar"
         },
-        "filename": "gastroarchaeology-0.1.1.jar",
+        "filename": "gastroarchaeology-1.0.0.jar",
         "name": "Gastroarchaeology",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/GK1yHwVF/gastroarchaeology-0.1.1.jar"
+    "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/HQL23Ieh/gastroarchaeology-1.0.0.jar"
   },
   "glowbricks_printing_press_mod": {
     "files": {
@@ -463,16 +463,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "c259eb1c8ecdb7f007a1301ec6a6b14a177676eb",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/1ySVcFBG/legacy_landscape-0.7.0%2B1.21.1.jar"
+          "hash": "3f23429660a4b8f02999bb9bb86ab57b4d28c90f8959ab95c70578a980b5b635ec76b66cfd98d25fcae32e8d659ebcef31f93787a402cd734d390c08b81fadd3",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/fivis3Ou/legacy_landscape-0.7.2%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.7.0+1.21.1.jar",
+        "filename": "legacy_landscape-0.7.2+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/1ySVcFBG/legacy_landscape-0.7.0%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/fivis3Ou/legacy_landscape-0.7.2%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
@@ -853,16 +853,16 @@
       },
       "shrink-ray.pw.toml": {
         "download": {
-          "hash": "94ab153b9cb21180841b32c5d0b8e5b3ef5175fa983512f9b80bd5fe73768c0e8bc9624a616a175ae70beece63bfe16dc3fad3296333f4735135bb80a0e844f4",
+          "hash": "3d82881cb15112d17071dfa802e06b83f8a32f98cf0e957b30fbae2e68c364635bff81a3fd55ff7c2e9b98ab85dabb3e2b8f142223b042a0378db61bfca436f0",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/KdORDrGu/shrinkray-1.0.1.jar"
+          "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/AOgXtOXl/shrinkray-1.0.2.jar"
         },
-        "filename": "shrinkray-1.0.1.jar",
+        "filename": "shrinkray-1.0.2.jar",
         "name": "Shrink Ray",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/KdORDrGu/shrinkray-1.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/AOgXtOXl/shrinkray-1.0.2.jar"
   },
   "skycats_lucky_blocks": {
     "files": {
