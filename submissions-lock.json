@@ -283,16 +283,16 @@
     "files": {
       "foup.pw.toml": {
         "download": {
-          "hash": "8a8c749817a7db6c3d1c29ab6e364bf2e10902e2373a5303d3703fcf12907b7091afbd206d5c0c4eb10af7cac42a3a963e993bee85ea60188c84e1aeb7b4343b",
+          "hash": "0c780aa7a5a537a4b774c6d97d8b2871ec3c01f3c31ea8c306bf76ab0c191b1fb04c14b3b2f0a43b4086bdc986357e29a35c3486cc06eda7e938863b61d34653",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/ih3NrZ1p/foup-0.2.3.jar"
+          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/KjeJuWz8/foup-0.2.4.jar"
         },
-        "filename": "foup-0.2.3.jar",
+        "filename": "foup-0.2.4.jar",
         "name": "FOUP",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/ih3NrZ1p/foup-0.2.3.jar"
+    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/KjeJuWz8/foup-0.2.4.jar"
   },
   "future_things": {
     "files": {
@@ -813,16 +813,16 @@
     "files": {
       "sakuracake.pw.toml": {
         "download": {
-          "hash": "56570fcdf8d9c4e017d5868324be8659605be36a01123252f91a81af597c684f9d8168aa9ed4e67b1953c63d5e6d11316785314448e721278cec4a43279bb3d1",
+          "hash": "cda922e99ffd818cc8f383aee859b09bc6ed35ec9c1b7f2327453002b88edebff7cf27e77f1c689e57057d663b5f4f5157f64a8f3cc237276268e0e5a8321adf",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/qQai9OTO/sakuracake-1.0.0-alpha.1%2Bpatch.10-neoforge%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/agq8Ypsa/sakuracake-1.0.0-alpha.1%2Bpatch.11-neoforge%2B1.21.1.jar"
         },
-        "filename": "sakuracake-1.0.0-alpha.1+patch.10-neoforge+1.21.1.jar",
+        "filename": "sakuracake-1.0.0-alpha.1+patch.11-neoforge+1.21.1.jar",
         "name": "SakuraCake",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/qQai9OTO/sakuracake-1.0.0-alpha.1%2Bpatch.10-neoforge%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/agq8Ypsa/sakuracake-1.0.0-alpha.1%2Bpatch.11-neoforge%2B1.21.1.jar"
   },
   "shattered_stopwatch": {
     "files": {
