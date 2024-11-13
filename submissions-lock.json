@@ -283,16 +283,16 @@
     "files": {
       "foup.pw.toml": {
         "download": {
-          "hash": "8a8c749817a7db6c3d1c29ab6e364bf2e10902e2373a5303d3703fcf12907b7091afbd206d5c0c4eb10af7cac42a3a963e993bee85ea60188c84e1aeb7b4343b",
+          "hash": "0c780aa7a5a537a4b774c6d97d8b2871ec3c01f3c31ea8c306bf76ab0c191b1fb04c14b3b2f0a43b4086bdc986357e29a35c3486cc06eda7e938863b61d34653",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/ih3NrZ1p/foup-0.2.3.jar"
+          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/KjeJuWz8/foup-0.2.4.jar"
         },
-        "filename": "foup-0.2.3.jar",
+        "filename": "foup-0.2.4.jar",
         "name": "FOUP",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/ih3NrZ1p/foup-0.2.3.jar"
+    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/KjeJuWz8/foup-0.2.4.jar"
   },
   "future_things": {
     "files": {
@@ -313,16 +313,16 @@
     "files": {
       "gastroarchaeology.pw.toml": {
         "download": {
-          "hash": "6f96bd2907eb5a12b09ea9af7702b01483252ede123849ef710d679e41690387e5b1fbbb7566809add8aed0fbae02426b3c306adde13375d7415492ee258d02f",
+          "hash": "e903ef930fe87cd6cc62d0b49f7e7ec255de5e247029d12d893659e11ced1634eef2db8273999dbad507999b89cc46d5c12aec0f4ff4be5ee440f0f89dba97cd",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/GK1yHwVF/gastroarchaeology-0.1.1.jar"
+          "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/HQL23Ieh/gastroarchaeology-1.0.0.jar"
         },
-        "filename": "gastroarchaeology-0.1.1.jar",
+        "filename": "gastroarchaeology-1.0.0.jar",
         "name": "Gastroarchaeology",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/GK1yHwVF/gastroarchaeology-0.1.1.jar"
+    "url": "https://cdn.modrinth.com/data/spA4jQeG/versions/HQL23Ieh/gastroarchaeology-1.0.0.jar"
   },
   "glowbricks_printing_press_mod": {
     "files": {
@@ -463,16 +463,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "c259eb1c8ecdb7f007a1301ec6a6b14a177676eb",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/1ySVcFBG/legacy_landscape-0.7.0%2B1.21.1.jar"
+          "hash": "3f23429660a4b8f02999bb9bb86ab57b4d28c90f8959ab95c70578a980b5b635ec76b66cfd98d25fcae32e8d659ebcef31f93787a402cd734d390c08b81fadd3",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/fivis3Ou/legacy_landscape-0.7.2%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.7.0+1.21.1.jar",
+        "filename": "legacy_landscape-0.7.2+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/1ySVcFBG/legacy_landscape-0.7.0%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/fivis3Ou/legacy_landscape-0.7.2%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
@@ -783,16 +783,16 @@
     "files": {
       "rods-from-god.pw.toml": {
         "download": {
-          "hash": "14c5c357b4dcc02972305b2960d07400a63867eb",
+          "hash": "2bbc223ad4459f410bc977d9654bbcb620e06549",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/FgeNGUIt/rods_from_god-1.1.0%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/qnYW3D74/rods_from_god-1.1.1%2B1.21.1.jar"
         },
-        "filename": "rods_from_god-1.1.0+1.21.1.jar",
+        "filename": "rods_from_god-1.1.1+1.21.1.jar",
         "name": "Rods from God",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/FgeNGUIt/rods_from_god-1.1.0%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/qnYW3D74/rods_from_god-1.1.1%2B1.21.1.jar"
   },
   "roehrchen": {
     "files": {
@@ -813,16 +813,16 @@
     "files": {
       "sakuracake.pw.toml": {
         "download": {
-          "hash": "f864a4d2de6fb106f2d700e07f7ebcfb440152d4",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/OyBkyWNw/sakuracake-1.0.0-alpha.1%2Bpatch.8-neoforge%2B1.21.1.jar"
+          "hash": "cda922e99ffd818cc8f383aee859b09bc6ed35ec9c1b7f2327453002b88edebff7cf27e77f1c689e57057d663b5f4f5157f64a8f3cc237276268e0e5a8321adf",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/agq8Ypsa/sakuracake-1.0.0-alpha.1%2Bpatch.11-neoforge%2B1.21.1.jar"
         },
-        "filename": "sakuracake-1.0.0-alpha.1+patch.8-neoforge+1.21.1.jar",
+        "filename": "sakuracake-1.0.0-alpha.1+patch.11-neoforge+1.21.1.jar",
         "name": "SakuraCake",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/OyBkyWNw/sakuracake-1.0.0-alpha.1%2Bpatch.8-neoforge%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/agq8Ypsa/sakuracake-1.0.0-alpha.1%2Bpatch.11-neoforge%2B1.21.1.jar"
   },
   "shattered_stopwatch": {
     "files": {
@@ -853,16 +853,16 @@
       },
       "shrink-ray.pw.toml": {
         "download": {
-          "hash": "94ab153b9cb21180841b32c5d0b8e5b3ef5175fa983512f9b80bd5fe73768c0e8bc9624a616a175ae70beece63bfe16dc3fad3296333f4735135bb80a0e844f4",
+          "hash": "3d82881cb15112d17071dfa802e06b83f8a32f98cf0e957b30fbae2e68c364635bff81a3fd55ff7c2e9b98ab85dabb3e2b8f142223b042a0378db61bfca436f0",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/KdORDrGu/shrinkray-1.0.1.jar"
+          "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/AOgXtOXl/shrinkray-1.0.2.jar"
         },
-        "filename": "shrinkray-1.0.1.jar",
+        "filename": "shrinkray-1.0.2.jar",
         "name": "Shrink Ray",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/KdORDrGu/shrinkray-1.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/9Ppvgyp0/versions/AOgXtOXl/shrinkray-1.0.2.jar"
   },
   "skycats_lucky_blocks": {
     "files": {
