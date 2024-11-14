@@ -249,6 +249,21 @@
     },
     "url": "https://cdn.modrinth.com/data/gVB8tSZY/versions/NBGZp7Ef/dissolution-1.0.0.jar"
   },
+  "everwinter_modfest": {
+    "files": {
+      "everwinter_modfest.pw.toml": {
+        "download": {
+          "hash": "e5a99be91dc9c16d2c20a790e58f9aca959fc9a562d80e04b08e0615e6a51fb82136a3c7870b163a6c4eb247eace9ae7003b3b6595b01dc92c8421413cc21a9e",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/tQdBh6NH/versions/wCJGgCLL/everwinter-1.0.0.jar"
+        },
+        "filename": "everwinter-1.0.0.jar",
+        "name": "Everwinter",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/tQdBh6NH/versions/wCJGgCLL/everwinter-1.0.0.jar"
+  },
   "familiar_magic": {
     "files": {
       "familiar-magic.pw.toml": {
