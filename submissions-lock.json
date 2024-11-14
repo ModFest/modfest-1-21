@@ -33,18 +33,18 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "d6335c756d113fd8cba3fdc114061e7b2087ffc4576542fe7ce63fa4c3ed88934ef54591d0cf58fa73157577d029a03eb8119ef5e2905574581511c2c5aa932c",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/cXrJCl3d/armistice-1.0.0-SNAPSHOT11.jar"
+          "hash": "de7b5cc7f30dd977cb9cab2a0215c82494ec144d",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/h5hhJuLh/armistice-1.0.0-SNAPSHOT12.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT11.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT12.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
       "fusion-connected-textures.pw.toml": {
         "download": {
-          "hash": "d81d0f2cf8582a72148d8b768d3542df7e821a6c6e1af693886efa0a8acee9d1f2e8b5a10891be82b406e579c05fa5a893838d131f2305db78da503c00149b51",
-          "hash-format": "sha512",
+          "hash": "68279edbf4902254a1ea1019f74ab5c3c969762e",
+          "hash-format": "sha1",
           "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Z8Hlv22C/fusion-1.1.1a-neoforge-mc1.21.jar"
         },
         "filename": "fusion-1.1.1a-neoforge-mc1.21.jar",
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/cXrJCl3d/armistice-1.0.0-SNAPSHOT11.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/h5hhJuLh/armistice-1.0.0-SNAPSHOT12.jar"
   },
   "bubblelife": {
     "files": {
@@ -268,16 +268,16 @@
     "files": {
       "fbombs.pw.toml": {
         "download": {
-          "hash": "f5083ee4d3fffdac603e3d2b3359ddc354060d45",
+          "hash": "9493d818763ea9d7c5a6ef6c7d68864f05b068a0",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/rDLkXy0u/fbombs-1.2.0%2B1.21.jar"
+          "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/ZAhVBaVJ/fbombs-1.2.1%2B1.21.jar"
         },
-        "filename": "fbombs-1.2.0+1.21.jar",
+        "filename": "fbombs-1.2.1+1.21.jar",
         "name": "FBombs",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/rDLkXy0u/fbombs-1.2.0%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/LEghcpvj/versions/ZAhVBaVJ/fbombs-1.2.1%2B1.21.jar"
   },
   "foup": {
     "files": {
@@ -563,16 +563,16 @@
     "files": {
       "modernutils.pw.toml": {
         "download": {
-          "hash": "345c2d8f9aff7d15385551385e92d0a1eb0a9dbeb85337bd5d6b4fec4423ab05542f1e8599a5262f08515bd3be5d73125d960d04707ece207d89d2a8c0416aea",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/WxxNO9yA/modernutils-0.0.2.jar"
+          "hash": "a6b89912dea0d44ff6f0a325fe388a74c6931b2c",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/mxOwiSl4/modernutils-0.0.3.jar"
         },
-        "filename": "modernutils-0.0.2.jar",
-        "name": "ModernUtils",
+        "filename": "modernutils-0.0.3.jar",
+        "name": "Modern Utils",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/WxxNO9yA/modernutils-0.0.2.jar"
+    "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/mxOwiSl4/modernutils-0.0.3.jar"
   },
   "moretraps": {
     "files": {
