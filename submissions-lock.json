@@ -373,8 +373,8 @@
     "files": {
       "architectury-api.pw.toml": {
         "download": {
-          "hash": "65e3664953385d880320dd6bb818bcb96d361c07c53e2a7f65e64c6a47720ee26b233224ae9cad465ef0b2bbaefdaf30fb0175a983cecd91de058817d6fcf57e",
-          "hash-format": "sha512",
+          "hash": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+          "hash-format": "sha1",
           "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
         },
         "filename": "architectury-13.0.8-neoforge.jar",
@@ -383,18 +383,18 @@
       },
       "just-another-witchery-remake.pw.toml": {
         "download": {
-          "hash": "07343385330a76a4afe3c6b980c9eb382b5368d063cc39273c3eab1b77c4a2ab26ff84bf4aca8ad177f80c51b49ac1b74a9ba6ff45787c8f27a47cb55cad9c1d",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/4IZ5PnFz/witchery-neoforge-0.1.2e.jar"
+          "hash": "06b7e27ff01da4f868553fab24a9c694d88820bd",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/SULG3Yck/witchery-neoforge-0.1.2e-modfest.jar"
         },
-        "filename": "witchery-neoforge-0.1.2e.jar",
+        "filename": "witchery-neoforge-0.1.2e-modfest.jar",
         "name": "Just Another Witchery Remake",
         "side": "both"
       },
       "kotlin-for-forge.pw.toml": {
         "download": {
-          "hash": "daa6c6879d5c802dc70227293e15a8dad20b9557e9d2a160eabfc890ef1ed47d5dae9bad6a16be851a1ce50704caf20bb762f064cb315564ce5ad4909e8cb196",
-          "hash-format": "sha512",
+          "hash": "6f0dad91b8a745b79221454e0d852893cce03f3d",
+          "hash-format": "sha1",
           "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/5Vlx7W4o/kotlinforforge-5.6.0-all.jar"
         },
         "filename": "kotlinforforge-5.6.0-all.jar",
@@ -403,16 +403,16 @@
       },
       "modonomicon.pw.toml": {
         "download": {
-          "hash": "4c722f879e370960094b6df7b8c30a54ab971b582a109f316ce6dc2cb2b008ba4bcd271398865df8207f597fe019b11f443e7c4602fe48e83647aa6aca94e5c1",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/692GClaE/versions/ccdMqJpc/modonomicon-1.21.1-neoforge-1.108.2.jar"
+          "hash": "9276202a20f790f2fc6a1149843d049b1be20f5e",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/692GClaE/versions/AL7Hw5RK/modonomicon-1.21.1-neoforge-1.108.4.jar"
         },
-        "filename": "modonomicon-1.21.1-neoforge-1.108.2.jar",
+        "filename": "modonomicon-1.21.1-neoforge-1.108.4.jar",
         "name": "Modonomicon",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/4IZ5PnFz/witchery-neoforge-0.1.2e.jar"
+    "url": "https://cdn.modrinth.com/data/LCO8KZvC/versions/SULG3Yck/witchery-neoforge-0.1.2e-modfest.jar"
   },
   "kill_youkai_with_knives": {
     "files": {
@@ -463,16 +463,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "3f23429660a4b8f02999bb9bb86ab57b4d28c90f8959ab95c70578a980b5b635ec76b66cfd98d25fcae32e8d659ebcef31f93787a402cd734d390c08b81fadd3",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/fivis3Ou/legacy_landscape-0.7.2%2B1.21.1.jar"
+          "hash": "a1377a14d6b009846f228f4e13611a683517e51a",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/Bd4Xwbar/legacy_landscape-0.8.0%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.7.2+1.21.1.jar",
+        "filename": "legacy_landscape-0.8.0+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/fivis3Ou/legacy_landscape-0.7.2%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/Bd4Xwbar/legacy_landscape-0.8.0%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
@@ -738,16 +738,16 @@
     "files": {
       "plastar.pw.toml": {
         "download": {
-          "hash": "87dff6e60c611e841b3cf4ca48d8323a863e841bb9d5114a0a864582aa81daff1b2eb06f27eaae5c1fd397e23492420444b77a3b9f710325803c9bdee02adb59",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/GkszWH1B/plastar-neoforge-0.2.1%2B1.21.1.jar"
+          "hash": "809eed12c5dd1081a10168318aa4bffbe354e2f1",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/cY29BjfU/plastar-neoforge-0.2.2%2B1.21.1.jar"
         },
-        "filename": "plastar-neoforge-0.2.1+1.21.1.jar",
+        "filename": "plastar-neoforge-0.2.2+1.21.1.jar",
         "name": "Mecha Soldier PLASTAR",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/GkszWH1B/plastar-neoforge-0.2.1%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/cY29BjfU/plastar-neoforge-0.2.2%2B1.21.1.jar"
   },
   "pocketwatchery": {
     "files": {
@@ -783,16 +783,16 @@
     "files": {
       "rods-from-god.pw.toml": {
         "download": {
-          "hash": "2bbc223ad4459f410bc977d9654bbcb620e06549",
+          "hash": "9baf069d206039427c6c2840d4f714959ead5977",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/qnYW3D74/rods_from_god-1.1.1%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/mg0xqYIT/rods_from_god-1.1.2%2B1.21.1.jar"
         },
-        "filename": "rods_from_god-1.1.1+1.21.1.jar",
+        "filename": "rods_from_god-1.1.2+1.21.1.jar",
         "name": "Rods from God",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/qnYW3D74/rods_from_god-1.1.1%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/mg0xqYIT/rods_from_god-1.1.2%2B1.21.1.jar"
   },
   "roehrchen": {
     "files": {
@@ -813,16 +813,16 @@
     "files": {
       "sakuracake.pw.toml": {
         "download": {
-          "hash": "cda922e99ffd818cc8f383aee859b09bc6ed35ec9c1b7f2327453002b88edebff7cf27e77f1c689e57057d663b5f4f5157f64a8f3cc237276268e0e5a8321adf",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/agq8Ypsa/sakuracake-1.0.0-alpha.1%2Bpatch.11-neoforge%2B1.21.1.jar"
+          "hash": "03b723bec621bbb2172294e6d0ea3946dd1c2adf",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/UYYiH0JE/sakuracake-1.0.0-alpha.1%2Bpatch.12-neoforge%2B1.21.1.jar"
         },
-        "filename": "sakuracake-1.0.0-alpha.1+patch.11-neoforge+1.21.1.jar",
+        "filename": "sakuracake-1.0.0-alpha.1+patch.12-neoforge+1.21.1.jar",
         "name": "SakuraCake",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/agq8Ypsa/sakuracake-1.0.0-alpha.1%2Bpatch.11-neoforge%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/6gkyPuKT/versions/UYYiH0JE/sakuracake-1.0.0-alpha.1%2Bpatch.12-neoforge%2B1.21.1.jar"
   },
   "shattered_stopwatch": {
     "files": {
