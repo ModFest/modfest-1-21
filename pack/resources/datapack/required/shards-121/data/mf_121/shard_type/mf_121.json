@@ -71,7 +71,7 @@
 		},
 		"list_order": 8
 	},
-	"mf_121:radio": {
+	"mf_121:electricity": {
 		"text_color": "#5f57ff",
 		"glow_color": "#bafffa",
 		"collect_particle": "minecraft:wax_off",
@@ -80,7 +80,7 @@
 		},
 		"list_order": 9
 	},
-	"mf_121:television": {
+	"mf_121:radio": {
 		"text_color": "#5f57ff",
 		"glow_color": "#bafffa",
 		"collect_particle": "minecraft:wax_off",
@@ -89,7 +89,7 @@
 		},
 		"list_order": 10
 	},
-	"mf_121:internet": {
+	"mf_121:television": {
 		"text_color": "#5f57ff",
 		"glow_color": "#bafffa",
 		"collect_particle": "minecraft:wax_off",
@@ -98,7 +98,7 @@
 		},
 		"list_order": 11
 	},
-	"mf_121:warp_drive": {
+	"mf_121:internet": {
 		"text_color": "#5f57ff",
 		"glow_color": "#bafffa",
 		"collect_particle": "minecraft:wax_off",
@@ -106,5 +106,14 @@
 			"sound_id": "scattered_shards:collect_challenge"
 		},
 		"list_order": 12
+	},
+	"mf_121:warp_drive": {
+		"text_color": "#5f57ff",
+		"glow_color": "#bafffa",
+		"collect_particle": "minecraft:wax_off",
+		"collect_sound": {
+			"sound_id": "scattered_shards:collect_challenge"
+		},
+		"list_order": 13
 	}
 }
