@@ -478,16 +478,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "a1377a14d6b009846f228f4e13611a683517e51a",
+          "hash": "f0ad3f2d68428ff3edea9a0616af0008d27517ca",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/Bd4Xwbar/legacy_landscape-0.8.0%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/jLEXBPGj/legacy_landscape-0.8.1%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.8.0+1.21.1.jar",
+        "filename": "legacy_landscape-0.8.1+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/Bd4Xwbar/legacy_landscape-0.8.0%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/jLEXBPGj/legacy_landscape-0.8.1%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
@@ -928,16 +928,16 @@
     "files": {
       "tanglr.pw.toml": {
         "download": {
-          "hash": "3c98cd569924f568c1751463cf605f0b88ba9cae552687baaaa6e19dc68066ae6be9c06f67eac762cef4e5844672d4e0e38205544777e60406ca1aada1f5d07e",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/YJgdQmuE/tanglr-1.2.0.jar"
+          "hash": "1083e7dd5bb6a92542c409d43e890613af5cd30f",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/8D434JzF/tanglr-1.2.1.jar"
         },
-        "filename": "tanglr-1.2.0.jar",
+        "filename": "tanglr-1.2.1.jar",
         "name": "Tanglr",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/YJgdQmuE/tanglr-1.2.0.jar"
+    "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/8D434JzF/tanglr-1.2.1.jar"
   },
   "temporang": {
     "files": {
