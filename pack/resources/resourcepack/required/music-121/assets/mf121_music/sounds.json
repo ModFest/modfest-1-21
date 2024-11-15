@@ -1,0 +1,47 @@
+{
+	"music.time": {
+		"sounds": [
+		"mf121_music:music/time"
+		]
+	},
+	"music.angelsreprise": {
+		"sounds": [
+		"mf121_music:music/angelsreprise"
+		]
+	},
+	"music.kleptoophanim": {
+		"sounds": [
+		"mf121_music:music/kleptoophanim"
+		]
+	},
+	"music.effigy": {
+		"sounds": [
+		"mf121_music:music/effigy"
+		]
+	},
+	"music.subwoofernulb": {
+		"sounds": [
+		"mf121_music:music/subwoofernulb"
+		]
+	},
+	"music.chronograph": {
+		"sounds": [
+		"mf121_music:music/chronograph"
+		]
+	},
+	"music.mallofepoch": {
+		"sounds": [
+		"mf121_music:music/mallofepoch"
+		]
+	},
+	"music.traincrossing": {
+		"sounds": [
+		"mf121_music:music/traincrossing"
+		]
+	},
+	"music.duetime": {
+		"sounds": [
+		"mf121_music:music/duetime"
+		]
+	}
+}
