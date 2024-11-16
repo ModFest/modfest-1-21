@@ -33,11 +33,11 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "ee96628b6b5b1204611395657c53b2c69deee15e",
+          "hash": "29d66d6ad2f2001ab30fa39f473f4adb3f8d3fdb",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/1z5ma9vF/armistice-1.0.0-SNAPSHOT13.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/yIdVPFYs/armistice-1.0.0-SNAPSHOT14.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT13.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT14.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/1z5ma9vF/armistice-1.0.0-SNAPSHOT13.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/yIdVPFYs/armistice-1.0.0-SNAPSHOT14.jar"
   },
   "bubblelife": {
     "files": {
@@ -478,16 +478,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "f0ad3f2d68428ff3edea9a0616af0008d27517ca",
+          "hash": "ac7d25ffced164d3ece748bbcf50d3423c900ba2",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/jLEXBPGj/legacy_landscape-0.8.1%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/ED8W3ftX/legacy_landscape-0.8.2%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.8.1+1.21.1.jar",
+        "filename": "legacy_landscape-0.8.2+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/jLEXBPGj/legacy_landscape-0.8.1%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/ED8W3ftX/legacy_landscape-0.8.2%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
@@ -973,16 +973,16 @@
     "files": {
       "timewarp.pw.toml": {
         "download": {
-          "hash": "d384c2d1266f679720169b40b2997bda9b81b7db1b941bb44f6b858b11fb728d3c17522bde0874a43b2d80f1a6f65ce58e3da5129b1ef015a63ad7564592d6b5",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/77p13nMv/timewarp-1.21-1.1.3.jar"
+          "hash": "45e95cb6a7097284a93df9d1b72e0d59240fef91",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/N4JxYtPO/timewarp-1.21-1.1.6.jar"
         },
-        "filename": "timewarp-1.21-1.1.3.jar",
+        "filename": "timewarp-1.21-1.1.6.jar",
         "name": "Timewarp",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/77p13nMv/timewarp-1.21-1.1.3.jar"
+    "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/N4JxYtPO/timewarp-1.21-1.1.6.jar"
   },
   "unearth": {
     "files": {
