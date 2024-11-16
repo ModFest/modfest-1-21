@@ -37,6 +37,7 @@
             "permission_keys": {
                 "modfest.builder": "allow",
                 "worldedit.*": "allow",
+                "scattered_shards.command.award": "allow",
                 "scattered_shards.command.collect": "allow",
                 "scattered_shards.command.uncollect.*": "allow",
                 "scattered_shards.command.block": "allow",
