@@ -4,6 +4,31 @@
 		"mf121_music:music/time"
 		]
 	},
+	"music.metaphor_split": {
+		"sounds": [
+		"mf121_music:music/metaphor_split"
+		]
+	},
+	"music.bird_pipes": {
+		"sounds": [
+		"mf121_music:music/bird_pipes"
+		]
+	},
+	"music.twenty_ticks": {
+		"sounds": [
+		"mf121_music:music/twenty_ticks"
+		]
+	},
+	"music.sublime_inversion": {
+		"sounds": [
+		"mf121_music:music/sublime_inversion"
+		]
+	},
+	"music.epoch": {
+		"sounds": [
+		"mf121_music:music/epoch"
+		]
+	},
 	"music.angelsreprise": {
 		"sounds": [
 		"mf121_music:music/angelsreprise"

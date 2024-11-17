@@ -1,0 +1,8 @@
+{
+  "comparator_output": 2,
+  "description": "lumiscosity - Hymn of Epoch",
+  "length_in_seconds": 96.0,
+  "sound_event": {
+	  "sound_id": "mf121_music:music.epoch"
+  }
+}
