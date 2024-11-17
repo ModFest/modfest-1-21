@@ -253,16 +253,16 @@
     "files": {
       "everwinter_modfest.pw.toml": {
         "download": {
-          "hash": "e5a99be91dc9c16d2c20a790e58f9aca959fc9a562d80e04b08e0615e6a51fb82136a3c7870b163a6c4eb247eace9ae7003b3b6595b01dc92c8421413cc21a9e",
+          "hash": "cbf69003d5b1326093f1144a4775fe9c301f793404f20726989d9a676fb3c87fdf0c0f915cee6e543b723ebeb4c802753eafeeec0a09a6398076a53a35416439",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/tQdBh6NH/versions/wCJGgCLL/everwinter-1.0.0.jar"
+          "url": "https://cdn.modrinth.com/data/tQdBh6NH/versions/wbjSZjiG/everwinter-1.1a.jar"
         },
-        "filename": "everwinter-1.0.0.jar",
+        "filename": "everwinter-1.1a.jar",
         "name": "Everwinter",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/tQdBh6NH/versions/wCJGgCLL/everwinter-1.0.0.jar"
+    "url": "https://cdn.modrinth.com/data/tQdBh6NH/versions/wbjSZjiG/everwinter-1.1a.jar"
   },
   "familiar_magic": {
     "files": {
@@ -313,16 +313,16 @@
     "files": {
       "future-things.pw.toml": {
         "download": {
-          "hash": "42e04a7d68ca3cdb93a8e6383d6e87e1dcbc7485075a9ee1a13752d5daaa916afd9b0fbd917795919d2e0cd3c703f4156a7d0ed64d39cc87c0be15fe44a00355",
+          "hash": "15a562ea2fb821f4531398e9020cb2a6155575984fc4afe46b728f080ec2671e29bc4c1983e653c72fb33b6dec64945db3f1b50256e548df3ee3cd618360f357",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/ZFNTYm4J/versions/CpxLjfke/future_things-1.0.0.jar"
+          "url": "https://cdn.modrinth.com/data/ZFNTYm4J/versions/nIl8gOkf/future_things-1.0.1.jar"
         },
-        "filename": "future_things-1.0.0.jar",
+        "filename": "future_things-1.0.1.jar",
         "name": "Future Things",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/ZFNTYm4J/versions/CpxLjfke/future_things-1.0.0.jar"
+    "url": "https://cdn.modrinth.com/data/ZFNTYm4J/versions/nIl8gOkf/future_things-1.0.1.jar"
   },
   "gastroarchaeology": {
     "files": {
@@ -478,16 +478,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "ac7d25ffced164d3ece748bbcf50d3423c900ba2",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/ED8W3ftX/legacy_landscape-0.8.2%2B1.21.1.jar"
+          "hash": "d5d6bce4d5a364404c9d1c5cab7ee5630c7864787b8299d25dd299f9738d7be429657dcc9b86186f4c30b9e55b27523724178145879a77aa25afc4a34f363865",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/N0qrjGCR/legacy_landscape-0.8.3%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.8.2+1.21.1.jar",
+        "filename": "legacy_landscape-0.8.3+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/ED8W3ftX/legacy_landscape-0.8.2%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/N0qrjGCR/legacy_landscape-0.8.3%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
