@@ -33,11 +33,11 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "29d66d6ad2f2001ab30fa39f473f4adb3f8d3fdb",
+          "hash": "78dd20ef82504d137850b18bc66e0d8cefdf4a58",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/yIdVPFYs/armistice-1.0.0-SNAPSHOT14.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/nCBDw2hg/armistice-1.0.0-SNAPSHOT15.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT14.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT15.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/yIdVPFYs/armistice-1.0.0-SNAPSHOT14.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/nCBDw2hg/armistice-1.0.0-SNAPSHOT15.jar"
   },
   "bubblelife": {
     "files": {
@@ -493,8 +493,8 @@
     "files": {
       "geckolib.pw.toml": {
         "download": {
-          "hash": "9054e6513d41c32d0892179984339c77b637db92e7ef71e46ccb1c531e6c92f1bbd0a9d30302c119069e2513a9711c14464562aea2b59c64f74287eb1df5804a",
-          "hash-format": "sha512",
+          "hash": "4ccf2ab7e47f970d81c5dde4522b75eafbb438c1",
+          "hash-format": "sha1",
           "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/qHj5WJHI/geckolib-neoforge-1.21.1-4.7.jar"
         },
         "filename": "geckolib-neoforge-1.21.1-4.7.jar",
@@ -503,16 +503,16 @@
       },
       "life-size-bdubs.pw.toml": {
         "download": {
-          "hash": "d9277d5411fa3b8f104e39a72b7605d1699f4f752ff8db80959daaf377771ea899f581dae7a1e49d3d8f1a5a20e58859fbf9afb4f0fa164be949adf423815d4b",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/Ic93izP2/lifesizebdubs-1.0.0.jar"
+          "hash": "bcf483ba508b926ba1ec32facada738f9316ac46",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/9UHDRKdU/lifesizebdubs-1.0.1.jar"
         },
-        "filename": "lifesizebdubs-1.0.0.jar",
+        "filename": "lifesizebdubs-1.0.1.jar",
         "name": "Life-Size Bdubs",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/Ic93izP2/lifesizebdubs-1.0.0.jar"
+    "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/9UHDRKdU/lifesizebdubs-1.0.1.jar"
   },
   "magisterium": {
     "files": {
@@ -913,16 +913,16 @@
     "files": {
       "super_mod.pw.toml": {
         "download": {
-          "hash": "102a961ed39b8ab2659937f84dcab323c0cb2f96",
+          "hash": "ff62cd8ff40438072b4a5f258c47ad5790f51174",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/DWNTfC9U/super_mod-1.1.3.jar"
+          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/dvtOzVer/super_mod-1.2.3.jar"
         },
-        "filename": "super_mod-1.1.3.jar",
+        "filename": "super_mod-1.2.3.jar",
         "name": "SuperMod",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/DWNTfC9U/super_mod-1.1.3.jar"
+    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/dvtOzVer/super_mod-1.2.3.jar"
   },
   "tanglr": {
     "files": {
