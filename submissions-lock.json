@@ -898,16 +898,16 @@
     "files": {
       "spleef-toys.pw.toml": {
         "download": {
-          "hash": "ff3b7e02272f3e602688e799d0a6bf889d93c0a3cf1bb39b9b58a80ac039bfaa5f569f0febf71fe0f80be593fa95022c21d8d8c1253dd52400d6ae98293a1c2e",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/GTNhQH0z/versions/jFa7RTvN/spleef_toys-1.0.0%2B1.21.jar"
+          "hash": "7de456c8cddced47d6487316daf9240ed9b9c802",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/GTNhQH0z/versions/8GQaEWmj/spleef_toys-1.0.1%2B1.21.jar"
         },
-        "filename": "spleef_toys-1.0.0+1.21.jar",
+        "filename": "spleef_toys-1.0.1+1.21.jar",
         "name": "Spleef Toys",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/GTNhQH0z/versions/jFa7RTvN/spleef_toys-1.0.0%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/GTNhQH0z/versions/8GQaEWmj/spleef_toys-1.0.1%2B1.21.jar"
   },
   "super_mod": {
     "files": {
