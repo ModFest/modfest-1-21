@@ -9,7 +9,7 @@ modernutils
 craftsense
 
 # Manual override whilst debugging
-spleef-toys
+spleef_toys
 
 # Prevent submissions from accidentally adding this (parachymistry)
 connector.pw.toml
