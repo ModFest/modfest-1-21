@@ -8,6 +8,9 @@ modernutils
 # This mod has been added manually, see its .pw.toml
 craftsense
 
+# Manual override whilst debugging
+spleef-toys
+
 # Prevent submissions from accidentally adding this (parachymistry)
 connector.pw.toml
 
