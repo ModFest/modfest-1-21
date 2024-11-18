@@ -1,13 +1,13 @@
 name = "Barricade"
-filename = "barricade-neoforge-1.0.0+1.21.1.jar"
+filename = "barricade-neoforge-1.2.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kRSR7ZEj/versions/pin3HWah/barricade-neoforge-1.0.0%2B1.21.1.jar"
-hash-format = "sha1"
-hash = "ac53a61d497bb72f3b1181db73f9458d67f2a282"
+url = "https://cdn.modrinth.com/data/kRSR7ZEj/versions/GZkcpx3S/barricade-neoforge-1.2.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "c55ff588b764a6e7f65ea337e2021259ce11d0b935f34ebc040185011d53acaf9a4768dfce7ec37432e73aeb889e03e34e987cc922c1848249043d3f9cba696b"
 
 [update]
 [update.modrinth]
 mod-id = "kRSR7ZEj"
-version = "pin3HWah"
+version = "GZkcpx3S"
