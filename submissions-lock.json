@@ -268,16 +268,16 @@
     "files": {
       "familiar-magic.pw.toml": {
         "download": {
-          "hash": "24eae672b8621c2664a4c7c89962129c8e1a4d96ea58fc4faf3315bedacece9dcbd83cbd1dc7f1803656510f918f34e45cd3b69f4a2054ee921dc1dbc453cdb3",
+          "hash": "e23dd04b18705114cbbe79385f70800bb55a2601848a64d8967c3c66af991d55f645bdfbb2a552938fc384ee3d262cd6efd7b992bcf9629ea832cc7b8910a448",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/AgpgO9wd/familiar_magic-1.0.5.jar"
+          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/Mxj2vLBH/familiar_magic-1.0.6.jar"
         },
-        "filename": "familiar_magic-1.0.5.jar",
+        "filename": "familiar_magic-1.0.6.jar",
         "name": "familiar magic",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/AgpgO9wd/familiar_magic-1.0.5.jar"
+    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/Mxj2vLBH/familiar_magic-1.0.6.jar"
   },
   "fbombs": {
     "files": {
