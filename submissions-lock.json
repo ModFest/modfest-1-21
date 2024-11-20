@@ -298,16 +298,16 @@
     "files": {
       "foup.pw.toml": {
         "download": {
-          "hash": "0c780aa7a5a537a4b774c6d97d8b2871ec3c01f3c31ea8c306bf76ab0c191b1fb04c14b3b2f0a43b4086bdc986357e29a35c3486cc06eda7e938863b61d34653",
+          "hash": "8cd570949e962256dabecc71e0f8729429d77df85fb98e346789e90a014f8eac54cc453da5d242c50d57b8366eb4c464d66481a45c21ca09a6b871de87c4a25d",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/KjeJuWz8/foup-0.2.4.jar"
+          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/4lCjlnIq/foup-0.2.5.jar"
         },
-        "filename": "foup-0.2.4.jar",
+        "filename": "foup-0.2.5.jar",
         "name": "FOUP",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/KjeJuWz8/foup-0.2.4.jar"
+    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/4lCjlnIq/foup-0.2.5.jar"
   },
   "future_things": {
     "files": {
