@@ -1,72 +1,56 @@
 {
-	"music.time": {
-		"sounds": [
-		"mf121_music:music/time"
-		]
-	},
-	"music.metaphor_split": {
-		"sounds": [
-		"mf121_music:music/metaphor_split"
-		]
-	},
-	"music.bird_pipes": {
-		"sounds": [
-		"mf121_music:music/bird_pipes"
-		]
-	},
-	"music.twenty_ticks": {
-		"sounds": [
-		"mf121_music:music/twenty_ticks"
-		]
-	},
-	"music.sublime_inversion": {
-		"sounds": [
-		"mf121_music:music/sublime_inversion"
-		]
-	},
-	"music.epoch": {
-		"sounds": [
-		"mf121_music:music/epoch"
-		]
-	},
-	"music.angelsreprise": {
-		"sounds": [
-		"mf121_music:music/angelsreprise"
-		]
-	},
-	"music.kleptoophanim": {
-		"sounds": [
-		"mf121_music:music/kleptoophanim"
-		]
-	},
-	"music.effigy": {
-		"sounds": [
-		"mf121_music:music/effigy"
-		]
-	},
-	"music.subwoofernulb": {
-		"sounds": [
-		"mf121_music:music/subwoofernulb"
-		]
-	},
-	"music.chronograph": {
-		"sounds": [
-		"mf121_music:music/chronograph"
-		]
-	},
-	"music.mallofepoch": {
-		"sounds": [
-		"mf121_music:music/mallofepoch"
-		]
-	},
-	"music.traincrossing": {
-		"sounds": [
-		"mf121_music:music/traincrossing"
-		]
-	},
-	"music.duetime": {
-		"sounds": [
-		"mf121_music:music/duetime"
-		]
-	}
+  "music.time": {
+    "sounds": ["mf121_music:music/time"]
+  },
+  "music.metaphor_split": {
+    "sounds": ["mf121_music:music/metaphor_split"]
+  },
+  "music.bird_pipes": {
+    "sounds": ["mf121_music:music/bird_pipes"]
+  },
+  "music.twenty_ticks": {
+    "sounds": ["mf121_music:music/twenty_ticks"]
+  },
+  "music.sublime_inversion": {
+    "sounds": ["mf121_music:music/sublime_inversion"]
+  },
+  "music.epoch": {
+    "sounds": ["mf121_music:music/epoch"]
+  },
+  "music.angelsreprise": {
+    "sounds": ["mf121_music:music/angelsreprise"]
+  },
+  "music.kleptoophanim": {
+    "sounds": ["mf121_music:music/kleptoophanim"]
+  },
+  "music.effigy": {
+    "sounds": ["mf121_music:music/effigy"]
+  },
+  "music.subwoofernulb": {
+    "sounds": ["mf121_music:music/subwoofernulb"]
+  },
+  "music.chronograph": {
+    "sounds": ["mf121_music:music/chronograph"]
+  },
+  "music.mallofepoch": {
+    "sounds": ["mf121_music:music/mallofepoch"]
+  },
+  "music.traincrossing": {
+    "sounds": ["mf121_music:music/traincrossing"]
+  },
+  "music.duetime": {
+    "sounds": ["mf121_music:music/duetime"]
+  },
+  "music.bastille": {
+    "sounds": ["mf121_music:music/bastille"]
+  },
+  "music.montreal": {
+    "sounds": ["mf121_music:music/montreal"]
+  },
+  "music.stasis_overture": {
+    "sounds": ["mf121_music:music/stasis_overture"]
+  },
+  "music.time_farewell": {
+    "sounds": ["mf121_music:music/time_farewell"]
+  }
 }

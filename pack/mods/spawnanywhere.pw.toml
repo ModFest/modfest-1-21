@@ -1,6 +1,6 @@
 name = "SpawnAnywhere"
 filename = "spawnanywhere-1.1.1+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QsMjldiE/versions/AR4owrBq/spawnanywhere-1.1.1%2B1.21.jar"

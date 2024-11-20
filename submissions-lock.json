@@ -33,11 +33,11 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "78dd20ef82504d137850b18bc66e0d8cefdf4a58",
+          "hash": "92dda5f132f9d75a66ce0d937e4408f4a0e2d516",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/nCBDw2hg/armistice-1.0.0-SNAPSHOT15.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/mGTl2akt/armistice-1.0.0-SNAPSHOT17.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT15.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT17.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/nCBDw2hg/armistice-1.0.0-SNAPSHOT15.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/mGTl2akt/armistice-1.0.0-SNAPSHOT17.jar"
   },
   "bubblelife": {
     "files": {
@@ -268,16 +268,16 @@
     "files": {
       "familiar-magic.pw.toml": {
         "download": {
-          "hash": "4e36b4fc14188c45da207804cf80233722ec42cc",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/DIXXRWjt/familiar_magic-1.0.4.jar"
+          "hash": "24eae672b8621c2664a4c7c89962129c8e1a4d96ea58fc4faf3315bedacece9dcbd83cbd1dc7f1803656510f918f34e45cd3b69f4a2054ee921dc1dbc453cdb3",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/AgpgO9wd/familiar_magic-1.0.5.jar"
         },
-        "filename": "familiar_magic-1.0.4.jar",
+        "filename": "familiar_magic-1.0.5.jar",
         "name": "familiar magic",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/DIXXRWjt/familiar_magic-1.0.4.jar"
+    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/AgpgO9wd/familiar_magic-1.0.5.jar"
   },
   "fbombs": {
     "files": {
@@ -298,16 +298,16 @@
     "files": {
       "foup.pw.toml": {
         "download": {
-          "hash": "0c780aa7a5a537a4b774c6d97d8b2871ec3c01f3c31ea8c306bf76ab0c191b1fb04c14b3b2f0a43b4086bdc986357e29a35c3486cc06eda7e938863b61d34653",
+          "hash": "8cd570949e962256dabecc71e0f8729429d77df85fb98e346789e90a014f8eac54cc453da5d242c50d57b8366eb4c464d66481a45c21ca09a6b871de87c4a25d",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/KjeJuWz8/foup-0.2.4.jar"
+          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/4lCjlnIq/foup-0.2.5.jar"
         },
-        "filename": "foup-0.2.4.jar",
+        "filename": "foup-0.2.5.jar",
         "name": "FOUP",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/KjeJuWz8/foup-0.2.4.jar"
+    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/4lCjlnIq/foup-0.2.5.jar"
   },
   "future_things": {
     "files": {
@@ -383,6 +383,41 @@
       }
     },
     "url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/EY9MaYNo/hyphapiracea-neoforge-mc1.21.1-0.1.2.jar"
+  },
+  "interstellar": {
+    "files": {
+      "architectury-api.pw.toml": {
+        "download": {
+          "hash": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
+        },
+        "filename": "architectury-13.0.8-neoforge.jar",
+        "name": "Architectury API",
+        "side": "both"
+      },
+      "fzzy-config.pw.toml": {
+        "download": {
+          "hash": "69ce3f058afa209870ac59e2ba83a3478b567b33",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/OBu6FL2u/fzzy_config-0.5.7%2B1.21%2Bneoforge.jar"
+        },
+        "filename": "fzzy_config-0.5.7+1.21+neoforge.jar",
+        "name": "Fzzy Config",
+        "side": "both"
+      },
+      "interstellar.pw.toml": {
+        "download": {
+          "hash": "d07cc44da734d3669d7a8894b6756e291c8c8f8b",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/5hSfW5Sc/versions/cDWzJQ5k/interstellar-modfest-edition-neoforge-0.1.0%2Bmc1.21.1.jar"
+        },
+        "filename": "interstellar-modfest-edition-neoforge-0.1.0+mc1.21.1.jar",
+        "name": "Interstellar",
+        "side": "both"
+      }
+    },
+    "url": "https://cdn.modrinth.com/data/5hSfW5Sc/versions/cDWzJQ5k/interstellar-modfest-edition-neoforge-0.1.0%2Bmc1.21.1.jar"
   },
   "just_another_witchery_remake": {
     "files": {
@@ -843,16 +878,16 @@
     "files": {
       "shattered-stopwatch.pw.toml": {
         "download": {
-          "hash": "687191cd0b3a5d7fb00ae69898541a42f6f55c31aad91027dde90e534b4c2bdde46272cd6d3dab78a3d4855424fb28906013b86ef5d0e6e094d6f89b00a88a90",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/w7IBQxPk/shattered-stopwatch-0.1.0%2B1.21.jar"
+          "hash": "b01395dc4d7e970538ab205f7f743dd4f9e52b88",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/n7ywGC5O/shattered-stopwatch-0.1.2%2B1.21.jar"
         },
-        "filename": "shattered-stopwatch-0.1.0+1.21.jar",
+        "filename": "shattered-stopwatch-0.1.2+1.21.jar",
         "name": "Shattered Stopwatch",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/w7IBQxPk/shattered-stopwatch-0.1.0%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/n7ywGC5O/shattered-stopwatch-0.1.2%2B1.21.jar"
   },
   "shrink_ray": {
     "files": {
