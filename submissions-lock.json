@@ -33,11 +33,11 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "85e3c3fc771f6af77c16692e064eed2d55bb7562",
+          "hash": "92dda5f132f9d75a66ce0d937e4408f4a0e2d516",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/AK9MSJ8p/armistice-1.0.0-SNAPSHOT16.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/mGTl2akt/armistice-1.0.0-SNAPSHOT17.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT16.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT17.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/AK9MSJ8p/armistice-1.0.0-SNAPSHOT16.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/mGTl2akt/armistice-1.0.0-SNAPSHOT17.jar"
   },
   "bubblelife": {
     "files": {
