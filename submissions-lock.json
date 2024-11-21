@@ -268,16 +268,16 @@
     "files": {
       "familiar-magic.pw.toml": {
         "download": {
-          "hash": "24eae672b8621c2664a4c7c89962129c8e1a4d96ea58fc4faf3315bedacece9dcbd83cbd1dc7f1803656510f918f34e45cd3b69f4a2054ee921dc1dbc453cdb3",
+          "hash": "e23dd04b18705114cbbe79385f70800bb55a2601848a64d8967c3c66af991d55f645bdfbb2a552938fc384ee3d262cd6efd7b992bcf9629ea832cc7b8910a448",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/AgpgO9wd/familiar_magic-1.0.5.jar"
+          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/Mxj2vLBH/familiar_magic-1.0.6.jar"
         },
-        "filename": "familiar_magic-1.0.5.jar",
+        "filename": "familiar_magic-1.0.6.jar",
         "name": "familiar magic",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/AgpgO9wd/familiar_magic-1.0.5.jar"
+    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/Mxj2vLBH/familiar_magic-1.0.6.jar"
   },
   "fbombs": {
     "files": {
@@ -833,16 +833,16 @@
     "files": {
       "rods-from-god.pw.toml": {
         "download": {
-          "hash": "9baf069d206039427c6c2840d4f714959ead5977",
+          "hash": "80ed5ddb3c0cd33d6f94b1d4cdf8be96935987ef",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/mg0xqYIT/rods_from_god-1.1.2%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/NbJERsNj/rods_from_god-1.1.3%2B1.21.1.jar"
         },
-        "filename": "rods_from_god-1.1.2+1.21.1.jar",
+        "filename": "rods_from_god-1.1.3+1.21.1.jar",
         "name": "Rods from God",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/mg0xqYIT/rods_from_god-1.1.2%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/NbJERsNj/rods_from_god-1.1.3%2B1.21.1.jar"
   },
   "roehrchen": {
     "files": {
