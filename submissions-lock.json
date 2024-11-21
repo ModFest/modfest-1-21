@@ -833,16 +833,16 @@
     "files": {
       "rods-from-god.pw.toml": {
         "download": {
-          "hash": "9baf069d206039427c6c2840d4f714959ead5977",
+          "hash": "80ed5ddb3c0cd33d6f94b1d4cdf8be96935987ef",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/mg0xqYIT/rods_from_god-1.1.2%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/NbJERsNj/rods_from_god-1.1.3%2B1.21.1.jar"
         },
-        "filename": "rods_from_god-1.1.2+1.21.1.jar",
+        "filename": "rods_from_god-1.1.3+1.21.1.jar",
         "name": "Rods from God",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/mg0xqYIT/rods_from_god-1.1.2%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/NbJERsNj/rods_from_god-1.1.3%2B1.21.1.jar"
   },
   "roehrchen": {
     "files": {
