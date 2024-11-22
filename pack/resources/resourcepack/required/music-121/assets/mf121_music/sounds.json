@@ -52,5 +52,8 @@
   },
   "music.time_farewell": {
     "sounds": ["mf121_music:music/time_farewell"]
+  },
+  "music.constant_reminders": {
+    "sounds": ["mf121_music:music/constant_reminders"]
   }
 }
