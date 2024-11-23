@@ -88,16 +88,26 @@
     "files": {
       "chickensaurs.pw.toml": {
         "download": {
-          "hash": "5cebfcf6015e16662ea7540161162717680bba45",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/LTlDTnm9/chickensaurs-neoforge-1.21.1-1.0.2.jar"
+          "hash": "acf974e5d03d30c4d33398268907fb7d1b43984e773c9ac4f203e52c39893a3ce7f02cbaef4ab66b9e68c6ed24a1d8585dcd4ec55340116af59d9ba769b1d0bb",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/yXdZEtdy/chickensaurs-neoforge-1.21.1-1.0.3.jar"
         },
-        "filename": "chickensaurs-neoforge-1.21.1-1.0.2.jar",
+        "filename": "chickensaurs-neoforge-1.21.1-1.0.3.jar",
         "name": "Chickensaurs",
         "side": "both"
+      },
+      "smartbrainlib.pw.toml": {
+        "download": {
+          "hash": "51a4a3f5c3c0ebb35cc48bcf5b22d418af2aa79251590871ae46436c70e1c2c9097a64dc7fb90d55680a55f6f8478edbdca960bd293e8319bf037014f1f271fb",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/PuyPazRT/versions/sjFmt7zo/SmartBrainLib-neoforge-1.21.1-1.16.1.jar"
+        },
+        "filename": "SmartBrainLib-neoforge-1.21.1-1.16.1.jar",
+        "name": "SmartBrainLib",
+        "side": "server"
       }
     },
-    "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/LTlDTnm9/chickensaurs-neoforge-1.21.1-1.0.2.jar"
+    "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/yXdZEtdy/chickensaurs-neoforge-1.21.1-1.0.3.jar"
   },
   "chronoception": {
     "files": {
@@ -613,16 +623,16 @@
     "files": {
       "modernutils.pw.toml": {
         "download": {
-          "hash": "a6b89912dea0d44ff6f0a325fe388a74c6931b2c",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/mxOwiSl4/modernutils-0.0.3.jar"
+          "hash": "9d4592af0b192c3018e7de6f69c0ab10b186a7513d996495cbf0948fe6d057ff5d6b56e8185376c14c9fb52cd850ae39df350110ba3b21c0d147df737e0ce065",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/aUoRQ7zd/modernutils-0.0.4.jar"
         },
-        "filename": "modernutils-0.0.3.jar",
+        "filename": "modernutils-0.0.4.jar",
         "name": "Modern Utils",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/mxOwiSl4/modernutils-0.0.3.jar"
+    "url": "https://cdn.modrinth.com/data/6h1fK7Va/versions/aUoRQ7zd/modernutils-0.0.4.jar"
   },
   "moretraps": {
     "files": {
@@ -663,16 +673,16 @@
       },
       "mystcraft-ageless.pw.toml": {
         "download": {
-          "hash": "e7f3b9032386b9eab0f90b3ba3c4a787f20debc78865999c3ca840881567ac88d1fd791a88dc8d13137cc9b3812046b9ee236a4da5cc362a8db77e299332c859",
+          "hash": "d7a1ab204cd81e27aa8c28e33b1bc9e67d3285998189b7fcc96ecbfb2c98d9907c708d1b0f2ae2424363145ee31b8d320231d062893eb75b2b9f4abe36e4d711",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/ks5ueunB/mystcraft_ageless-0.2.3-alpha.jar"
+          "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/E2YDUyWQ/mystcraft_ageless-0.2.4-alpha.jar"
         },
-        "filename": "mystcraft_ageless-0.2.3-alpha.jar",
+        "filename": "mystcraft_ageless-0.2.4-alpha.jar",
         "name": "Mystcraft: Ageless",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/ks5ueunB/mystcraft_ageless-0.2.3-alpha.jar"
+    "url": "https://cdn.modrinth.com/data/Olgeoshd/versions/E2YDUyWQ/mystcraft_ageless-0.2.4-alpha.jar"
   },
   "nyctography": {
     "files": {
@@ -728,36 +738,36 @@
     "files": {
       "connector.pw.toml": {
         "download": {
-          "hash": "cee80abb22f558c0cf900dde663850fa2a213581cc32a9132dd5aca02469a6d24806937059455a9d7ec0b37066e14c22002393bd2582dd0bc07803147dc7b8f0",
+          "hash": "91380f496538924f77cf1a069bd7f0689693a22d7aaf2cdb7a3eb6227373e2a7a16aa077e76bda3b0573ee248bd8fc4a2bf9d3607750bb774542c7641443bd28",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/x3AHjKpg/connector-2.0.0-beta.3%2B1.21.1-full.jar"
+          "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/aQSgBo32/connector-2.0.0-beta.4%2B1.21.1-full.jar"
         },
-        "filename": "connector-2.0.0-beta.3+1.21.1-full.jar",
+        "filename": "connector-2.0.0-beta.4+1.21.1-full.jar",
         "name": "Sinytra Connector",
         "side": "both"
       },
       "forgified-fabric-api.pw.toml": {
         "download": {
-          "hash": "370e6eb94af3ff6404502a77b22e922eb0b2f199435c85f620e5aaef026b67e0feab24c3cf5a8be9fc7026ddeb2d24d30e58d4746b213fabbacb146e5fb982a9",
+          "hash": "3da0d98cf00c8f32b3ec1fca364d62dcf6f649ace18e073a2662ced302c398c11f7ef45a404430188c770deb2f1f65947993ee8da6c6e5025a7f85698dfc04f4",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/L7Mufn4x/forgified-fabric-api-0.104.0%2B2.0.18%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/kgswi4BN/forgified-fabric-api-0.104.0%2B2.0.19%2B1.21.1.jar"
         },
-        "filename": "forgified-fabric-api-0.104.0+2.0.18+1.21.1.jar",
+        "filename": "forgified-fabric-api-0.104.0+2.0.19+1.21.1.jar",
         "name": "Forgified Fabric API",
         "side": "both"
       },
       "parachymistry.pw.toml": {
         "download": {
-          "hash": "b296d1fe2a524f93e9ea3459e79679dacd4641d2d7d7d6a86f8df4384eb173aca9d3b32b89a9013e1e654d97b4c700b7119b78bb46d242df939d88fda3d6d2e7",
+          "hash": "a61e4490cb884a200173f22490c28fbe371325eb960cec98d6b94f4649d68623bcdcea801b36651340f3d64b1d420cf6f1a2fab1a3a40858c53143378b57aa66",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/eqrfGVIF/parachymistry-1.0.2.jar"
+          "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/tUdsyELc/parachymistry-1.0.2.1.jar"
         },
-        "filename": "parachymistry-1.0.2.jar",
+        "filename": "parachymistry-1.0.2.1.jar",
         "name": "Parachymistry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/eqrfGVIF/parachymistry-1.0.2.jar"
+    "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/tUdsyELc/parachymistry-1.0.2.1.jar"
   },
   "past_el_palettes": {
     "files": {
@@ -848,16 +858,16 @@
     "files": {
       "roehrchen.pw.toml": {
         "download": {
-          "hash": "ee89f516f0f1451f0e49849ee6f5d1e8a6842e55",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/sWoW1EeP/roehrchen-0.5.1.jar"
+          "hash": "d11042a624fe965fd6cb2d348d8b8e83b06bc3b13334b56dc183a0bf535a4ce25b0aa125f883d163bdf6ce00c11abc8f7c595cab32c0c0c92af8408eb16518c5",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/MXrFcS0y/roehrchen-0.5.2.jar"
         },
-        "filename": "roehrchen-0.5.1.jar",
+        "filename": "roehrchen-0.5.2.jar",
         "name": "R\u00f6hrchen",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/sWoW1EeP/roehrchen-0.5.1.jar"
+    "url": "https://cdn.modrinth.com/data/B1xmduSG/versions/MXrFcS0y/roehrchen-0.5.2.jar"
   },
   "sakuracake": {
     "files": {
@@ -978,16 +988,16 @@
     "files": {
       "temporang.pw.toml": {
         "download": {
-          "hash": "4416fda7c5f657931654085bd6a18e6a175696ae287526eb59d34c208d483749f250fa1ad49ef2023977f93c15c2960d5298fff27068f24c48855bfcdaf35433",
+          "hash": "10854ac2343e8425fe70663b834b7dc0c0b32cb4409dc623c65b19a949635adcc2e893b7f7e7870a48e670197ac3429bff6366486f3f816c1d22e489b2dbea3d",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/5babTvQV/versions/iATWEIoA/temporang-1.0.4.jar"
+          "url": "https://cdn.modrinth.com/data/5babTvQV/versions/VsTLyc1U/temporang-1.0.5.jar"
         },
-        "filename": "temporang-1.0.4.jar",
+        "filename": "temporang-1.0.5.jar",
         "name": "Temporang",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/5babTvQV/versions/iATWEIoA/temporang-1.0.4.jar"
+    "url": "https://cdn.modrinth.com/data/5babTvQV/versions/VsTLyc1U/temporang-1.0.5.jar"
   },
   "the_arcane_path_of_chemistry": {
     "files": {
