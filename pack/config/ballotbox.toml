@@ -1,6 +1,6 @@
 # The event ID to use when making requests to the API
 # default: carnival
-eventId = "carnival"
+eventId = "1.21"
 # The URL to request vote options from, with an optional event ID %s placeholder
 # default: https://platform.modfest.net/event/%s/submissions
 options_url = "https://platform.modfest.net/event/%s/submissions"
@@ -15,5 +15,5 @@ bug_url = "https://discord.gg/gn543Ee"
 awardLimit = 8
 # The closing date, as an ISO local date time - or an empty string for none
 # default: 2024-07-28T12:00:00
-closingTime = "2024-07-28T12:00:00"
+closingTime = "2024-12-09T12:00:00"
 
