@@ -33,18 +33,18 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "92dda5f132f9d75a66ce0d937e4408f4a0e2d516",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/mGTl2akt/armistice-1.0.0-SNAPSHOT17.jar"
+          "hash": "6549d821e91de17d6c03f925b07bea04a84bbd82d3a5f481c67eb6d2e59a5c122ee4aa7111b5be6a0954d6c5203e3f3f42d2234ff4d47ceae2ea7d378f9ca47b",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/uZW0ZeLc/armistice-1.0.0-SNAPSHOT18.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT17.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT18.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
       "fusion-connected-textures.pw.toml": {
         "download": {
-          "hash": "68279edbf4902254a1ea1019f74ab5c3c969762e",
-          "hash-format": "sha1",
+          "hash": "d81d0f2cf8582a72148d8b768d3542df7e821a6c6e1af693886efa0a8acee9d1f2e8b5a10891be82b406e579c05fa5a893838d131f2305db78da503c00149b51",
+          "hash-format": "sha512",
           "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/Z8Hlv22C/fusion-1.1.1a-neoforge-mc1.21.jar"
         },
         "filename": "fusion-1.1.1a-neoforge-mc1.21.jar",
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/mGTl2akt/armistice-1.0.0-SNAPSHOT17.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/uZW0ZeLc/armistice-1.0.0-SNAPSHOT18.jar"
   },
   "bubblelife": {
     "files": {
@@ -478,16 +478,16 @@
     "files": {
       "kill-youkai-with-knives.pw.toml": {
         "download": {
-          "hash": "db6ce6b24749c13afb4d152074bae09c31eeb350379fcafd86d14d4e4612d14310c603f0439ad44b31c9e42728fcf1c87ec5b3a45bed1b81963882cde0e42193",
+          "hash": "13431d43c7803a4673f8479caec2aa2999aa2aba40386b1396eee6cadcba1abf55ebd181eb9578345af4c188543cbf223a24fbed96d29a1c21cf5efc27e618b2",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/aZnb1CS5/kill-youkai-with-knives-neoforge-1.0.0%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/78DqSiUl/kill-youkai-with-knives-neoforge-1.1.0%2B1.21.1.jar"
         },
-        "filename": "kill-youkai-with-knives-neoforge-1.0.0+1.21.1.jar",
+        "filename": "kill-youkai-with-knives-neoforge-1.1.0+1.21.1.jar",
         "name": "Kill Youkai With Knives",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/aZnb1CS5/kill-youkai-with-knives-neoforge-1.0.0%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/78DqSiUl/kill-youkai-with-knives-neoforge-1.1.0%2B1.21.1.jar"
   },
   "kinetic_weaponry": {
     "files": {
@@ -958,16 +958,16 @@
     "files": {
       "super_mod.pw.toml": {
         "download": {
-          "hash": "ff62cd8ff40438072b4a5f258c47ad5790f51174",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/dvtOzVer/super_mod-1.2.3.jar"
+          "hash": "ed075aa2a4f9c354dfc1409476b29ef94337e8a4512b45afe3b69a1dad6a4cce37c7d7f5e6bf1f83712861c445a714d47dc2886a90c0c1cadb24c801cf66d519",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/N6Io78HC/super_mod-1.2.4.jar"
         },
-        "filename": "super_mod-1.2.3.jar",
+        "filename": "super_mod-1.2.4.jar",
         "name": "SuperMod",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/dvtOzVer/super_mod-1.2.3.jar"
+    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/N6Io78HC/super_mod-1.2.4.jar"
   },
   "tanglr": {
     "files": {
