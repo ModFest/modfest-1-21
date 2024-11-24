@@ -548,16 +548,16 @@
       },
       "life-size-bdubs.pw.toml": {
         "download": {
-          "hash": "bcf483ba508b926ba1ec32facada738f9316ac46",
+          "hash": "0976fb4f4ff3d2e950a12b87b9d9daf42041c541",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/9UHDRKdU/lifesizebdubs-1.0.1.jar"
+          "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/bfpn0I0k/lifesizebdubs-1.0.3.jar"
         },
-        "filename": "lifesizebdubs-1.0.1.jar",
+        "filename": "lifesizebdubs-1.0.3.jar",
         "name": "Life-Size Bdubs",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/9UHDRKdU/lifesizebdubs-1.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/bfpn0I0k/lifesizebdubs-1.0.3.jar"
   },
   "magisterium": {
     "files": {
