@@ -1,8 +1,8 @@
 name = "qdwarp"
-filename = "qdwarp-1.4.1+1.21.jar"
+filename = "qdwarp-1.4.2+1.21.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ModFest/qdwarp/releases/download/v1.4.1%2B1.20/qdwarp-1.4.1+1.21.jar"
+url = "https://github.com/ModFest/qdwarp/releases/download/v1.4.2%2B1.20/qdwarp-1.4.2+1.21.jar"
 hash-format = "sha256"
-hash = "78c6645b26771a7e844d5559a8fb8e4a8316d7d3a0164214549d52e02cb8a8f7"
+hash = "de022dd279daa749c145b778ec3cf2ca8d93237b7ad00f3a363a183e36d1696f"
