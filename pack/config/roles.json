@@ -69,7 +69,6 @@
             },
             "commands": {
                 "help": "allow",
-                "warp.*": "allow",
                 "polymer.*": "deny"
             }
         }
