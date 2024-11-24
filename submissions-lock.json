@@ -523,16 +523,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "d5d6bce4d5a364404c9d1c5cab7ee5630c7864787b8299d25dd299f9738d7be429657dcc9b86186f4c30b9e55b27523724178145879a77aa25afc4a34f363865",
+          "hash": "ad1af052e530fa3f725896eca0d10191d7f48e1b7c15756ddbfc97d44554ded59b695e6321b055ff6ccc81e278c930eafcfe129f6dbdf02d0acc8a43c6e0b567",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/N0qrjGCR/legacy_landscape-0.8.3%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/74cN8nGq/legacy_landscape-0.8.4%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.8.3+1.21.1.jar",
+        "filename": "legacy_landscape-0.8.4+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/N0qrjGCR/legacy_landscape-0.8.3%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/74cN8nGq/legacy_landscape-0.8.4%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
@@ -958,16 +958,16 @@
     "files": {
       "super_mod.pw.toml": {
         "download": {
-          "hash": "ed075aa2a4f9c354dfc1409476b29ef94337e8a4512b45afe3b69a1dad6a4cce37c7d7f5e6bf1f83712861c445a714d47dc2886a90c0c1cadb24c801cf66d519",
+          "hash": "a048d7ccd47fdce153b62de1936495823b438a53cce848142ee1d894ce533c8db3ed03a659ef2ded3962f0b5c124712a9ce98323ad8e42a8a50c68cf19ddd9e0",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/N6Io78HC/super_mod-1.2.4.jar"
+          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/HqWnX72U/super_mod-1.2.5.jar"
         },
-        "filename": "super_mod-1.2.4.jar",
+        "filename": "super_mod-1.2.5.jar",
         "name": "SuperMod",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/N6Io78HC/super_mod-1.2.4.jar"
+    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/HqWnX72U/super_mod-1.2.5.jar"
   },
   "tanglr": {
     "files": {
