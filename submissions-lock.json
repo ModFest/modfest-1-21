@@ -758,16 +758,16 @@
       },
       "parachymistry.pw.toml": {
         "download": {
-          "hash": "a61e4490cb884a200173f22490c28fbe371325eb960cec98d6b94f4649d68623bcdcea801b36651340f3d64b1d420cf6f1a2fab1a3a40858c53143378b57aa66",
+          "hash": "deab818bccc12378a3dd50112c20be67d00423e069612566869bcf683008f85977443b6d58f53045477009c2f26b12b91d975e6ee9decd35ee5f232330c2009f",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/tUdsyELc/parachymistry-1.0.2.1.jar"
+          "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/TmCCr57x/parachymistry-1.0.2.2.jar"
         },
-        "filename": "parachymistry-1.0.2.1.jar",
+        "filename": "parachymistry-1.0.2.2.jar",
         "name": "Parachymistry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/tUdsyELc/parachymistry-1.0.2.1.jar"
+    "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/TmCCr57x/parachymistry-1.0.2.2.jar"
   },
   "past_el_palettes": {
     "files": {
@@ -973,16 +973,16 @@
     "files": {
       "tanglr.pw.toml": {
         "download": {
-          "hash": "1083e7dd5bb6a92542c409d43e890613af5cd30f",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/8D434JzF/tanglr-1.2.1.jar"
+          "hash": "f8d3234f621b89ff3d8330fd5c2eedf2ae2c53582149011739e0066acc1dc14117229b02807d32f204d3c898e14dd9631fea3522de04089d21a75433a19a8e25",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/UUWljnQv/tanglr-1.2.2.jar"
         },
-        "filename": "tanglr-1.2.1.jar",
+        "filename": "tanglr-1.2.2.jar",
         "name": "Tanglr",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/8D434JzF/tanglr-1.2.1.jar"
+    "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/UUWljnQv/tanglr-1.2.2.jar"
   },
   "temporang": {
     "files": {
