@@ -1,0 +1,14 @@
+{
+	"name": "Rin Kaenbyou",
+	"texture": "chai:textures/bdubs/rin_kaenbyou.png",
+	"item": "minecraft:soul_lantern",
+	"messages": [
+		"If I kill you, human, my hellfire cart will get heavy~♪",
+		"Man, carrying off corpses is fun!",
+		"It's more fun being a cat.",
+		"Leave your corpses and vengeful spirits to me!",
+		"Shipping dead bodies to hell, Orin's wheelbarrow transport at your service.",
+		"Do your best, 'cause remember, I'll be there to pick up your bones.",
+		"Oh, it's so wonderful to see someone rushing to their death."
+	]
+}

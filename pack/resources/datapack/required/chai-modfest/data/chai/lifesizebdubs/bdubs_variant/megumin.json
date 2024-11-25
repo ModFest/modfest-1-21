@@ -1,0 +1,20 @@
+{
+	"name": "Megumin",
+	"texture": "chai:textures/bdubs/megumin.png",
+	"item": "familiar_magic:megumins_hat",
+	"messages": [
+		"EX-PLO~SION~!",
+		"My names Megumin! My calling is that of an arch wizard, one who controls explosion magic, the strongest of all offensive magic!",
+		"Explosion magic is the strongest magic.",
+		"Burn to ashes within the crimson.",
+		"Come, now, and walk the path of explosions with me!",
+		"I-I'll blow... blow it away with my explosion magic!",
+		"I demand some legitimate basis for these accusations of terrorism!"
+	],
+	"timed_messages": [
+		{
+			"msg": "My name is Megumin. The blow that I am given to strike turns a blind eye to the fate of my kindred, rendering all hope of rebirth and anguish, and the model by which all forces are judged! Pitiful creature... Synchronize yourself with the red smoke, and atone in a surge of blood! EX-PLO~SION~!",
+			"time": 6001
+		}
+	]
+}

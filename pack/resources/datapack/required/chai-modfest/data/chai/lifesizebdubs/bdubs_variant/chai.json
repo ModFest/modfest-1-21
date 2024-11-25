@@ -1,0 +1,35 @@
+{
+	"name": "Chai",
+	"texture": "chai:textures/bdubs/chai.png",
+	"item": "minecraft:tropical_fish",
+	"messages": [
+		"myap!",
+		"wawa!",
+		"meow!",
+		"mya!",
+		"mrrrow!",
+		"mrrrp!",
+		"pbbbt!",
+		":3",
+		":3 !!",
+		"MEOW",
+		"meow meow meow",
+		"Give me sushi!",
+		"Did you bring me any sushi?",
+		"I need more sushi...",
+		"Python sucks!",
+		"Java sucks, but at least it's not Python",
+		"Memory safety is important!",
+		"I'm hungry... again",
+		"Let's go for a swim!",
+		"Pretty pearlescent bubbles~",
+		"Did you know sushi rolls are called maki?",
+		"Kubbi is an awesome chiptune artist"
+	],
+	"timed_messages": [
+		{
+			"msg": "It's Wawa Wednesday my dudes",
+			"time": 1001
+		}
+	]
+}

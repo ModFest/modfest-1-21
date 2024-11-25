@@ -1,1 +1,1 @@
-$data modify block $(x) $(y) $(z) $(key) set value $(value)
+$data modify block -3305 49 -1157 $(key) set value $(value)

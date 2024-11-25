@@ -1,0 +1,1 @@
+give @p fbombs:ginger_ale_bottle_cap

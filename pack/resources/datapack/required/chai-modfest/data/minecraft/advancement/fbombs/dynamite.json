@@ -1,0 +1,31 @@
+{
+	"parent": "minecraft:fbombs/split_tnt_block",
+	"criteria": {
+		"explodification": {
+			"trigger": "fbombs:used_dynamite"
+		}
+	},
+	"display": {
+		"announce_to_chat": false,
+		"description": {
+			"translate": "advancement.fbombs.explodification.desc"
+		},
+		"hidden": true,
+		"icon": {
+			"count": 1,
+			"id": "fbombs:dynamite"
+		},
+		"title": {
+			"translate": "advancement.fbombs.explodification"
+		}
+	},
+	"requirements": [
+		[
+			"explodification"
+		]
+	],
+	"rewards": {
+		"function": "fbombs:award_shard"
+	},
+	"sends_telemetry_event": true
+}
