@@ -8,7 +8,7 @@
 				{
 					"type": "minecraft:item",
 					"name": "fbombs:root_beer_bottle_cap",
-					"weight": 25
+					"weight": 12
 				},
 				{
 					"type": "minecraft:item",
@@ -148,27 +148,27 @@
 				{
 					"type": "minecraft:item",
 					"name": "minecon_ruins:minecon_2011_cape",
-					"weight": 5
+					"weight": 4
 				},
 				{
 					"type": "minecraft:item",
 					"name": "minecon_ruins:minecon_2012_cape",
-					"weight": 5
+					"weight": 4
 				},
 				{
 					"type": "minecraft:item",
 					"name": "minecon_ruins:minecon_2013_cape",
-					"weight": 5
+					"weight": 4
 				},
 				{
 					"type": "minecraft:item",
 					"name": "minecon_ruins:minecon_2015_cape",
-					"weight": 5
+					"weight": 4
 				},
 				{
 					"type": "minecraft:item",
 					"name": "minecon_ruins:minecon_2016_cape",
-					"weight": 5
+					"weight": 4
 				}
 			]
 		}
