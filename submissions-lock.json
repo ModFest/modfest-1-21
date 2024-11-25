@@ -33,11 +33,11 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "6549d821e91de17d6c03f925b07bea04a84bbd82d3a5f481c67eb6d2e59a5c122ee4aa7111b5be6a0954d6c5203e3f3f42d2234ff4d47ceae2ea7d378f9ca47b",
+          "hash": "da68d5ebd0ac0074e86e98a18cae5d961601f5546668721244d8f72cd8632b9cd8d77b6cb49fd3596d9b46f75d8cead8689882189dd2b7aea4774663763bdb60",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/uZW0ZeLc/armistice-1.0.0-SNAPSHOT18.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/UKaokbWc/armistice-1.0.0-SNAPSHOT19.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT18.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT19.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/uZW0ZeLc/armistice-1.0.0-SNAPSHOT18.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/UKaokbWc/armistice-1.0.0-SNAPSHOT19.jar"
   },
   "bubblelife": {
     "files": {
@@ -278,16 +278,16 @@
     "files": {
       "familiar-magic.pw.toml": {
         "download": {
-          "hash": "e23dd04b18705114cbbe79385f70800bb55a2601848a64d8967c3c66af991d55f645bdfbb2a552938fc384ee3d262cd6efd7b992bcf9629ea832cc7b8910a448",
+          "hash": "39360ff96ec4c7280cbc32f1a6f1acab8e935036671c3245eff94506061a9869d344cad4d9d22155d765b67b6769cf6e4fd39c3fc0dfd7508bac788a71f792e4",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/Mxj2vLBH/familiar_magic-1.0.6.jar"
+          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/QbUo63gI/familiar_magic-1.0.7.jar"
         },
-        "filename": "familiar_magic-1.0.6.jar",
+        "filename": "familiar_magic-1.0.7.jar",
         "name": "familiar magic",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/Mxj2vLBH/familiar_magic-1.0.6.jar"
+    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/QbUo63gI/familiar_magic-1.0.7.jar"
   },
   "fbombs": {
     "files": {
