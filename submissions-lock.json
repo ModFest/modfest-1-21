@@ -973,16 +973,16 @@
     "files": {
       "tanglr.pw.toml": {
         "download": {
-          "hash": "8c7a9e74d66632be4df2dee050b9507b8310cac16e401c4a107996f8d884c08bdbfe93d5ad49476367b8b57c66e9ec6e27e12a7a9f0cced07470b6ba973410c5",
+          "hash": "0d4a4cd8162aeb6dd450c1fb8b8025fac99052965272e26868fc38683e68c6d3b36d4e1add4eaac88b47a081d565bde9fc800f6ab2c03abb8969ee2fdb4f968e",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/m2aCDcF9/tanglr-1.2.3.jar"
+          "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/x7CX0nJR/tanglr-1.2.4.jar"
         },
-        "filename": "tanglr-1.2.3.jar",
+        "filename": "tanglr-1.2.4.jar",
         "name": "Tanglr",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/m2aCDcF9/tanglr-1.2.3.jar"
+    "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/x7CX0nJR/tanglr-1.2.4.jar"
   },
   "temporang": {
     "files": {
