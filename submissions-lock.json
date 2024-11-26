@@ -723,16 +723,16 @@
     "files": {
       "paper-pyrotechnics.pw.toml": {
         "download": {
-          "hash": "af5b76cf3708431f95ee05ee1ecc03cff8eb16b84096822f31994ffd99f6ab4745e5c2d40fc89b3289b19dee777609127100f524bcabe2be0822273bc8910d18",
+          "hash": "0628b2931a09ba62befe54f55196d0fea350c959f0f08b7c259e6e454144ab3ca873c7d22849800329507c1be7769efb29a3c8f549987a28a83e067fc9eff742",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/TOIhmYrN/versions/qfm8Y0Lp/paper-pyrotechnics-0.1.0%2B1.21.jar"
+          "url": "https://cdn.modrinth.com/data/TOIhmYrN/versions/Wn6Nje0O/paper-pyrotechnics-0.2.0%2B1.21.jar"
         },
-        "filename": "paper-pyrotechnics-0.1.0+1.21.jar",
+        "filename": "paper-pyrotechnics-0.2.0+1.21.jar",
         "name": "Paper Pyrotechnics",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/TOIhmYrN/versions/qfm8Y0Lp/paper-pyrotechnics-0.1.0%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/TOIhmYrN/versions/Wn6Nje0O/paper-pyrotechnics-0.2.0%2B1.21.jar"
   },
   "parachymistry": {
     "files": {
