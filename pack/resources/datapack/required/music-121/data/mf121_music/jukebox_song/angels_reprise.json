@@ -1,6 +1,8 @@
 {
   "comparator_output": 2,
-  "description": "Nulb - Angel's Reprise",
+  "description": {
+    "translate": "jukebox_song.mf_121_music.kleptoophanim"
+  },
   "length_in_seconds": 207.0,
   "sound_event": {
 	  "sound_id": "mf121_music:music.angelsreprise"

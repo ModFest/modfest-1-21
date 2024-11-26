@@ -1,6 +1,8 @@
 {
   "comparator_output": 1,
-  "description": "WorldWidePixel - Birds in the Pipes",
+  "description": {
+    "translate": "jukebox_song.mf_121_music.bird_pipes"
+  },
   "length_in_seconds": 126.0,
   "sound_event": {
 	  "sound_id": "mf121_music:music.bird_pipes"

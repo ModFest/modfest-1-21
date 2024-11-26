@@ -1,6 +1,8 @@
 {
   "comparator_output": 1,
-  "description": "Nulb - It's a Train Crossing...",
+  "description": {
+    "translate": "jukebox_song.mf_121_music.traincrossing"
+  },
   "length_in_seconds": 156.0,
   "sound_event": {
 	  "sound_id": "mf121_music:music.traincrossing"

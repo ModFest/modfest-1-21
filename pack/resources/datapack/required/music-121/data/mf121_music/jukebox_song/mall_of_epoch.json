@@ -1,6 +1,8 @@
 {
   "comparator_output": 1,
-  "description": "Nulb - Mall of Epoch",
+  "description": {
+    "translate": "jukebox_song.mf_121_music.mallofepoch"
+  },
   "length_in_seconds": 129.0,
   "sound_event": {
 	  "sound_id": "mf121_music:music.mallofepoch"

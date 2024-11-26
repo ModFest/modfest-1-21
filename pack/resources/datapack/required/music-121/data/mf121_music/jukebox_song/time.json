@@ -1,6 +1,8 @@
 {
   "comparator_output": 1,
-  "description": "Nulb - TIME",
+  "description": {
+    "translate": "jukebox_song.mf_121_music.time"
+  },
   "length_in_seconds": 186.0,
   "sound_event": {
 	  "sound_id": "mf121_music:music.time"
