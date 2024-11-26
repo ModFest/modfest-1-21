@@ -1,0 +1,11 @@
+{
+  "music.menu": {
+	"replace": true,
+    "sounds": [
+      {
+        "name": "mf121_music:time",
+        "stream": true
+      }
+    ]
+  }
+}
