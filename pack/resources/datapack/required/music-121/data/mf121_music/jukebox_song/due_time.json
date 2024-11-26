@@ -1,5 +1,6 @@
 {
   "comparator_output": 1,
+  "description": "Nulb - Due Time",
   "length_in_seconds": 77.0,
   "sound_event": {
 	  "sound_id": "mf121_music:music.duetime"
