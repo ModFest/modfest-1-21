@@ -2,18 +2,6 @@
   "music.time": {
     "sounds": ["mf121_music:music/time"]
   },
-  "music.metaphor_split": {
-    "sounds": ["mf121_music:music/metaphor_split"]
-  },
-  "music.bird_pipes": {
-    "sounds": ["mf121_music:music/bird_pipes"]
-  },
-  "music.twenty_ticks": {
-    "sounds": ["mf121_music:music/twenty_ticks"]
-  },
-  "music.sublime_inversion": {
-    "sounds": ["mf121_music:music/sublime_inversion"]
-  },
   "music.epoch": {
     "sounds": ["mf121_music:music/epoch"]
   },
@@ -23,11 +11,38 @@
   "music.kleptoophanim": {
     "sounds": ["mf121_music:music/kleptoophanim"]
   },
+  "music.wakingup": {
+    "sounds": ["mf121_music:music/wakingup"]
+  },
+  "music.constant_reminders": {
+    "sounds": ["mf121_music:music/constant_reminders"]
+  },
+  "music.metaphor_split": {
+    "sounds": ["mf121_music:music/metaphor_split"]
+  },
+  "music.sublime_inversion": {
+    "sounds": ["mf121_music:music/sublime_inversion"]
+  },
   "music.effigy": {
     "sounds": ["mf121_music:music/effigy"]
   },
+  "music.twenty_ticks": {
+    "sounds": ["mf121_music:music/twenty_ticks"]
+  },
+  "music.bird_pipes": {
+    "sounds": ["mf121_music:music/bird_pipes"]
+  },
+  "music.bastille": {
+    "sounds": ["mf121_music:music/bastille"]
+  },
+  "music.stasis_overture": {
+    "sounds": ["mf121_music:music/stasis_overture"]
+  },
   "music.subwoofernulb": {
     "sounds": ["mf121_music:music/subwoofernulb"]
+  },
+  "music.montreal": {
+    "sounds": ["mf121_music:music/montreal"]
   },
   "music.chronograph": {
     "sounds": ["mf121_music:music/chronograph"]
@@ -41,19 +56,7 @@
   "music.duetime": {
     "sounds": ["mf121_music:music/duetime"]
   },
-  "music.bastille": {
-    "sounds": ["mf121_music:music/bastille"]
-  },
-  "music.montreal": {
-    "sounds": ["mf121_music:music/montreal"]
-  },
-  "music.stasis_overture": {
-    "sounds": ["mf121_music:music/stasis_overture"]
-  },
   "music.time_farewell": {
     "sounds": ["mf121_music:music/time_farewell"]
-  },
-  "music.constant_reminders": {
-    "sounds": ["mf121_music:music/constant_reminders"]
   }
 }
