@@ -33,11 +33,11 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "da68d5ebd0ac0074e86e98a18cae5d961601f5546668721244d8f72cd8632b9cd8d77b6cb49fd3596d9b46f75d8cead8689882189dd2b7aea4774663763bdb60",
+          "hash": "9472996f5b112bc1cd7b4e08557454dd6929cc4d221a81d6ee5f7cac5054db876db6e5887f4e69b9ee9bba0052182421e04b706da4256ab15ae70eb40aa39922",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/UKaokbWc/armistice-1.0.0-SNAPSHOT19.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/GXHxlaTZ/armistice-1.0.0-SNAPSHOT20.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT19.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT20.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/UKaokbWc/armistice-1.0.0-SNAPSHOT19.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/GXHxlaTZ/armistice-1.0.0-SNAPSHOT20.jar"
   },
   "bubblelife": {
     "files": {
@@ -248,16 +248,16 @@
     "files": {
       "dissolution.pw.toml": {
         "download": {
-          "hash": "cdd72fcd622f948f99c834e21383b8ed04f798ff4bf29da105b946432630c570340ed80a724968722c5d405c71256bdbb7079fd3fe59013dc5f853786c820bd6",
+          "hash": "1d5e1a7a996a6186ae663537e56877fc4f6964e1f6f0784d71bebd32ce3ab27fc8f93f6e234d53f2560c53ceacb8f2e49f3ac88b2b4ed5fe953c6f3525be687a",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/gVB8tSZY/versions/NBGZp7Ef/dissolution-1.0.0.jar"
+          "url": "https://cdn.modrinth.com/data/gVB8tSZY/versions/ad6bGUgq/dissolution-1.1.0.jar"
         },
-        "filename": "dissolution-1.0.0.jar",
+        "filename": "dissolution-1.1.0.jar",
         "name": "Dissolution",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/gVB8tSZY/versions/NBGZp7Ef/dissolution-1.0.0.jar"
+    "url": "https://cdn.modrinth.com/data/gVB8tSZY/versions/ad6bGUgq/dissolution-1.1.0.jar"
   },
   "everwinter_modfest": {
     "files": {
@@ -308,16 +308,16 @@
     "files": {
       "foup.pw.toml": {
         "download": {
-          "hash": "8cd570949e962256dabecc71e0f8729429d77df85fb98e346789e90a014f8eac54cc453da5d242c50d57b8366eb4c464d66481a45c21ca09a6b871de87c4a25d",
+          "hash": "b7a5a7f06e4cb2f79d4c60bad7a00de70c18f04213dbd4d2e91102d1101fdff2280e88c312543d41051ca18022e5d4b38864bb30499aafa822736314a9e78051",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/4lCjlnIq/foup-0.2.5.jar"
+          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/GNdbRxQw/foup-0.2.6.jar"
         },
-        "filename": "foup-0.2.5.jar",
+        "filename": "foup-0.2.6.jar",
         "name": "FOUP",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/4lCjlnIq/foup-0.2.5.jar"
+    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/GNdbRxQw/foup-0.2.6.jar"
   },
   "future_things": {
     "files": {
@@ -478,31 +478,31 @@
     "files": {
       "kill-youkai-with-knives.pw.toml": {
         "download": {
-          "hash": "13431d43c7803a4673f8479caec2aa2999aa2aba40386b1396eee6cadcba1abf55ebd181eb9578345af4c188543cbf223a24fbed96d29a1c21cf5efc27e618b2",
+          "hash": "e410a406c5c9a5ba98e32fb4a8fd952a7667960b1bd496fe484a086f7f6847d370cc04fbf98c0867ec9bd39fada8b2543db777c2478a3d84cca4897a1311740b",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/78DqSiUl/kill-youkai-with-knives-neoforge-1.1.0%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/BkLaZ1Q7/kill-youkai-with-knives-neoforge-1.1.1%2B1.21.1.jar"
         },
-        "filename": "kill-youkai-with-knives-neoforge-1.1.0+1.21.1.jar",
+        "filename": "kill-youkai-with-knives-neoforge-1.1.1+1.21.1.jar",
         "name": "Kill Youkai With Knives",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/78DqSiUl/kill-youkai-with-knives-neoforge-1.1.0%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/4OYPLELG/versions/BkLaZ1Q7/kill-youkai-with-knives-neoforge-1.1.1%2B1.21.1.jar"
   },
   "kinetic_weaponry": {
     "files": {
       "kinetic-weaponry.pw.toml": {
         "download": {
-          "hash": "c48d56e4751d0abf0153926f8ce36d6738d8e39d17ab2531144c1124920af9920b70c337e1e0ebc9ffe211049b0a7992a6dbed96c57f349d96aa421b1cda37aa",
+          "hash": "9c20a497e5f99df2cb4b7126d2a945bda6d6876d2186131c94134e44499236dceab54046939afff220bfc9dd6513bcbe73a04715c5db5c7fb19bf2f812accb39",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/RlU9Jvbp/kinetic_weaponry-1.0.3-neoforge-1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/NzOql3CH/kinetic_weaponry-1.0.4-neoforge-1.21.1.jar"
         },
-        "filename": "kinetic_weaponry-1.0.3-neoforge-1.21.1.jar",
+        "filename": "kinetic_weaponry-1.0.4-neoforge-1.21.1.jar",
         "name": "Kinetic Weaponry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/RlU9Jvbp/kinetic_weaponry-1.0.3-neoforge-1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/VlhWIxQe/versions/NzOql3CH/kinetic_weaponry-1.0.4-neoforge-1.21.1.jar"
   },
   "legacy_buildcraft": {
     "files": {
