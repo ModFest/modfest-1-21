@@ -723,16 +723,16 @@
     "files": {
       "paper-pyrotechnics.pw.toml": {
         "download": {
-          "hash": "0628b2931a09ba62befe54f55196d0fea350c959f0f08b7c259e6e454144ab3ca873c7d22849800329507c1be7769efb29a3c8f549987a28a83e067fc9eff742",
+          "hash": "d6e52b3ae9ee0d89d6a5a173df594fdab80ad768c816a31001e8e0388b957915e80becf06b5088cca002274fd96075680018b5c8651a3d4de55a9cdef61ee408",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/TOIhmYrN/versions/Wn6Nje0O/paper-pyrotechnics-0.2.0%2B1.21.jar"
+          "url": "https://cdn.modrinth.com/data/TOIhmYrN/versions/FI9AN1Pj/paper-pyrotechnics-0.2.1%2B1.21.jar"
         },
-        "filename": "paper-pyrotechnics-0.2.0+1.21.jar",
+        "filename": "paper-pyrotechnics-0.2.1+1.21.jar",
         "name": "Paper Pyrotechnics",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/TOIhmYrN/versions/Wn6Nje0O/paper-pyrotechnics-0.2.0%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/TOIhmYrN/versions/FI9AN1Pj/paper-pyrotechnics-0.2.1%2B1.21.jar"
   },
   "parachymistry": {
     "files": {
@@ -888,16 +888,16 @@
     "files": {
       "shattered-stopwatch.pw.toml": {
         "download": {
-          "hash": "b01395dc4d7e970538ab205f7f743dd4f9e52b88",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/n7ywGC5O/shattered-stopwatch-0.1.2%2B1.21.jar"
+          "hash": "ab01d4b2c341857cd27307836437f9a65380a3afe08ecc76571d93085694f81ba5404133b3f6303fb3081e1f6761f5a0ae2ef98235c7cc3e78de3f74e8bb6a02",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/MRBR5mZk/shattered-stopwatch-0.1.3%2B1.21.jar"
         },
-        "filename": "shattered-stopwatch-0.1.2+1.21.jar",
+        "filename": "shattered-stopwatch-0.1.3+1.21.jar",
         "name": "Shattered Stopwatch",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/n7ywGC5O/shattered-stopwatch-0.1.2%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/MRBR5mZk/shattered-stopwatch-0.1.3%2B1.21.jar"
   },
   "shrink_ray": {
     "files": {
@@ -973,16 +973,16 @@
     "files": {
       "tanglr.pw.toml": {
         "download": {
-          "hash": "f8d3234f621b89ff3d8330fd5c2eedf2ae2c53582149011739e0066acc1dc14117229b02807d32f204d3c898e14dd9631fea3522de04089d21a75433a19a8e25",
+          "hash": "8c7a9e74d66632be4df2dee050b9507b8310cac16e401c4a107996f8d884c08bdbfe93d5ad49476367b8b57c66e9ec6e27e12a7a9f0cced07470b6ba973410c5",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/UUWljnQv/tanglr-1.2.2.jar"
+          "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/m2aCDcF9/tanglr-1.2.3.jar"
         },
-        "filename": "tanglr-1.2.2.jar",
+        "filename": "tanglr-1.2.3.jar",
         "name": "Tanglr",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/UUWljnQv/tanglr-1.2.2.jar"
+    "url": "https://cdn.modrinth.com/data/fylLfV6Z/versions/m2aCDcF9/tanglr-1.2.3.jar"
   },
   "temporang": {
     "files": {
@@ -1003,31 +1003,31 @@
     "files": {
       "the-arcane-path-of-chemistry.pw.toml": {
         "download": {
-          "hash": "055680839f22a6a76a9e0129b0cee3175bb16861",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/TYiiVLZZ/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
+          "hash": "4a13b37d91071c5f9e3e327d974e4365d86f55e05691c523753932a7d430454a4eadc218ab564ef90639eac8c0cb3ecf7ee0308c7b63a5944d68a74e885595cc",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/avOj4p8D/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
         },
         "filename": "The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar",
         "name": "The Arcane path of Chemistry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/TYiiVLZZ/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
+    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/avOj4p8D/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
   },
   "timewarp": {
     "files": {
       "timewarp.pw.toml": {
         "download": {
-          "hash": "45e95cb6a7097284a93df9d1b72e0d59240fef91",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/N4JxYtPO/timewarp-1.21-1.1.6.jar"
+          "hash": "c63ebdb8db0aa942affd37488ebc7d1e912da755e0206d44a2a47d146042534b79736062c26050f35614c51043cace5b30d1a1adfa0cff5449a218b6c47a0acb",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/o1pZqCLI/timewarp-1.21-1.1.7.jar"
         },
-        "filename": "timewarp-1.21-1.1.6.jar",
+        "filename": "timewarp-1.21-1.1.7.jar",
         "name": "Timewarp",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/N4JxYtPO/timewarp-1.21-1.1.6.jar"
+    "url": "https://cdn.modrinth.com/data/xZwmqKG0/versions/o1pZqCLI/timewarp-1.21-1.1.7.jar"
   },
   "unearth": {
     "files": {
