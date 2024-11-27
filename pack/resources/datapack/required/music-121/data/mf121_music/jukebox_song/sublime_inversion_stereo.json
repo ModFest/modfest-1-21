@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.mf_121_music.sublime_inversion"
+  },
+  "length_in_seconds": 130.0,
+  "sound_event": {
+	  "sound_id": "mf121_music:music.sublime_inversion.stereo"
+  }
+}

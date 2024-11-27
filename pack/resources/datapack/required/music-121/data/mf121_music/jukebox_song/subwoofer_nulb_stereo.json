@@ -1,0 +1,10 @@
+{
+  "comparator_output": 5,
+  "description": {
+    "translate": "jukebox_song.mf_121_music.subwoofernulb"
+  },
+  "length_in_seconds": 204.0,
+  "sound_event": {
+	  "sound_id": "mf121_music:music.subwoofernulb.stereo"
+  }
+}

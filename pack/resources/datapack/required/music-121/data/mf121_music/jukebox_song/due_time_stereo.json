@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.mf_121_music.due_time"
+  },
+  "length_in_seconds": 77.0,
+  "sound_event": {
+	  "sound_id": "mf121_music:music.due_time.stereo"
+  }
+}
