@@ -123,12 +123,6 @@
 				"custom_model_data": 20
 			},
 			"model": "mf121_music:item/music_file_waking_up"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 21
-			},
-			"model": "mf121_music:item/music_file_conversation_range"
 		}
 	]
 }
