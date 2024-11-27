@@ -1,6 +1,7 @@
 {
   "values": [
     "mf121_music:chronograph_stereo",
-    "mf121_music:train_crossing_stereo"
+    "mf121_music:train_crossing_stereo",
+    "unearth:conversation_range"
   ]
 }
