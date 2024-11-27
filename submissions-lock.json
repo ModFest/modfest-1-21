@@ -33,11 +33,11 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "9472996f5b112bc1cd7b4e08557454dd6929cc4d221a81d6ee5f7cac5054db876db6e5887f4e69b9ee9bba0052182421e04b706da4256ab15ae70eb40aa39922",
+          "hash": "49759c22fb6311c331be5f21afb9fcb5dc3f4476417f466b87cc41effbb902524ed6c89a6f755ba44d8f9dc181e0b26425d10dd66ee4215fc1318838e5994891",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/GXHxlaTZ/armistice-1.0.0-SNAPSHOT20.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/c9Vc4e7L/armistice-1.0.0-SNAPSHOT22.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT20.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT22.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/GXHxlaTZ/armistice-1.0.0-SNAPSHOT20.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/c9Vc4e7L/armistice-1.0.0-SNAPSHOT22.jar"
   },
   "bubblelife": {
     "files": {
@@ -88,11 +88,11 @@
     "files": {
       "chickensaurs.pw.toml": {
         "download": {
-          "hash": "acf974e5d03d30c4d33398268907fb7d1b43984e773c9ac4f203e52c39893a3ce7f02cbaef4ab66b9e68c6ed24a1d8585dcd4ec55340116af59d9ba769b1d0bb",
+          "hash": "623cc4fcdbee329768731a0f189c841c2350b007e981ac7204c92459e7de2768d377c0a2ed54867c4f5243214fa0469d4093b5f49488beb60ba450754bb61f28",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/yXdZEtdy/chickensaurs-neoforge-1.21.1-1.0.3.jar"
+          "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/ZLRtV02Q/chickensaurs-fabric-1.21.1-1.0.4.jar"
         },
-        "filename": "chickensaurs-neoforge-1.21.1-1.0.3.jar",
+        "filename": "chickensaurs-fabric-1.21.1-1.0.4.jar",
         "name": "Chickensaurs",
         "side": "both"
       },
@@ -107,7 +107,7 @@
         "side": "server"
       }
     },
-    "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/yXdZEtdy/chickensaurs-neoforge-1.21.1-1.0.3.jar"
+    "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/ZLRtV02Q/chickensaurs-fabric-1.21.1-1.0.4.jar"
   },
   "chronoception": {
     "files": {
@@ -308,16 +308,16 @@
     "files": {
       "foup.pw.toml": {
         "download": {
-          "hash": "b7a5a7f06e4cb2f79d4c60bad7a00de70c18f04213dbd4d2e91102d1101fdff2280e88c312543d41051ca18022e5d4b38864bb30499aafa822736314a9e78051",
+          "hash": "d5c5c8af23b6c72023ac9540ceee8a8401aea5ce5a3c503cb6edf962bbe747842c22cdad5d4bdf80a43abcd980b7e8299e9101d552c5126088ec7cea295c22f0",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/GNdbRxQw/foup-0.2.6.jar"
+          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/Og43rVai/foup-0.2.7.jar"
         },
-        "filename": "foup-0.2.6.jar",
+        "filename": "foup-0.2.7.jar",
         "name": "FOUP",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/GNdbRxQw/foup-0.2.6.jar"
+    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/Og43rVai/foup-0.2.7.jar"
   },
   "future_things": {
     "files": {
@@ -593,16 +593,16 @@
     "files": {
       "minefactorial.pw.toml": {
         "download": {
-          "hash": "f76edc9897e21ee0cda9152112f4971729d9fbd4f657dc222ec68d441f521787e8420c86d9212db3366ed8fce67c43b02d9959f78c471741607e9ec0b66af3fb",
+          "hash": "b8eed4fe47a4d417a5b810a4a621873d322cccd411ea0a54e9c322c4e0c2b3ca1d62c581cdff59fc3cf7ba31c6e1813de27193a91494e7473fe77cf064e1065f",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/4sjHMjq5/versions/yOb70ayL/minefactorial-0.1.1-modfest.jar"
+          "url": "https://cdn.modrinth.com/data/4sjHMjq5/versions/3wZfLJif/minefactorial-0.1.2-modfest.jar"
         },
-        "filename": "minefactorial-0.1.1-modfest.jar",
+        "filename": "minefactorial-0.1.2-modfest.jar",
         "name": "MineFactorial",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/4sjHMjq5/versions/yOb70ayL/minefactorial-0.1.1-modfest.jar"
+    "url": "https://cdn.modrinth.com/data/4sjHMjq5/versions/3wZfLJif/minefactorial-0.1.2-modfest.jar"
   },
   "minimal_exchange": {
     "files": {
@@ -958,16 +958,16 @@
     "files": {
       "super_mod.pw.toml": {
         "download": {
-          "hash": "a048d7ccd47fdce153b62de1936495823b438a53cce848142ee1d894ce533c8db3ed03a659ef2ded3962f0b5c124712a9ce98323ad8e42a8a50c68cf19ddd9e0",
+          "hash": "2ac9381a4b11643f5654f621de6a9880a32fef5f33c373ed1dec1c24d68d2cae8a5e383fb792ba5e994e87aedb667d56e0a57881cf6a3195e93aedd3edbb97a1",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/HqWnX72U/super_mod-1.2.5.jar"
+          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/SNP1hrr5/super_mod-1.2.6.jar"
         },
-        "filename": "super_mod-1.2.5.jar",
+        "filename": "super_mod-1.2.6.jar",
         "name": "SuperMod",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/HqWnX72U/super_mod-1.2.5.jar"
+    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/SNP1hrr5/super_mod-1.2.6.jar"
   },
   "tanglr": {
     "files": {
