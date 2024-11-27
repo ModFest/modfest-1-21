@@ -1,10 +1,10 @@
 {
   "comparator_output": 2,
   "description": {
-    "translate": "jukebox_song.mf_121_music.angelsreprise"
+    "translate": "jukebox_song.mf_121_music.angels_reprise"
   },
   "length_in_seconds": 207.0,
   "sound_event": {
-	  "sound_id": "mf121_music:music.angelsreprise"
+	  "sound_id": "mf121_music:music.angels_reprise"
   }
 }
