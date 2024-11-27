@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/template_music_disc",
+	"textures": {
+		"layer0": "unearth:item/music_disc_conversation_range"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "mf121_music:item/music_file_conversation_range"
+		}
+	]
+}

@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "armistice:item/music_file_recalled"
-  },
-  "overrides": [
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "armistice:item/music_file_recalled"
+	},
+	"overrides": [
 		{
 			"predicate": {
 				"custom_model_data": 1
@@ -130,5 +130,5 @@
 			},
 			"model": "mf121_music:item/music_file_conversation_range"
 		}
-  ]
+	]
 }
