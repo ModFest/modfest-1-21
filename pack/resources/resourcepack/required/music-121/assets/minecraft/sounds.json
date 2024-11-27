@@ -3,7 +3,7 @@
 	"replace": true,
     "sounds": [
       {
-        "name": "mf121_music:music/time",
+        "name": "mf121_music:music/time_stereo",
         "stream": true
       }
     ]

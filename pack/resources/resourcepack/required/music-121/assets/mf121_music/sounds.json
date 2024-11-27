@@ -11,8 +11,8 @@
   "music.kleptoophanim": {
     "sounds": ["mf121_music:music/kleptoophanim"]
   },
-  "music.wakingup": {
-    "sounds": ["mf121_music:music/wakingup"]
+  "music.waking_up": {
+    "sounds": ["mf121_music:music/waking_up"]
   },
   "music.constant_reminders": {
     "sounds": ["mf121_music:music/constant_reminders"]
@@ -58,5 +58,65 @@
   },
   "music.time_farewell": {
     "sounds": ["mf121_music:music/time_farewell"]
+  },
+  "music.time.stereo": {
+    "sounds": ["mf121_music:music/time_stereo"]
+  },
+  "music.epoch.stereo": {
+    "sounds": ["mf121_music:music/epoch_stereo"]
+  },
+  "music.angelsreprise.stereo": {
+    "sounds": ["mf121_music:music/angelsreprise_stereo"]
+  },
+  "music.kleptoophanim.stereo": {
+    "sounds": ["mf121_music:music/kleptoophanim_stereo"]
+  },
+  "music.waking_up.stereo": {
+    "sounds": ["mf121_music:music/waking_up_stereo"]
+  },
+  "music.constant_reminders.stereo": {
+    "sounds": ["mf121_music:music/constant_reminders_stereo"]
+  },
+  "music.metaphor_split.stereo": {
+    "sounds": ["mf121_music:music/metaphor_split_stereo"]
+  },
+  "music.sublime_inversion.stereo": {
+    "sounds": ["mf121_music:music/sublime_inversion_stereo"]
+  },
+  "music.effigy.stereo": {
+    "sounds": ["mf121_music:music/effigy_stereo"]
+  },
+  "music.twenty_ticks.stereo": {
+    "sounds": ["mf121_music:music/twenty_ticks_stereo"]
+  },
+  "music.bird_pipes.stereo": {
+    "sounds": ["mf121_music:music/bird_pipes_stereo"]
+  },
+  "music.bastille.stereo": {
+    "sounds": ["mf121_music:music/bastille_stereo"]
+  },
+  "music.stasis_overture.stereo": {
+    "sounds": ["mf121_music:music/stasis_overture_stereo"]
+  },
+  "music.subwoofernulb.stereo": {
+    "sounds": ["mf121_music:music/subwoofernulb_stereo"]
+  },
+  "music.montreal.stereo": {
+    "sounds": ["mf121_music:music/montreal_stereo"]
+  },
+  "music.chronograph.stereo": {
+    "sounds": ["mf121_music:music/chronograph_stereo"]
+  },
+  "music.mallofepoch.stereo": {
+    "sounds": ["mf121_music:music/mallofepoch_stereo"]
+  },
+  "music.traincrossing.stereo": {
+    "sounds": ["mf121_music:music/traincrossing_stereo"]
+  },
+  "music.duetime.stereo": {
+    "sounds": ["mf121_music:music/duetime_stereo"]
+  },
+  "music.time_farewell.stereo": {
+    "sounds": ["mf121_music:music/time_farewell_stereo"]
   }
 }

@@ -30,6 +30,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "mf121_music:item/music_file_waking_up"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 5
 			},
 			"model": "mf121_music:item/music_file_constant_reminders"
