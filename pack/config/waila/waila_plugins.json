@@ -26,7 +26,7 @@
     "attribute.horse_jump_height": true,
     "attribute.horse_speed": true,
     "furnace_contents": true,
-    "jukebox.record": true,
+    "jukebox.record": false,
     "timer.grow": false,
     "timer.breed": false,
     "override.invisible_entity": true,
