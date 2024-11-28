@@ -3,16 +3,16 @@
     "files": {
       "5-hour-energy.pw.toml": {
         "download": {
-          "hash": "fcc095f570a33a6dde241177460e9708d72993bb8ea03efbab3f3d2e475fcc26ad7493716a97dc3a0709d906924ecc0b7a3909d0bd4c47246f58976ccee18bea",
+          "hash": "8f5de8036f8f86d946cf445985456d0827cf00e5efcaeb1951e99bbe55854f43e5c4249bbe79f47f041683dedc7ee54812ac691b30c3f11558019aed5f0cbaaa",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/UTw9dIz3/versions/mlE6Dv3d/five-hour-energy-1.0.2.jar"
+          "url": "https://cdn.modrinth.com/data/UTw9dIz3/versions/WaEaWg75/five-hour-energy-1.0.3.jar"
         },
-        "filename": "five-hour-energy-1.0.2.jar",
+        "filename": "five-hour-energy-1.0.3.jar",
         "name": "5 Hour Energy",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/UTw9dIz3/versions/mlE6Dv3d/five-hour-energy-1.0.2.jar"
+    "url": "https://cdn.modrinth.com/data/UTw9dIz3/versions/WaEaWg75/five-hour-energy-1.0.3.jar"
   },
   "amys_industrious_mod": {
     "files": {
@@ -33,11 +33,11 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "49759c22fb6311c331be5f21afb9fcb5dc3f4476417f466b87cc41effbb902524ed6c89a6f755ba44d8f9dc181e0b26425d10dd66ee4215fc1318838e5994891",
+          "hash": "f3da3e73731be4f94cd3efdf70388f9f9cdb85871240107d4ec9eac2cd0aa54a1c0ac0f1e54f65bc8f59f7032f1056b7bf82a444bc6f387587f9c152804e3dd4",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/c9Vc4e7L/armistice-1.0.0-SNAPSHOT22.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/F1JE5YcB/armistice-1.0.0-SNAPSHOT24.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT22.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT24.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/c9Vc4e7L/armistice-1.0.0-SNAPSHOT22.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/F1JE5YcB/armistice-1.0.0-SNAPSHOT24.jar"
   },
   "bubblelife": {
     "files": {
@@ -308,31 +308,31 @@
     "files": {
       "foup.pw.toml": {
         "download": {
-          "hash": "d5c5c8af23b6c72023ac9540ceee8a8401aea5ce5a3c503cb6edf962bbe747842c22cdad5d4bdf80a43abcd980b7e8299e9101d552c5126088ec7cea295c22f0",
+          "hash": "e267013f032b7dc02eede01bea9317a60002643b54b720331219f846f030029a99bba236a80a220e3142fb48dcbcb7c24b042705f677c574b914b05c150484ba",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/Og43rVai/foup-0.2.7.jar"
+          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/1A9FOX4n/foup-0.2.8.jar"
         },
-        "filename": "foup-0.2.7.jar",
+        "filename": "foup-0.2.8.jar",
         "name": "FOUP",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/Og43rVai/foup-0.2.7.jar"
+    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/1A9FOX4n/foup-0.2.8.jar"
   },
   "future_things": {
     "files": {
       "future-things.pw.toml": {
         "download": {
-          "hash": "15a562ea2fb821f4531398e9020cb2a6155575984fc4afe46b728f080ec2671e29bc4c1983e653c72fb33b6dec64945db3f1b50256e548df3ee3cd618360f357",
+          "hash": "908eff489b294af93e008ac3609e4b14936bbf055e92f22f132499561131df07c476050db798211d3305228a20919d5032b813813cca1a948ebd5024572c03f9",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/ZFNTYm4J/versions/nIl8gOkf/future_things-1.0.1.jar"
+          "url": "https://cdn.modrinth.com/data/ZFNTYm4J/versions/iuKOLHdu/future_things-1.0.2.jar"
         },
-        "filename": "future_things-1.0.1.jar",
+        "filename": "future_things-1.0.2.jar",
         "name": "Future Things",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/ZFNTYm4J/versions/nIl8gOkf/future_things-1.0.1.jar"
+    "url": "https://cdn.modrinth.com/data/ZFNTYm4J/versions/iuKOLHdu/future_things-1.0.2.jar"
   },
   "gastroarchaeology": {
     "files": {
@@ -523,23 +523,23 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "ad1af052e530fa3f725896eca0d10191d7f48e1b7c15756ddbfc97d44554ded59b695e6321b055ff6ccc81e278c930eafcfe129f6dbdf02d0acc8a43c6e0b567",
+          "hash": "d0d5b5e08a6400d55a158981d8452ed0adbb7ccd7fcb6b1dd18234d92010bee7bc850cf619ed5e58fac0bc383c601aed6982cf5b909231d3b3ea11f73762dcbd",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/74cN8nGq/legacy_landscape-0.8.4%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/95bBXJVg/legacy_landscape-0.8.5%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.8.4+1.21.1.jar",
+        "filename": "legacy_landscape-0.8.5+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/74cN8nGq/legacy_landscape-0.8.4%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/95bBXJVg/legacy_landscape-0.8.5%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
       "geckolib.pw.toml": {
         "download": {
-          "hash": "4ccf2ab7e47f970d81c5dde4522b75eafbb438c1",
-          "hash-format": "sha1",
+          "hash": "9054e6513d41c32d0892179984339c77b637db92e7ef71e46ccb1c531e6c92f1bbd0a9d30302c119069e2513a9711c14464562aea2b59c64f74287eb1df5804a",
+          "hash-format": "sha512",
           "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/qHj5WJHI/geckolib-neoforge-1.21.1-4.7.jar"
         },
         "filename": "geckolib-neoforge-1.21.1-4.7.jar",
@@ -548,31 +548,31 @@
       },
       "life-size-bdubs.pw.toml": {
         "download": {
-          "hash": "0976fb4f4ff3d2e950a12b87b9d9daf42041c541",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/bfpn0I0k/lifesizebdubs-1.0.3.jar"
+          "hash": "7b7abd88204bfeb0abb4f3ab8d5502464bb9dd3a00364258ccba549e9680f69e51e1d1938505d639953f147225afae1cacf556a7b734a4163c67572f05bb6b08",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/MWRMkEy4/lifesizebdubs-1.0.4.jar"
         },
-        "filename": "lifesizebdubs-1.0.3.jar",
+        "filename": "lifesizebdubs-1.0.4.jar",
         "name": "Life-Size Bdubs",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/bfpn0I0k/lifesizebdubs-1.0.3.jar"
+    "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/MWRMkEy4/lifesizebdubs-1.0.4.jar"
   },
   "magisterium": {
     "files": {
       "magisterium.pw.toml": {
         "download": {
-          "hash": "e7890ec5549c1f375daf6bf54ae0ff91601e3b903e60d15bb70f406d1f0aa1721fee425608de64c867d367b217f2d138dcf8f0fff13a82164bd51450b5885928",
+          "hash": "d06ae70df80c75fb0ec4df4e7b41e2a427ff71b9cc6e9c470fbe6e8b6fbc0f64db97ebf42d6446240ca3628cc7ec189254260ccdf4b9db85f6247ea35e31b476",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/Gi97fZyd/versions/aRjUz6cQ/magisterium-0.0.5.jar"
+          "url": "https://cdn.modrinth.com/data/Gi97fZyd/versions/2fUZR1zn/magisterium-0.0.5.1.jar"
         },
-        "filename": "magisterium-0.0.5.jar",
+        "filename": "magisterium-0.0.5.1.jar",
         "name": "Magisterium",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/Gi97fZyd/versions/aRjUz6cQ/magisterium-0.0.5.jar"
+    "url": "https://cdn.modrinth.com/data/Gi97fZyd/versions/2fUZR1zn/magisterium-0.0.5.1.jar"
   },
   "minecon_ruins": {
     "files": {
@@ -798,16 +798,16 @@
     "files": {
       "plastar.pw.toml": {
         "download": {
-          "hash": "809eed12c5dd1081a10168318aa4bffbe354e2f1",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/cY29BjfU/plastar-neoforge-0.2.2%2B1.21.1.jar"
+          "hash": "b772f9ed7eb8a3b13ae3f5b55fff3199bf16ce990c456c2583317d095cf3625f7e6e18c47c9d18773e27406f1ea4af2f22a4f5fe7645d7732c4628f32b6bd4f5",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/NT8fpTkp/plastar-neoforge-0.2.3%2B1.21.1.jar"
         },
-        "filename": "plastar-neoforge-0.2.2+1.21.1.jar",
+        "filename": "plastar-neoforge-0.2.3+1.21.1.jar",
         "name": "Mecha Soldier PLASTAR",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/cY29BjfU/plastar-neoforge-0.2.2%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/wyMBaCLa/versions/NT8fpTkp/plastar-neoforge-0.2.3%2B1.21.1.jar"
   },
   "pocketwatchery": {
     "files": {
@@ -958,16 +958,16 @@
     "files": {
       "super_mod.pw.toml": {
         "download": {
-          "hash": "2ac9381a4b11643f5654f621de6a9880a32fef5f33c373ed1dec1c24d68d2cae8a5e383fb792ba5e994e87aedb667d56e0a57881cf6a3195e93aedd3edbb97a1",
+          "hash": "cf7deee6beb0994addffc7124369cc1bfa9131831a63ffa05c57696946aaa80fbb32a5a9ba8a5a13f557c8b67f865d3cd2fe95ec8054f5664fd00a2db1357208",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/SNP1hrr5/super_mod-1.2.6.jar"
+          "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/t8bN1le7/super_mod-1.2.7.jar"
         },
-        "filename": "super_mod-1.2.6.jar",
+        "filename": "super_mod-1.2.7.jar",
         "name": "SuperMod",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/SNP1hrr5/super_mod-1.2.6.jar"
+    "url": "https://cdn.modrinth.com/data/AwxkDzPI/versions/t8bN1le7/super_mod-1.2.7.jar"
   },
   "tanglr": {
     "files": {
@@ -1003,16 +1003,16 @@
     "files": {
       "the-arcane-path-of-chemistry.pw.toml": {
         "download": {
-          "hash": "4a13b37d91071c5f9e3e327d974e4365d86f55e05691c523753932a7d430454a4eadc218ab564ef90639eac8c0cb3ecf7ee0308c7b63a5944d68a74e885595cc",
+          "hash": "57d8d7cf274ad404b502aade5c57aeb702c584b4815d8b3cd1f3316114e91725fff090dc6508e317689950cc11e5cb1d47cf3c49d71d12bbeaa38a8b563cb4b3",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/avOj4p8D/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
+          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/XENdt5xq/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
         },
         "filename": "The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar",
         "name": "The Arcane path of Chemistry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/avOj4p8D/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
+    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/XENdt5xq/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
   },
   "timewarp": {
     "files": {
