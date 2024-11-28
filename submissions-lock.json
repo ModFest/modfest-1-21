@@ -33,11 +33,11 @@
     "files": {
       "armistice.pw.toml": {
         "download": {
-          "hash": "f3da3e73731be4f94cd3efdf70388f9f9cdb85871240107d4ec9eac2cd0aa54a1c0ac0f1e54f65bc8f59f7032f1056b7bf82a444bc6f387587f9c152804e3dd4",
+          "hash": "16947c4fa69e3662f3fc710839f956088acaa39a064dfb81f40f34cd8a19480d3f69f38452f122bf61345b51f45d306a99a50994fad9396584721a99924b181c",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/F1JE5YcB/armistice-1.0.0-SNAPSHOT24.jar"
+          "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/LGwciChC/armistice-1.0.0-SNAPSHOT25.jar"
         },
-        "filename": "armistice-1.0.0-SNAPSHOT24.jar",
+        "filename": "armistice-1.0.0-SNAPSHOT25.jar",
         "name": "Armistice: the Peace Engines",
         "side": "both"
       },
@@ -52,7 +52,7 @@
         "side": "client"
       }
     },
-    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/F1JE5YcB/armistice-1.0.0-SNAPSHOT24.jar"
+    "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/LGwciChC/armistice-1.0.0-SNAPSHOT25.jar"
   },
   "bubblelife": {
     "files": {
@@ -308,16 +308,16 @@
     "files": {
       "foup.pw.toml": {
         "download": {
-          "hash": "e267013f032b7dc02eede01bea9317a60002643b54b720331219f846f030029a99bba236a80a220e3142fb48dcbcb7c24b042705f677c574b914b05c150484ba",
+          "hash": "2262dea6555658a612fa63beb3da48eab2b314f68d5926b80fe0e2b3404a593163bf38def1a4448d3b2eedad09f5b3992096c6cfc5c66155ed20aeb6b64c9d92",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/1A9FOX4n/foup-0.2.8.jar"
+          "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/bESi0S10/foup-0.2.9.jar"
         },
-        "filename": "foup-0.2.8.jar",
+        "filename": "foup-0.2.9.jar",
         "name": "FOUP",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/1A9FOX4n/foup-0.2.8.jar"
+    "url": "https://cdn.modrinth.com/data/qQdpIiMD/versions/bESi0S10/foup-0.2.9.jar"
   },
   "future_things": {
     "files": {
@@ -383,16 +383,16 @@
     "files": {
       "hyphapiracea.pw.toml": {
         "download": {
-          "hash": "dd0e0348c9be175c39485334ea8a3c5b290f1005",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/EY9MaYNo/hyphapiracea-neoforge-mc1.21.1-0.1.2.jar"
+          "hash": "e0b78896faa338f6cdd77a8e48dfdf9525b6456f4df1ec55d4c7877d2e4f1f92a27fb8d40da33aa5244d2c0858a1de85a6b5a079511d40e9a875cf6239895da7",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/PFM4i5HT/hyphapiracea-neoforge-mc1.21.1-0.1.2.1.jar"
         },
-        "filename": "hyphapiracea-neoforge-mc1.21.1-0.1.2.jar",
+        "filename": "hyphapiracea-neoforge-mc1.21.1-0.1.2.1.jar",
         "name": "HyphaPiracea",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/EY9MaYNo/hyphapiracea-neoforge-mc1.21.1-0.1.2.jar"
+    "url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/PFM4i5HT/hyphapiracea-neoforge-mc1.21.1-0.1.2.1.jar"
   },
   "interstellar": {
     "files": {
@@ -548,16 +548,16 @@
       },
       "life-size-bdubs.pw.toml": {
         "download": {
-          "hash": "7b7abd88204bfeb0abb4f3ab8d5502464bb9dd3a00364258ccba549e9680f69e51e1d1938505d639953f147225afae1cacf556a7b734a4163c67572f05bb6b08",
+          "hash": "a4e4d019c7e4186d867e3af3712e83333b1858c04408dd4d9493faf1f829845191d313c93d39ec4bfc233cf1515015e84ad434664188b4eb8a61bd926a390484",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/MWRMkEy4/lifesizebdubs-1.0.4.jar"
+          "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/PJyJEu2N/lifesizebdubs-1.0.5.jar"
         },
-        "filename": "lifesizebdubs-1.0.4.jar",
+        "filename": "lifesizebdubs-1.0.5.jar",
         "name": "Life-Size Bdubs",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/MWRMkEy4/lifesizebdubs-1.0.4.jar"
+    "url": "https://cdn.modrinth.com/data/3KnJVIlK/versions/PJyJEu2N/lifesizebdubs-1.0.5.jar"
   },
   "magisterium": {
     "files": {
@@ -1033,16 +1033,16 @@
     "files": {
       "unearth.pw.toml": {
         "download": {
-          "hash": "e8b4b34a4c1dd637d2beac711ea714297bbc1017bb78f280dd87f4ddcc741618319b837ae73797c48ce6624a8949b22cee99ba9f09c27021508aac3b190d9a9b",
+          "hash": "6fbde6dd75eea387135a1f575e8bd24f0a877e7de536658a2eed6703368030b8b5d7cb46af57bd2756492be209647d5a0f61c8bd8124d907d3a7ec98beb45075",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/aK10HizP/versions/diunSaUI/unearth-1.21.1-1.0.8.jar"
+          "url": "https://cdn.modrinth.com/data/aK10HizP/versions/TwFqXBE6/unearth-1.21.1-1.0.9.jar"
         },
-        "filename": "unearth-1.21.1-1.0.8.jar",
+        "filename": "unearth-1.21.1-1.0.9.jar",
         "name": "Unearth",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/aK10HizP/versions/diunSaUI/unearth-1.21.1-1.0.8.jar"
+    "url": "https://cdn.modrinth.com/data/aK10HizP/versions/TwFqXBE6/unearth-1.21.1-1.0.9.jar"
   },
   "unstable_timepiece": {
     "files": {
