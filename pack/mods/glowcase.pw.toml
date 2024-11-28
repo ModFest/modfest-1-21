@@ -1,13 +1,13 @@
 name = "Glowcase"
-filename = "glowcase-1.6.0+1.21.jar"
+filename = "glowcase-1.7.3+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HPdKhYvx/versions/6UH2s92c/glowcase-1.6.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/HPdKhYvx/versions/kOE5UGXi/glowcase-1.7.3%2B1.21.jar"
 hash-format = "sha512"
-hash = "af29140475dc8b4a45f6a30228632263f6dc2611d28a3f60eedec6322d8768ccda3e10981ac1f8ffb74cab835cecafc9cdb258cffcee80901806f8d30b6df97c"
+hash = "4a9663278fe1cb0e183d984c42f612ebdfb86d91840cc49a57a01d4a73cd41d82e6b62011b01126c0971d732df80b5b53162a551dcbff483fb530e9c0f6ddc58"
 
 [update]
 [update.modrinth]
 mod-id = "HPdKhYvx"
-version = "6UH2s92c"
+version = "kOE5UGXi"
