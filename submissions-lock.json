@@ -73,16 +73,16 @@
     "files": {
       "charta.pw.toml": {
         "download": {
-          "hash": "94974a2cda1ba7026f0fd7d1406dec5a805833f709aec03467ae1e22230270f9555c1afa1a8e71b38ac6e0808712684f55d8e4fc73dbf6a4e5db5d393f93635e",
+          "hash": "fdb507fd7085c0705a9483de09b936c47f9ff77dcdc805b332e95be3060fd70b1f533a154a359a4c64e3b64d038478f048638536b43c62457ef2635ea0fc68e4",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/8KwrUc4n/charta-0.4-ALPHA.jar"
+          "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/24pRkSDZ/charta-0.4.1-ALPHA.jar"
         },
-        "filename": "charta-0.4-ALPHA.jar",
+        "filename": "charta-0.4.1-ALPHA.jar",
         "name": "Charta",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/8KwrUc4n/charta-0.4-ALPHA.jar"
+    "url": "https://cdn.modrinth.com/data/sFamPxlk/versions/24pRkSDZ/charta-0.4.1-ALPHA.jar"
   },
   "chickensaurs": {
     "files": {
@@ -888,16 +888,16 @@
     "files": {
       "shattered-stopwatch.pw.toml": {
         "download": {
-          "hash": "ab01d4b2c341857cd27307836437f9a65380a3afe08ecc76571d93085694f81ba5404133b3f6303fb3081e1f6761f5a0ae2ef98235c7cc3e78de3f74e8bb6a02",
+          "hash": "637710855914c9e496c985fc971bb4061e3a5d64c9e9ecd28c545f11931c1186dceb7b8fe15c075cf5d6981579e8db353743caa1232478af2f94b696f0e9df1e",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/MRBR5mZk/shattered-stopwatch-0.1.3%2B1.21.jar"
+          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/rbTUBrDA/shattered-stopwatch-0.2.0%2B1.21.jar"
         },
-        "filename": "shattered-stopwatch-0.1.3+1.21.jar",
+        "filename": "shattered-stopwatch-0.2.0+1.21.jar",
         "name": "Shattered Stopwatch",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/MRBR5mZk/shattered-stopwatch-0.1.3%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/rbTUBrDA/shattered-stopwatch-0.2.0%2B1.21.jar"
   },
   "shrink_ray": {
     "files": {
