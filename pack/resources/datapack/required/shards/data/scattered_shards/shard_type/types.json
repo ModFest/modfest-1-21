@@ -49,7 +49,7 @@
 		"glow_color": "#fff596",
 		"icon_offsets": {
 			"normal": {
-				"top": 15,
+				"top": 14,
 				"left": 4
 			},
 			"mini": {
@@ -106,11 +106,11 @@
 		"glow_color": "#fff596",
 		"icon_offsets": {
 			"normal": {
-				"top": 15,
+				"top": 9,
 				"left": 4
 			},
 			"mini": {
-				"top": 7,
+				"top": 4,
 				"left": 2
 			}
 		},
@@ -144,7 +144,7 @@
 		"glow_color": "#fff596",
 		"icon_offsets": {
 			"normal": {
-				"top": 15,
+				"top": 14,
 				"left": 4
 			},
 			"mini": {
