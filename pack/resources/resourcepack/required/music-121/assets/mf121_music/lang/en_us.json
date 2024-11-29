@@ -44,6 +44,7 @@
   "jukebox_song.armistice.recalled": "Nulb - Recalled",
   "jukebox_song.mf_121_music.due_time": "Nulb - Due Time",
   "jukebox_song.mf_121_music.time_farewell": "WorldWidePixel - Time Enough to Say Farewell",
+  "jukebox_song.mf_121_music.conversation_range": "Bandit - Conversation Range",
 
   "music.now-playing.time": "Nulb - TIME",
   "music.now-playing.epoch": "lumiscosity - Hymn of Epoch",
@@ -67,7 +68,7 @@
   "music.now-playing.recalled": "Nulb - Recalled",
   "music.now-playing.due_time": "Nulb - Due Time",
   "music.now-playing.time_farewell": "WorldWidePixel - Time Enough to Say Farewell",
-  
+  "music.now-playing.unearth:conversation_range": "Bandit - Conversation Range",
 
   "subtitles.mf_121_music.music.time_stereo": "Music: TIME - Nulb",
   "subtitles.mf_121_music.music.epoch_stereo": "Music: Hymn of Epoch - lumiscosity",
@@ -91,6 +92,7 @@
   "sound.armistice.music.recalled_stereo": "Music: Recalled - Nulb",
   "subtitles.mf_121_music.music.due_time_stereo": "Music: Due Time - Nulb",
   "subtitles.mf_121_music.music.time_farewell_stereo": "Music: Time Enough to Say Farewell - WorldWidePixel",
+  "subtitles.mf_121_music.music.conversation_range_stereo": "Music: Conversation Range - Bandit",
 
   "music.now-playing.time_stereo": "Nulb - TIME",
   "music.now-playing.epoch_stereo": "lumiscosity - Hymn of Epoch",
@@ -113,5 +115,6 @@
   "music.now-playing.peace_engines_stereo": "WorldWidePixel - Peace Engines",
   "music.now-playing.recalled_stereo": "Nulb - Recalled",
   "music.now-playing.due_time_stereo": "Nulb - Due Time",
-  "music.now-playing.time_farewell_stereo": "WorldWidePixel - Time Enough to Say Farewell"
+  "music.now-playing.time_farewell_stereo": "WorldWidePixel - Time Enough to Say Farewell",
+  "music.now-playing.conversation_range": "Bandit - Conversation Range"
 }

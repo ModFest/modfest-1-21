@@ -118,5 +118,8 @@
   },
   "music.time_farewell.stereo": {
     "sounds": ["mf121_music:music/time_farewell_stereo"]
+  },
+  "music.conversation_range.stereo": {
+    "sounds": ["mf121_music:music/conversation_range_stereo"]
   }
 }

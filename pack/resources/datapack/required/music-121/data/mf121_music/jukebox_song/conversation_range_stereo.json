@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.mf121_music.conversation_range"
+  },
+  "length_in_seconds": 108.0,
+  "sound_event": {
+    "sound_id": "mf121_music:music.conversation_range.stereo"
+  }
+}
