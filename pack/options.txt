@@ -3,7 +3,7 @@ darkMojangStudiosBackground:true
 skipMultiplayerWarning:true
 joinedFirstServer:true
 tutorialStep:none
-renderDistance:48
+renderDistance:32
 key_key.advancements:key.keyboard.unknown
 key_key.waila.show_overlay:key.keyboard.right.alt
 key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.unknown
