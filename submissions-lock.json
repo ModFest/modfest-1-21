@@ -18,16 +18,16 @@
     "files": {
       "amys-industrious-mod.pw.toml": {
         "download": {
-          "hash": "a883bfb421f8422074ad827bf817e26cb7f6c7c3",
+          "hash": "ae749283df34b67d14e68bf864792c3f0a6e08b4",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/eAUKHCke/industrious-1.0.1%2B1.21.jar"
+          "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/kfj8mdlT/industrious-1.0.2%2B1.21.jar"
         },
-        "filename": "industrious-1.0.1+1.21.jar",
+        "filename": "industrious-1.0.2+1.21.jar",
         "name": "Amy's Industrious Mod",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/eAUKHCke/industrious-1.0.1%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/kfj8mdlT/industrious-1.0.2%2B1.21.jar"
   },
   "armistice": {
     "files": {
@@ -843,16 +843,16 @@
     "files": {
       "rods-from-god.pw.toml": {
         "download": {
-          "hash": "80ed5ddb3c0cd33d6f94b1d4cdf8be96935987ef",
+          "hash": "b05f700ca5495c6c2c01450b67f06d3a3c333fc3",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/NbJERsNj/rods_from_god-1.1.3%2B1.21.1.jar"
+          "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/jzxVJxwM/rods_from_god-1.1.4%2B1.21.1.jar"
         },
-        "filename": "rods_from_god-1.1.3+1.21.1.jar",
+        "filename": "rods_from_god-1.1.4+1.21.1.jar",
         "name": "Rods from God",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/NbJERsNj/rods_from_god-1.1.3%2B1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/lfJQNrlz/versions/jzxVJxwM/rods_from_god-1.1.4%2B1.21.1.jar"
   },
   "roehrchen": {
     "files": {
@@ -888,16 +888,16 @@
     "files": {
       "shattered-stopwatch.pw.toml": {
         "download": {
-          "hash": "637710855914c9e496c985fc971bb4061e3a5d64c9e9ecd28c545f11931c1186dceb7b8fe15c075cf5d6981579e8db353743caa1232478af2f94b696f0e9df1e",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/rbTUBrDA/shattered-stopwatch-0.2.0%2B1.21.jar"
+          "hash": "e979f9f6912b5155d85e1ab05cb3fef5e42fcc20",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/CtXsgp9C/shattered-stopwatch-0.2.1%2B1.21.jar"
         },
-        "filename": "shattered-stopwatch-0.2.0+1.21.jar",
+        "filename": "shattered-stopwatch-0.2.1+1.21.jar",
         "name": "Shattered Stopwatch",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/rbTUBrDA/shattered-stopwatch-0.2.0%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/CtXsgp9C/shattered-stopwatch-0.2.1%2B1.21.jar"
   },
   "shrink_ray": {
     "files": {
@@ -1003,16 +1003,16 @@
     "files": {
       "the-arcane-path-of-chemistry.pw.toml": {
         "download": {
-          "hash": "57d8d7cf274ad404b502aade5c57aeb702c584b4815d8b3cd1f3316114e91725fff090dc6508e317689950cc11e5cb1d47cf3c49d71d12bbeaa38a8b563cb4b3",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/XENdt5xq/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
+          "hash": "c17739b79e2c1541c7a9502a2753ce4bc92d2da8",
+          "hash-format": "sha1",
+          "url": "https://cdn.modrinth.com/data/d2pc786h/versions/BUmmIW4X/The-Arcane-path-of-Chemistry-1.0.4-1.21.1-1.21.2.jar"
         },
-        "filename": "The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar",
+        "filename": "The-Arcane-path-of-Chemistry-1.0.4-1.21.1-1.21.2.jar",
         "name": "The Arcane path of Chemistry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/XENdt5xq/The-Arcane-path-of-Chemistry-1.0.3-1.21.1-1.21.2.jar"
+    "url": "https://cdn.modrinth.com/data/d2pc786h/versions/BUmmIW4X/The-Arcane-path-of-Chemistry-1.0.4-1.21.1-1.21.2.jar"
   },
   "timewarp": {
     "files": {
