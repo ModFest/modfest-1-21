@@ -16,9 +16,9 @@ This modpack contains all submissions, as well as a showcase world built by part
 - Witness the dawn of 59 mods, including **Armistice**, **Charta**, **FBombs**, and **Life-Size Bdubs**!
 - Explore a circular world split into four "ages" - Stone, Iron, Industrial, and information!
 - Traverse the map with prehistoric angry birds, fancy bombs, ninja outfits, and a *lot* of watches!
-- Whistle along to over *one hour* of original music made just for the event! 
-- Find and earn XXX collectible "shards", tracking booth visits, exploration, and mastery!
-- Decide once and for all - was the town of Stasis really eaten by a world-swallowing dragon? or is that just what the locals believe?
+- Whistle along to over an hour of original music made just for the event! 
+- Find and earn 130 collectible "shards", tracking booth visits, exploration, and mastery!
+- Decide for yourself - was the town of Stasis really eaten by a world-swallowing dragon? or is that just what the locals believe?
 
 <center>
 <img width="50%" alt="temple preview" src="https://cdn.modrinth.com/data/Jb8zz4iP/images/c606057a7e9830f289eb7993201c2cfe3826253c.png"/><br/>
