@@ -9,3 +9,4 @@ key_key.waila.show_overlay:key.keyboard.right.alt
 key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
+resourcePacks:["vanilla","fabric","mod_resources","legacy_landscape_rrp","srl_rp/Unsanded-1.1.1-custom.zip","srl_rp/chai-modfest","srl_rp/lifesizeparticipants","srl_rp/modfest-assets","srl_rp/music-121","srl_rp/shards","srl_rp/twemojis.zip","mod/barricade:resourcepacks/modded_rendering"]
