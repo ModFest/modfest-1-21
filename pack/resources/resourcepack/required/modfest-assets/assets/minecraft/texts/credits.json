@@ -5,9 +5,14 @@
 			{
 				"discipline": "Soundtrack Authors",
 				"titles": [
-					"WorldWidePixel",
-					"Nulb",
-					"luminoscity"
+					{
+						"title": "artist",
+						"names": [
+							"WorldWidePixel",
+							"Nulb",
+							"luminoscity"
+						]
+					}
 				]
 			},
 			{
@@ -405,29 +410,34 @@
 			{
 				"discipline": "Team member",
 				"titles": [
-					"acikek",
-					"2xSaiko",
-					"AFamiliarQuiey",
-					"Chai",
-					"Falkreon",
-					"Hama",
-					"CyborgPigeon",
-					"Infinidoge",
-					"IThundxr",
-					"Jasmine",
-					"Pyrrha",
-					"June",
-					"leo60228",
-					"Lgmrszd",
-					"Maximum",
-					"Nulb",
-					"oatmealine",
-					"Patbox",
-					"Prospector",
-					"Sammy",
-					"Sisby Folk",
-					"TheEpicBlock",
-					"Tropheusj"
+					{
+						"title": "Team member",
+						"names": [
+							"acikek",
+							"2xSaiko",
+							"AFamiliarQuiey",
+							"Chai",
+							"Falkreon",
+							"Hama",
+							"CyborgPigeon",
+							"Infinidoge",
+							"IThundxr",
+							"Jasmine",
+							"Pyrrha",
+							"June",
+							"leo60228",
+							"Lgmrszd",
+							"Maximum",
+							"Nulb",
+							"oatmealine",
+							"Patbox",
+							"Prospector",
+							"Sammy",
+							"Sisby Folk",
+							"TheEpicBlock",
+							"Tropheusj"
+						]
+					}
 				]
 			}
 		]
