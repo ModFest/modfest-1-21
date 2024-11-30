@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->
-<center><img alt="world preview" src="https://cdn.modrinth.com/data/Jb8zz4iP/images/9a4e86617cb4228038979e86bb25a17ca4daf075.png" /></center>
+<center><img alt="world preview" src="https://cdn.modrinth.com/data/Jb8zz4iP/images/5029aaf5de91f0c6ee0711d630e3a5b44b31c34a.png" /></center>
 
 <center>
 Stasis - the town of four ages!<br/>
@@ -21,7 +21,7 @@ This modpack contains all submissions, as well as a showcase world built by part
 - Decide once and for all - was the town of Stasis really eaten by a world-swallowing dragon? or is that just what the locals believe?
 
 <center>
-<img width="50%" alt="temple preview" src="https://cdn.modrinth.com/data/Jb8zz4iP/images/33bb6462781f6c73f0c6619cc0418a433a62d395.png"/><br/>
+<img width="50%" alt="temple preview" src="https://cdn.modrinth.com/data/Jb8zz4iP/images/c606057a7e9830f289eb7993201c2cfe3826253c.png"/><br/>
 <i>Heading down, fragment? Brace for impact...</i>
 </center>
 
