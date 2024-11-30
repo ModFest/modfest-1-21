@@ -3,199 +3,122 @@
 		"section": "ModFest Participants",
 		"disciplines": [
 			{
-				"discipline": "Unstable Timepiece",
+				"discipline": "Soundtrack Authors",
+				"titles": [
+					"WorldWidePixel",
+					"Nulb",
+					"luminoscity"
+				]
+			},
+			{
+				"discipline": "Mod Authors",
 				"titles": [
 					{
-						"title": "author",
+						"title": "Unstable Timepiece",
 						"names": [
 							"chai"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Legacy Landscape",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Legacy Landscape",
 						"names": [
 							"sylv"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Everwinter",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Everwinter",
 						"names": [
 							"thefluffycart55"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Chronoception",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Chronoception",
 						"names": [
 							"chromonym"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "MoreTraps",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "MoreTraps",
 						"names": [
 							"notryken"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Gastroarchaeology",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Gastroarchaeology",
 						"names": [
 							"nateplays95",
 							"a11v1r15"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Past-el Palettes",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Past-el Palettes",
 						"names": [
 							"mynamesraph"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Chickensaurs",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Chickensaurs",
 						"names": [
 							"hyperpigeon",
 							"lumiscosity"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Tanglr",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Tanglr",
 						"names": [
 							"theepicblock"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "SuperMod",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "SuperMod",
 						"names": [
 							"tomate0613"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Temporang",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Temporang",
 						"names": [
 							"doublepi"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "FOUP",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "FOUP",
 						"names": [
 							"xfacthd"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Charta",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Charta",
 						"names": [
 							"d4rkness_king"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Nyctography",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Nyctography",
 						"names": [
 							"darkhax"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "The Arcane path of Chemistry",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "The Arcane path of Chemistry",
 						"names": [
 							"zuperz"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Buildcraft-Legacy",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Buildcraft-Legacy",
 						"names": [
 							"thepigcat76"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Glow Sheep",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Glow Sheep",
 						"names": [
 							"mclegoman"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Mecha Soldier PLASTAR",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Mecha Soldier PLASTAR",
 						"names": [
 							"pug",
 							"khazoda",
@@ -204,259 +127,144 @@
 							"kneelawk",
 							"mattidragon"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Dissolution",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Dissolution",
 						"names": [
 							"leo60228"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Crimes Against the JVM",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Crimes Against the JVM",
 						"names": [
 							"prismatic"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Shrink Ray",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Shrink Ray",
 						"names": [
 							"theblindbandit6"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Dated Draughts",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Dated Draughts",
 						"names": [
 							"ssblur"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Glowbrick's Printing Press Mod",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Glowbrick's Printing Press Mod",
 						"names": [
 							"krysawyr",
 							"bitflare",
 							"azinx"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Spleef Toys",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Spleef Toys",
 						"names": [
 							"chai"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Interstellar",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Interstellar",
 						"names": []
-					}
-				]
-			},
-			{
-				"discipline": "Paper Pyrotechnics",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Paper Pyrotechnics",
 						"names": [
 							"sisby_folk"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Rewind Watch",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Rewind Watch",
 						"names": [
 							"gaming32"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "HyphaPiracea",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "HyphaPiracea",
 						"names": [
 							"phanastrae"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Magisterium",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Magisterium",
 						"names": [
 							"reoseah"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Days Gone By",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Days Gone By",
 						"names": [
 							"prismatic"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Pocketwatchery",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Pocketwatchery",
 						"names": [
 							"afamiliarquiet",
 							"hexvolt"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Amy's Industrious Mod",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Amy's Industrious Mod",
 						"names": [
 							"applebax",
 							"chai"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "FBombs",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "FBombs",
 						"names": [
 							"chai",
 							"milkyfur",
 							"shirojr",
 							"lufurrius"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Life in a Bubble",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Life in a Bubble",
 						"names": []
-					}
-				]
-			},
-			{
-				"discipline": "SakuraCake",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "SakuraCake",
 						"names": [
 							"awakened_redstone"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Kill Youkai With Knives",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Kill Youkai With Knives",
 						"names": [
 							"pug"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Wandering Rana",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Wandering Rana",
 						"names": [
 							"ultrusbot"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Mystcraft: Ageless",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Mystcraft: Ageless",
 						"names": [
 							"mynamesraph"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Rods from God",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Rods from God",
 						"names": [
 							"skynotthelimit"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "familiar magic",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "familiar magic",
 						"names": [
 							"afamiliarquiet"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Parachymistry",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Parachymistry",
 						"names": [
 							"sneakedy",
 							"byantine08",
@@ -464,103 +272,58 @@
 							"devmc",
 							"auzdin"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "5 Hour Energy",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "5 Hour Energy",
 						"names": [
 							"pug"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Minecon Ruins",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Minecon Ruins",
 						"names": [
 							"chai"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "ModernUtils",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "ModernUtils",
 						"names": [
 							"roboxgamer"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "CyberNinja",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "CyberNinja",
 						"names": [
 							"ckenja",
 							"baguchi"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Skycat's Lucky Blocks",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Skycat's Lucky Blocks",
 						"names": [
 							"skycatminepokie"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Minimal-Exchange",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Minimal-Exchange",
 						"names": [
 							"thepigcat76"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Timewarp",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Timewarp",
 						"names": [
 							"dooji"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "CraftSense",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "CraftSense",
 						"names": [
 							"dooji"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Armistice: the Peace Engines",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Armistice: the Peace Engines",
 						"names": [
 							"divineinversion",
 							"lgmrszd",
@@ -572,107 +335,62 @@
 							"virtualilith",
 							"worldwidepixel"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Shattered Stopwatch",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Shattered Stopwatch",
 						"names": [
 							"sisby_folk"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Colourful Clocks",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Colourful Clocks",
 						"names": [
 							"chefmooon"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Future Things",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Future Things",
 						"names": [
 							"twins730"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "MineFactorial",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "MineFactorial",
 						"names": [
 							"emmathemartian"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Unearth",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Unearth",
 						"names": [
 							"ira_the_56",
 							"squishy_com",
 							"itsmecryptic",
 							"artificial_fever"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Kinetic Weaponry",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Kinetic Weaponry",
 						"names": [
 							"myriantics"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "R\u00f6hrchen",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "R\u00f6hrchen",
 						"names": [
 							"sammy"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Just Another Witchery Remake",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Just Another Witchery Remake",
 						"names": [
 							"anatevka",
 							"mrsterner",
 							"techtastic"
 						]
-					}
-				]
-			},
-			{
-				"discipline": "Life-Size Bdubs",
-				"titles": [
+					},
 					{
-						"title": "author",
+						"title": "Life-Size Bdubs",
 						"names": [
 							"superkat32"
 						]

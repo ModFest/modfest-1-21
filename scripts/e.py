@@ -41,14 +41,9 @@ def main():
     credits = []
     for s in submission_data:
         credits.append({
-            "discipline": s["name"],
-            "titles": [
-                {
-                    "title": "author",
-                    "names": s["authors"]
-                }
-            ]
-        })
+			"title": s["name"],
+			"names": s["authors"]
+		})
     print(json.dumps(credits))
 
 if __name__ == "__main__":
