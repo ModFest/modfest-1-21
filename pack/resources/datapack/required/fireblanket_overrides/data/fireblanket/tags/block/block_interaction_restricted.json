@@ -8,14 +8,12 @@
 		"minecraft:chiseled_bookshelf",
 		"minecraft:barrel",
 		"minecraft:chest",
-		"minecraft:chiseled_bookshelf",
 		"minecraft:repeater",
 		"minecraft:comparator",
 		"minecraft:daylight_detector",
 		"minecraft:dispenser",
 		"minecraft:dropper",
 		"minecraft:hopper",
-		"minecraft:flower_pot",
 		"minecraft:crafter"
 	]
 }
