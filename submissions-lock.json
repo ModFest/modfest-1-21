@@ -888,16 +888,16 @@
     "files": {
       "shattered-stopwatch.pw.toml": {
         "download": {
-          "hash": "0ddbb313e4dc67174106eb52bf8983fca700c795",
+          "hash": "a4e779cc439977754b121b9027d35b00535a7c3b",
           "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/ckrmTGjw/shattered-stopwatch-0.3.0%2B1.21.jar"
+          "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/rLanQsOX/shattered-stopwatch-0.3.1%2B1.21.jar"
         },
-        "filename": "shattered-stopwatch-0.3.0+1.21.jar",
+        "filename": "shattered-stopwatch-0.3.1+1.21.jar",
         "name": "Shattered Stopwatch",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/ckrmTGjw/shattered-stopwatch-0.3.0%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/So5Pd4qV/versions/rLanQsOX/shattered-stopwatch-0.3.1%2B1.21.jar"
   },
   "shrink_ray": {
     "files": {
