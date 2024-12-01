@@ -15,7 +15,7 @@
 						"title": "Soundtrack Artist",
 						"names": [
 							"WorldWidePixel",
-							"lumiscosity"
+							"maple (lumiscosity)"
 						]
 					},
 					{
@@ -27,7 +27,7 @@
 					{
 						"title": "Texture Artist",
 						"names": [
-							"dreamiwishi"
+							"wishi (dreamiwishi)"
 						]
 					}
 				]
@@ -38,7 +38,7 @@
 					{
 						"title": "Mapwide Ghostbuilder",
 						"names": [
-							"CallMeEcho"
+							"Echo (CallMeEcho)"
 						]
 					},
 					{
@@ -78,7 +78,7 @@
 					{
 						"title": "Shadow showrunner",
 						"names": [
-							"chailotl"
+							"Chai"
 						]
 					},
 					{
@@ -104,21 +104,49 @@
 				"discipline": "Modding Teams",
 				"titles": [
 					{
-						"title": "Unstable Timepiece",
+						"title": "5 Hour Energy",
 						"names": [
-							"chai"
+							"Pug"
 						]
 					},
 					{
-						"title": "Legacy Landscape",
+						"title": "Amy's Industrious Mod",
 						"names": [
-							"sylv"
+							"Apple (Applebax)",
+							"Chai"
 						]
 					},
 					{
-						"title": "Everwinter",
+						"title": "Armistice: the Peace Engines",
 						"names": [
-							"thefluffycart55"
+							"Echo (CallMeEcho)",
+							"DivineInversion",
+							"Lgmrszd",
+							"Superkat32",
+							"Trudle",
+							"hama",
+							"Nulb",
+							"VirtuaLilith",
+							"WorldWidePixel"
+						]
+					},
+					{
+						"title": "Buildcraft-Legacy",
+						"names": [
+							"Thepigcat (Thepigcat76)"
+						]
+					},
+					{
+						"title": "Charta",
+						"names": [
+							"D4rk (D4rkness_King)"
+						]
+					},
+					{
+						"title": "Chickensaurs",
+						"names": [
+							"CyborgPigeon",
+							"maple (lumiscosity)"
 						]
 					},
 					{
@@ -128,215 +156,52 @@
 						]
 					},
 					{
-						"title": "MoreTraps",
+						"title": "Colourful Clocks",
 						"names": [
-							"notryken"
+							"ChefMooon"
 						]
 					},
 					{
-						"title": "Gastroarchaeology",
+						"title": "CraftSense",
 						"names": [
-							"nateplays95",
-							"a11v1r15"
-						]
-					},
-					{
-						"title": "Past-el Palettes",
-						"names": [
-							"mynamesraph"
-						]
-					},
-					{
-						"title": "Chickensaurs",
-						"names": [
-							"hyperpigeon",
-							"lumiscosity"
-						]
-					},
-					{
-						"title": "Tanglr",
-						"names": [
-							"theepicblock"
-						]
-					},
-					{
-						"title": "SuperMod",
-						"names": [
-							"tomate0613"
-						]
-					},
-					{
-						"title": "Temporang",
-						"names": [
-							"doublepi"
-						]
-					},
-					{
-						"title": "FOUP",
-						"names": [
-							"xfacthd"
-						]
-					},
-					{
-						"title": "Charta",
-						"names": [
-							"d4rkness_king"
-						]
-					},
-					{
-						"title": "Nyctography",
-						"names": [
-							"darkhax"
-						]
-					},
-					{
-						"title": "The Arcane path of Chemistry",
-						"names": [
-							"zuperz"
-						]
-					},
-					{
-						"title": "Buildcraft-Legacy",
-						"names": [
-							"thepigcat76"
-						]
-					},
-					{
-						"title": "Glow Sheep",
-						"names": [
-							"mclegoman"
-						]
-					},
-					{
-						"title": "Mecha Soldier PLASTAR",
-						"names": [
-							"pug",
-							"khazoda",
-							"lemmaeof",
-							"snakefangox",
-							"kneelawk",
-							"mattidragon"
-						]
-					},
-					{
-						"title": "Dissolution",
-						"names": [
-							"leo60228"
+							"Dooji"
 						]
 					},
 					{
 						"title": "Crimes Against the JVM",
 						"names": [
-							"prismatic"
+							"Prismatic"
 						]
 					},
 					{
-						"title": "Shrink Ray",
+						"title": "CyberNinja",
 						"names": [
-							"theblindbandit6"
+							"CKenja",
+							"baguchi"
 						]
 					},
 					{
 						"title": "Dated Draughts",
 						"names": [
-							"ssblur"
-						]
-					},
-					{
-						"title": "Glowbrick's Printing Press Mod",
-						"names": [
-							"krysawyr",
-							"bitflare",
-							"azinx"
-						]
-					},
-					{
-						"title": "Spleef Toys",
-						"names": [
-							"chai"
-						]
-					},
-					{
-						"title": "Paper Pyrotechnics",
-						"names": [
-							"sisby_folk"
-						]
-					},
-					{
-						"title": "Rewind Watch",
-						"names": [
-							"gaming32"
-						]
-					},
-					{
-						"title": "HyphaPiracea",
-						"names": [
-							"phanastrae"
-						]
-					},
-					{
-						"title": "Magisterium",
-						"names": [
-							"reoseah"
+							"blue (ssblur)"
 						]
 					},
 					{
 						"title": "Days Gone By",
 						"names": [
-							"prismatic"
+							"Prismatic"
 						]
 					},
 					{
-						"title": "Pocketwatchery",
+						"title": "Dissolution",
 						"names": [
-							"afamiliarquiet",
-							"hexvolt"
+							"vriska (leo60228)"
 						]
 					},
 					{
-						"title": "Amy's Industrious Mod",
+						"title": "Everwinter",
 						"names": [
-							"applebax",
-							"chai"
-						]
-					},
-					{
-						"title": "FBombs",
-						"names": [
-							"chai",
-							"milkyfur",
-							"shirojr",
-							"lufurrius"
-						]
-					},
-					{
-						"title": "SakuraCake",
-						"names": [
-							"awakened_redstone"
-						]
-					},
-					{
-						"title": "Kill Youkai With Knives",
-						"names": [
-							"pug"
-						]
-					},
-					{
-						"title": "Wandering Rana",
-						"names": [
-							"ultrusbot"
-						]
-					},
-					{
-						"title": "Mystcraft: Ageless",
-						"names": [
-							"mynamesraph"
-						]
-					},
-					{
-						"title": "Rods from God",
-						"names": [
-							"skynotthelimit"
+							"TheFluffycart55"
 						]
 					},
 					{
@@ -346,121 +211,51 @@
 						]
 					},
 					{
-						"title": "Parachymistry",
+						"title": "FBombs",
 						"names": [
-							"sneakedy",
-							"byantine08",
-							"tuffetspider",
-							"devmc",
-							"auzdin"
+							"Chai",
+							"Milky (MilkyFur)",
+							"ShiroJR",
+							"Luth (Lufurrius)"
 						]
 					},
 					{
-						"title": "5 Hour Energy",
+						"title": "FOUP",
 						"names": [
-							"pug"
-						]
-					},
-					{
-						"title": "Minecon Ruins",
-						"names": [
-							"chai"
-						]
-					},
-					{
-						"title": "ModernUtils",
-						"names": [
-							"roboxgamer"
-						]
-					},
-					{
-						"title": "CyberNinja",
-						"names": [
-							"ckenja",
-							"baguchi"
-						]
-					},
-					{
-						"title": "Skycat's Lucky Blocks",
-						"names": [
-							"skycatminepokie"
-						]
-					},
-					{
-						"title": "Minimal-Exchange",
-						"names": [
-							"thepigcat76"
-						]
-					},
-					{
-						"title": "Timewarp",
-						"names": [
-							"dooji"
-						]
-					},
-					{
-						"title": "CraftSense",
-						"names": [
-							"dooji"
-						]
-					},
-					{
-						"title": "Armistice: the Peace Engines",
-						"names": [
-							"divineinversion",
-							"lgmrszd",
-							"superkat32",
-							"callmeecho",
-							"trudle",
-							"hamaindustries",
-							"nulb",
-							"virtualilith",
-							"worldwidepixel"
-						]
-					},
-					{
-						"title": "Shattered Stopwatch",
-						"names": [
-							"sisby_folk"
-						]
-					},
-					{
-						"title": "Colourful Clocks",
-						"names": [
-							"chefmooon"
+							"XFactHD"
 						]
 					},
 					{
 						"title": "Future Things",
 						"names": [
-							"twins730"
+							"Twins730"
 						]
 					},
 					{
-						"title": "MineFactorial",
+						"title": "Gastroarchaeology",
 						"names": [
-							"emmathemartian"
+							"Nat (NatePlays95)",
+							"Prof. Carvalho (A11v1r15)"
 						]
 					},
 					{
-						"title": "Unearth",
+						"title": "Glow Sheep",
 						"names": [
-							"ira_the_56",
-							"squishy_com",
-							"itsmecryptic",
-							"artificial_fever"
+							"dannytaylor (MCLegoMan)"
 						]
 					},
 					{
-						"title": "Kinetic Weaponry",
+						"title": "Glowbrick's Printing Press Mod",
 						"names": [
-							"myriantics"
+							"Krysawyr",
+							"Bitflare",
+							"Azinx"
 						]
 					},
 					{
-						"title": "R\u00f6hrchen",
+						"title": "HyphaPiracea",
 						"names": [
-							"sammy"
+							"Phanastrae"
 						]
 					},
 					{
@@ -472,9 +267,214 @@
 						]
 					},
 					{
+						"title": "Kill Youkai With Knives",
+						"names": [
+							"Pug"
+						]
+					},
+					{
+						"title": "Kinetic Weaponry",
+						"names": [
+							"Myriantics"
+						]
+					},
+					{
+						"title": "Legacy Landscape",
+						"names": [
+							"Sylv"
+						]
+					},
+					{
 						"title": "Life-Size Bdubs",
 						"names": [
-							"superkat32"
+							"Superkat32"
+						]
+					},
+					{
+						"title": "Magisterium",
+						"names": [
+							"Reoseah"
+						]
+					},
+					{
+						"title": "Mecha Soldier PLASTAR",
+						"names": [
+							"Pug",
+							"June (Khazoda)",
+							"LemmaEOF",
+							"Snakefangox",
+							"Kneelawk",
+							"MattiDragon"
+						]
+					},
+					{
+						"title": "MineFactorial",
+						"names": [
+							"Emmeline (EmmaTheMartian)"
+						]
+					},
+					{
+						"title": "Minimal-Exchange",
+						"names": [
+							"Thepigcat (Thepigcat76)"
+						]
+					},
+					{
+						"title": "ModernUtils",
+						"names": [
+							"RoboXGamer"
+						]
+					},
+					{
+						"title": "MoreTraps",
+						"names": [
+							"Ryken (NotRyken)"
+						]
+					},
+					{
+						"title": "Mystcraft: Ageless",
+						"names": [
+							"MyNamesRaph"
+						]
+					},
+					{
+						"title": "Nyctography",
+						"names": [
+							"Darkhax"
+						]
+					},
+					{
+						"title": "Paper Pyrotechnics",
+						"names": [
+							"Sisby folk"
+						]
+					},
+					{
+						"title": "Parachymistry",
+						"names": [
+							"Sneakedy",
+							"Bytime (byantine08)",
+							"Tuffet (tuffetspider)",
+							"DevMC",
+							"Auzdin"
+						]
+					},
+					{
+						"title": "Past-el Palettes",
+						"names": [
+							"MyNamesRaph"
+						]
+					},
+					{
+						"title": "Pocketwatchery",
+						"names": [
+							"afamiliarquiet",
+							"Hex (hexvolt)"
+						]
+					},
+					{
+						"title": "Rewind Watch",
+						"names": [
+							"Gaming32"
+						]
+					},
+					{
+						"title": "Rods from God",
+						"names": [
+							"SkyNotTheLimit"
+						]
+					},
+					{
+						"title": "R\u00f6hrchen",
+						"names": [
+							"Sammy"
+						]
+					},
+					{
+						"title": "SakuraCake",
+						"names": [
+							"Awakened Redstone"
+						]
+					},
+					{
+						"title": "Shattered Stopwatch",
+						"names": [
+							"Sisby folk"
+						]
+					},
+					{
+						"title": "Shrink Ray",
+						"names": [
+							"TheBlindBandit6"
+						]
+					},
+					{
+						"title": "Skycat's Lucky Blocks",
+						"names": [
+							"skycatminepokie"
+						]
+					},
+					{
+						"title": "Spleef Toys",
+						"names": [
+							"Chai"
+						]
+					},
+					{
+						"title": "SuperMod",
+						"names": [
+							"Tomate0613"
+						]
+					},
+					{
+						"title": "Tanglr",
+						"names": [
+							"TheEpicBlock"
+						]
+					},
+					{
+						"title": "Temporang",
+						"names": [
+							"Tau (Double_Pi)"
+						]
+					},
+					{
+						"title": "The Arcane path of Chemistry",
+						"names": [
+							"ZuperZ"
+						]
+					},
+					{
+						"title": "Timewarp",
+						"names": [
+							"Dooji"
+						]
+					},
+					{
+						"title": "Unearth",
+						"names": [
+							"Ira_the_56",
+							"Squishy (squishy.com)",
+							"Aidan/Cryptic (ItsMeCryptic)",
+							"Bandit (artificial.fever)"
+						]
+					},
+					{
+						"title": "Unstable Timepiece",
+						"names": [
+							"Chai"
+						]
+					},
+					{
+						"title": "Wandering Rana",
+						"names": [
+							"UltrusBot"
+						]
+					},
+					{
+						"title": "Minecon Ruins",
+						"names": [
+							"Chai"
 						]
 					}
 				]
@@ -506,15 +506,27 @@
 						]
 					},
 					{
+						"title": "Surprise fan artist",
+						"names": [
+							"Aqua (aquaholic)"
+						]
+					},
+					{
 						"title": "Obvious Participant Plant",
 						"names": [
-							"chailotl"
+							"Chai"
 						]
 					},
 					{
 						"title": "Cyborg-human media relations",
 						"names": [
 							"CyborgPigeon"
+						]
+					},
+					{
+						"title": "Notorious painter",
+						"names": [
+							"wishi (dreamiwishi)"
 						]
 					},
 					{
@@ -544,19 +556,19 @@
 					{
 						"title": "Robotic robot whisperer",
 						"names": [
-							"Jasmine"
+							"Jasmine (jaskarth)"
 						]
 					},
 					{
 						"title": "Worm and Wall builder",
 						"names": [
-							"June"
+							"June (Khazoda)"
 						]
 					},
 					{
 						"title": "Known Vriska",
 						"names": [
-							"leo60228"
+							"vriska (leo60228)"
 						]
 					},
 					{
@@ -620,9 +632,15 @@
 						]
 					},
 					{
+						"title": "Card dealer",
+						"names": [
+							"Trudle"
+						]
+					},
+					{
 						"title": "Mario 64 Enthusiast",
 						"names": [
-							"Tropheusj"
+							"Tropheus Jay (TropheusJ)"
 						]
 					}
 				]
