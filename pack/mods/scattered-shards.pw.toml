@@ -1,13 +1,13 @@
 name = "Scattered Shards"
-filename = "scattered-shards-1.7.2+1.21.jar"
+filename = "scattered-shards-1.8.0+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DB9GU3tx/versions/2fz7fkJu/scattered-shards-1.7.2%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/DB9GU3tx/versions/ASCau3rQ/scattered-shards-1.8.0%2B1.21.jar"
 hash-format = "sha1"
-hash = "3b2b45def24ab709efc944af1c86728aca8ba41b"
+hash = "3157819181670cb34206661176a2f7a900db15ec"
 
 [update]
 [update.modrinth]
 mod-id = "DB9GU3tx"
-version = "2fz7fkJu"
+version = "ASCau3rQ"
