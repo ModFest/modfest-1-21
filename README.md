@@ -13,7 +13,7 @@ A collaboration between 76 modders, as hosted by <a href="https://modfest.net">M
 This modpack contains all submissions, as well as a showcase world built by participants to show off their mods!
 
 **Key Features**:
-- Witness the dawn of 58 mods, including **Armistice**, **Charta**, **FBombs**, and **Life-Size Bdubs**!
+- Witness the dawn of 57 mods, including **Armistice**, **Charta**, **FBombs**, and **Life-Size Bdubs**!
 - Explore a circular world split into four "ages" - Stone, Iron, Industrial, and information!
 - Traverse the map with prehistoric angry birds, fancy bombs, ninja outfits, and a *lot* of watches!
 - Whistle along to over an hour of original music made just for the event! 
