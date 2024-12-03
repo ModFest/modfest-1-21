@@ -278,16 +278,16 @@
     "files": {
       "familiar-magic.pw.toml": {
         "download": {
-          "hash": "39360ff96ec4c7280cbc32f1a6f1acab8e935036671c3245eff94506061a9869d344cad4d9d22155d765b67b6769cf6e4fd39c3fc0dfd7508bac788a71f792e4",
+          "hash": "27ff0723ef4a95d6ece2587ec62d29525160a1b05969f7a6db771086b7e22d2679c509cfd5990643b3801e340e65ab26fe1a1a0056012587c528c4fd665e4cc0",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/QbUo63gI/familiar_magic-1.0.7.jar"
+          "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/vzvyU2un/familiar_magic-1.0.8.jar"
         },
-        "filename": "familiar_magic-1.0.7.jar",
+        "filename": "familiar_magic-1.0.8.jar",
         "name": "familiar magic",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/QbUo63gI/familiar_magic-1.0.7.jar"
+    "url": "https://cdn.modrinth.com/data/BF0Jps3E/versions/vzvyU2un/familiar_magic-1.0.8.jar"
   },
   "fbombs": {
     "files": {
@@ -758,16 +758,16 @@
       },
       "parachymistry.pw.toml": {
         "download": {
-          "hash": "b25a912f6c6e7ac5e11483040d7c80f2c1949272b838dafcf0ba75cda5c47e16e1447d66ade7e39613a6d8cc7276ac4c7090835342b222a6ceb9d9ce7cc350ca",
+          "hash": "64a7f293c7f48e8000dd548c8600a0ce87bdd6fd2b8b7acef3c14b673a4537b7a77d8395bfeb58506e0bd3d5eb03dc9355ec627c216f430c0722e65bc394b8b6",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/NXo6yje3/parachymistry-1.0.2.3.jar"
+          "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/LwyyGcjM/parachymistry-1.0.2.4.jar"
         },
-        "filename": "parachymistry-1.0.2.3.jar",
+        "filename": "parachymistry-1.0.2.4.jar",
         "name": "Parachymistry",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/NXo6yje3/parachymistry-1.0.2.3.jar"
+    "url": "https://cdn.modrinth.com/data/HO4X0h3C/versions/LwyyGcjM/parachymistry-1.0.2.4.jar"
   },
   "past_el_palettes": {
     "files": {
