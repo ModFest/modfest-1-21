@@ -1,0 +1,13 @@
+name = "Spleef Toys"
+filename = "spleef_toys-1.0.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GTNhQH0z/versions/6f9NGQ6Q/spleef_toys-1.0.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "879b529e1320e2784802790e7f2e2123baff3f2fae19090c12eb65c209421682d01879e2b7f32e6be7082b237c88897a5c50de2448471b84ea10b32cfc814d99"
+
+[update]
+[update.modrinth]
+mod-id = "GTNhQH0z"
+version = "6f9NGQ6Q"
