@@ -523,16 +523,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "d0d5b5e08a6400d55a158981d8452ed0adbb7ccd7fcb6b1dd18234d92010bee7bc850cf619ed5e58fac0bc383c601aed6982cf5b909231d3b3ea11f73762dcbd",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/95bBXJVg/legacy_landscape-0.8.5%2B1.21.1.jar"
+          "hash": "7d47bb8d8ded9aecec8faa57435b79347d4d60ed5db61cd2d5f0f12342cb6c3b",
+          "hash-format": "sha256",
+          "url": "https://github.com/sisby-folk/legacy-landscape/releases/download/0.8.6/legacy_landscape-0.8.6+1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.8.5+1.21.1.jar",
+        "filename": "legacy_landscape-0.8.6+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/95bBXJVg/legacy_landscape-0.8.5%2B1.21.1.jar"
+    "url": "https://github.com/sisby-folk/legacy-landscape/releases/download/0.8.6/legacy_landscape-0.8.6+1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {

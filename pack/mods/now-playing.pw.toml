@@ -1,13 +1,13 @@
 name = "Now Playing"
-filename = "now-playing-neoforge-1.21-1.5.9.jar"
+filename = "now-playing-neoforge-1.5.11+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/eNF4Bfla/versions/ACKInJna/now-playing-neoforge-1.21-1.5.9.jar"
-hash-format = "sha512"
-hash = "16071007b17168da39414c4ac86fd6cf3a353bdf3acc8b302a0ed47c5006bbc233472f7cc76944c8c85cd3bd55b4cc8e0c41175d8fbe904f656c12e3b815d506"
+url = "https://cdn.modrinth.com/data/eNF4Bfla/versions/WrOGh0dp/now-playing-neoforge-1.5.11%2B1.21.jar"
+hash-format = "sha1"
+hash = "8368fdb2605ff4140e3b752038d06322bea251fc"
 
 [update]
 [update.modrinth]
 mod-id = "eNF4Bfla"
-version = "ACKInJna"
+version = "WrOGh0dp"
