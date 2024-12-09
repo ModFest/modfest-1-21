@@ -88,11 +88,11 @@
     "files": {
       "chickensaurs.pw.toml": {
         "download": {
-          "hash": "623cc4fcdbee329768731a0f189c841c2350b007e981ac7204c92459e7de2768d377c0a2ed54867c4f5243214fa0469d4093b5f49488beb60ba450754bb61f28",
+          "hash": "a8086375caa93f0906927cce5aaeaf9814bb56429d94b847661e7b67f5245c503d912fc8b5666189749383fcd8daf739aafc0f74e6678845a98d847eb7ec8cbd",
           "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/ZLRtV02Q/chickensaurs-fabric-1.21.1-1.0.4.jar"
+          "url": "https://cdn.modrinth.com/data/I3lDQn3Y/versions/FRNey015/chickensaurs-neoforge-1.21.1-1.0.6.jar"
         },
-        "filename": "chickensaurs-fabric-1.21.1-1.0.4.jar",
+        "filename": "chickensaurs-neoforge-1.21.1-1.0.6.jar",
         "name": "Chickensaurs",
         "side": "both"
       },
