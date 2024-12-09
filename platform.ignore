@@ -4,7 +4,7 @@
 
 # This mod has been added manually, see its .pw.toml
 craftsense
+legacy_landscape
 
 # Prevent submissions from accidentally adding this (parachymistry)
 connector.pw.toml
-
