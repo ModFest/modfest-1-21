@@ -96,7 +96,7 @@ def main():
 
 	# Write the update lock data back
 	with open(submission_lock_file, "w") as f:
-		f.write(json.dumps(lock_data, indent=2, sort_keys=True))
+		f.write(json.dumps(lock_data, indent='\t', sort_keys=True))
 
 	# Make it clear that this script didn't really do anything if event_name is null
 	if event_name == None:
