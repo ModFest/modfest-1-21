@@ -8,8 +8,3 @@ craftsense
 # Prevent submissions from accidentally adding this (parachymistry)
 connector.pw.toml
 
-# mixin apply error
-#rods_from_god
-
-#pending crash fix
-interstellar
