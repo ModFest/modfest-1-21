@@ -18,16 +18,16 @@
     "files": {
       "amys-industrious-mod.pw.toml": {
         "download": {
-          "hash": "ae749283df34b67d14e68bf864792c3f0a6e08b4",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/kfj8mdlT/industrious-1.0.2%2B1.21.jar"
+          "hash": "372edf2b3b972b03c124cfc36e181060e2009c13b52ee83ab95fbfc8b7d1e470f49e2f5ead85b182220d094185407bcb9c0380743fa87b86a4e07a5d5f2b4984",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/DdLs31aI/industrious-1.0.3%2B1.21.jar"
         },
-        "filename": "industrious-1.0.2+1.21.jar",
+        "filename": "industrious-1.0.3+1.21.jar",
         "name": "Amy's Industrious Mod",
         "side": "both"
       }
     },
-    "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/kfj8mdlT/industrious-1.0.2%2B1.21.jar"
+    "url": "https://cdn.modrinth.com/data/qDPkkwh3/versions/DdLs31aI/industrious-1.0.3%2B1.21.jar"
   },
   "armistice": {
     "files": {
@@ -53,21 +53,6 @@
       }
     },
     "url": "https://cdn.modrinth.com/data/J85FGh0c/versions/LGwciChC/armistice-1.0.0-SNAPSHOT25.jar"
-  },
-  "bubblelife": {
-    "files": {
-      "bubblelife.pw.toml": {
-        "download": {
-          "hash": "8556c036151dafb055e32c6995d2ed8f4433476471bf2e92ad692d6b9895b7bd693398fad690d23ff6d22857199df3aecc22e9dac99282645e583bfbe19c5ef7",
-          "hash-format": "sha512",
-          "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/vRqrlkdj/bubblelife-0.2.1.jar"
-        },
-        "filename": "bubblelife-0.2.1.jar",
-        "name": "Life in a Bubble",
-        "side": "both"
-      }
-    },
-    "url": "https://cdn.modrinth.com/data/yAZMEMrZ/versions/vRqrlkdj/bubblelife-0.2.1.jar"
   },
   "charta": {
     "files": {
@@ -394,41 +379,6 @@
     },
     "url": "https://cdn.modrinth.com/data/AfIa2f3W/versions/PFM4i5HT/hyphapiracea-neoforge-mc1.21.1-0.1.2.1.jar"
   },
-  "interstellar": {
-    "files": {
-      "architectury-api.pw.toml": {
-        "download": {
-          "hash": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
-        },
-        "filename": "architectury-13.0.8-neoforge.jar",
-        "name": "Architectury API",
-        "side": "both"
-      },
-      "fzzy-config.pw.toml": {
-        "download": {
-          "hash": "69ce3f058afa209870ac59e2ba83a3478b567b33",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/OBu6FL2u/fzzy_config-0.5.7%2B1.21%2Bneoforge.jar"
-        },
-        "filename": "fzzy_config-0.5.7+1.21+neoforge.jar",
-        "name": "Fzzy Config",
-        "side": "both"
-      },
-      "interstellar.pw.toml": {
-        "download": {
-          "hash": "d07cc44da734d3669d7a8894b6756e291c8c8f8b",
-          "hash-format": "sha1",
-          "url": "https://cdn.modrinth.com/data/5hSfW5Sc/versions/cDWzJQ5k/interstellar-modfest-edition-neoforge-0.1.0%2Bmc1.21.1.jar"
-        },
-        "filename": "interstellar-modfest-edition-neoforge-0.1.0+mc1.21.1.jar",
-        "name": "Interstellar",
-        "side": "both"
-      }
-    },
-    "url": "https://cdn.modrinth.com/data/5hSfW5Sc/versions/cDWzJQ5k/interstellar-modfest-edition-neoforge-0.1.0%2Bmc1.21.1.jar"
-  },
   "just_another_witchery_remake": {
     "files": {
       "architectury-api.pw.toml": {
@@ -523,16 +473,16 @@
     "files": {
       "legacy-landscape.pw.toml": {
         "download": {
-          "hash": "7d47bb8d8ded9aecec8faa57435b79347d4d60ed5db61cd2d5f0f12342cb6c3b",
-          "hash-format": "sha256",
-          "url": "https://github.com/sisby-folk/legacy-landscape/releases/download/0.8.6/legacy_landscape-0.8.6+1.21.1.jar"
+          "hash": "d0d5b5e08a6400d55a158981d8452ed0adbb7ccd7fcb6b1dd18234d92010bee7bc850cf619ed5e58fac0bc383c601aed6982cf5b909231d3b3ea11f73762dcbd",
+          "hash-format": "sha512",
+          "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/95bBXJVg/legacy_landscape-0.8.5%2B1.21.1.jar"
         },
-        "filename": "legacy_landscape-0.8.6+1.21.1.jar",
+        "filename": "legacy_landscape-0.8.5+1.21.1.jar",
         "name": "Legacy Landscape",
         "side": "both"
       }
     },
-    "url": "https://github.com/sisby-folk/legacy-landscape/releases/download/0.8.6/legacy_landscape-0.8.6+1.21.1.jar"
+    "url": "https://cdn.modrinth.com/data/EMniOm7T/versions/95bBXJVg/legacy_landscape-0.8.5%2B1.21.1.jar"
   },
   "life_size_bdubs": {
     "files": {
