@@ -40,5 +40,12 @@
     "description": "Mods pushing the medium with fresh, surprising ideas.",
     "type": "community",
     "limit": 3
+  },
+  {
+	"id": "best_booth",
+	"name": "Best Booth",
+	"description": "Mods showcased in creative, interesting, or dazzling ways.",
+	"type": "community",
+	"limit": 5
   }
 ]
