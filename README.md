@@ -16,7 +16,7 @@ This modpack contains all submissions, as well as a showcase world built by part
 - Witness the dawn of 57 mods, including **Armistice**, **Charta**, **FBombs**, and **Life-Size Bdubs**!
 - Explore a circular world split into four "ages" - Stone, Iron, Industrial, and information!
 - Traverse the map with prehistoric angry birds, fancy bombs, ninja outfits, and a *lot* of watches!
-- Whistle along to over an hour of original music made just for the event! 
+- Whistle along to [over an hour of original music](https://modfest.bandcamp.com/album/modfest-121-time-technology-throwbacks-original-modpack-soundtrack) made just for the event! 
 - Find and earn 130 collectible "shards", tracking booth visits, exploration, and mastery!
 - Decide for yourself - was the town of Stasis really eaten by a world-swallowing dragon? or is that just what the locals believe?
 
